@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -36,6 +36,14 @@ jobs:
 
       - name: Generate Wizards RSS
         run: python generate_wizards_feed.py
+
+      - name: Save Metagame history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metagame-history.json
+          git diff --cached --quiet || git commit -m "Update Metagame RSS history"
+          git push
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
