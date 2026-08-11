@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-       - name: Generate Metagame RSS
+      - name: Generate Metagame RSS
         run: python generate_feed.py
         continue-on-error: true
 
@@ -44,11 +44,12 @@ jobs:
 
   deploy:
     needs: build
+    if: ${{ always() && needs.build.result != 'cancelled' }}
     runs-on: ubuntu-latest
 
     environment:
       name: github-pages
-      url: "${{ steps.deployment.outputs.page_url }}"
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
