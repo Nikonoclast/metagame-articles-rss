@@ -10,12 +10,18 @@ from bs4 import BeautifulSoup
 
 BASE = "https://metagame.info"
 ARCHIVE = f"{BASE}/en-us/mtg/articles"
+JINA_PREFIX = "https://r.jina.ai/"
 OUTPUT = Path("feed.xml")
+
 MAX_PAGES = 20
 MAX_ITEMS = 100
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; MetagameRSS/1.0)"
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/150.0 Safari/537.36"
+    )
 }
 
 session = requests.Session()
@@ -30,7 +36,7 @@ def parse_date(text):
     match = re.search(
         r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)"
         r"\s+\d{1,2},\s+\d{4}\b",
-        text,
+        text or "",
     )
 
     if not match:
@@ -38,26 +44,45 @@ def parse_date(text):
 
     try:
         return datetime.strptime(
-            match.group(), "%b %d, %Y"
+            match.group(),
+            "%b %d, %Y",
         ).replace(tzinfo=timezone.utc)
     except ValueError:
         return None
 
 
-def get_page(page_number):
-    if page_number == 1:
-        url = ARCHIVE
-    else:
-        url = f"{ARCHIVE}?page={page_number}"
+def direct_page(url):
+    response = session.get(url, timeout=30)
 
-    response = session.get(url, timeout=20)
+    if response.status_code == 403:
+        print(f"Metagame returned 403 for {url}")
+        return None, True
+
     response.raise_for_status()
 
-    return BeautifulSoup(response.text, "html.parser")
+    return BeautifulSoup(response.text, "html.parser"), False
 
 
-def extract_articles(soup):
-    articles = []
+def jina_page(url):
+    jina_url = JINA_PREFIX + url
+
+    print(f"Using Jina Reader for {url}")
+
+    response = session.get(
+        jina_url,
+        timeout=45,
+        headers={
+            "User-Agent": "MetagameRSS/1.0"
+        },
+    )
+
+    response.raise_for_status()
+
+    return response.text
+
+
+def extract_html_articles(soup):
+    articles = {}
 
     for link in soup.select('a[href*="/en-us/mtg/articles/"]'):
         href = urljoin(BASE, link.get("href", ""))
@@ -72,67 +97,128 @@ def extract_articles(soup):
         if not href.startswith(f"{ARCHIVE}/"):
             continue
 
-        # The article card contains the publication date.
         parent = link.parent
+        card_text = ""
 
-        # Look at a few levels of parents because the exact card
-        # structure can change slightly.
-        for _ in range(4):
+        for _ in range(5):
             if parent is None:
                 break
 
             text = clean(parent.get_text(" ", strip=True))
 
             if parse_date(text):
+                card_text = text
                 break
 
             parent = parent.parent
 
-        published = parse_date(text) if parent else None
+        published = parse_date(card_text)
 
         if published is None:
             continue
 
-        articles.append({
+        articles[href] = {
             "title": title,
             "link": href,
             "published": published,
-        })
+        }
 
-    return articles
+    return list(articles.values())
+
+
+def extract_jina_articles(markdown):
+    articles = {}
+
+    # Jina returns Markdown links such as:
+    #
+    # [Article Title](https://metagame.info/en-us/mtg/articles/...)
+    #
+    link_pattern = re.compile(
+        r"\[([^\]]+)\]\((https://metagame\.info/en-us/mtg/articles/[^\s\)]+)\)"
+    )
+
+    matches = list(link_pattern.finditer(markdown))
+
+    for match in matches:
+        title = clean(match.group(1))
+        href = match.group(2)
+
+        if not title:
+            continue
+
+        # Look around the link for the date.
+        start = max(0, match.start() - 500)
+        end = min(len(markdown), match.end() + 500)
+
+        surrounding = markdown[start:end]
+        published = parse_date(surrounding)
+
+        if published is None:
+            continue
+
+        articles[href] = {
+            "title": title,
+            "link": href,
+            "published": published,
+        }
+
+    return list(articles.values())
+
+
+def get_archive_page(page_number):
+    if page_number == 1:
+        url = ARCHIVE
+    else:
+        url = f"{ARCHIVE}?page={page_number}"
+
+    # Try Metagame directly first.
+    try:
+        result, blocked = direct_page(url)
+
+        if not blocked:
+            return extract_html_articles(result)
+
+    except requests.RequestException as error:
+        print(f"Direct request failed for page {page_number}: {error}")
+
+    # If direct access is blocked, use Jina Reader.
+    try:
+        markdown = jina_page(url)
+        return extract_jina_articles(markdown)
+
+    except requests.RequestException as error:
+        print(f"Jina Reader failed for page {page_number}: {error}")
+        return []
 
 
 def collect_articles():
-    found = {}
+    articles = {}
 
     for page in range(1, MAX_PAGES + 1):
-        try:
-            soup = get_page(page)
-        except requests.RequestException as error:
-            print(f"Could not fetch page {page}: {error}")
+        found = get_archive_page(page)
+
+        print(
+            f"Page {page}: found {len(found)} articles"
+        )
+
+        if not found:
+            # Stop when an archive page contains no articles.
             break
 
-        articles = extract_articles(soup)
+        for article in found:
+            articles[article["link"]] = article
 
-        print(f"Page {page}: found {len(articles)} articles")
+    result = list(articles.values())
 
-        if not articles:
-            break
-
-        for article in articles:
-            found[article["link"]] = article
-
-    articles = list(found.values())
-
-    articles.sort(
-        key=lambda item: (
-            item["published"],
-            item["title"],
+    result.sort(
+        key=lambda article: (
+            article["published"],
+            article["title"],
         ),
         reverse=True,
     )
 
-    return articles[:MAX_ITEMS]
+    return result[:MAX_ITEMS]
 
 
 def create_rss(articles):
@@ -144,7 +230,9 @@ def create_rss(articles):
         "  <channel>",
         "    <title>Metagame.info - Magic: The Gathering Articles</title>",
         f"    <link>{html.escape(ARCHIVE)}</link>",
-        "    <description>Latest Magic: The Gathering articles from Metagame.info.</description>",
+        "    <description>",
+        "Latest Magic: The Gathering articles from Metagame.info.",
+        "</description>",
         "    <language>en-us</language>",
         f"    <lastBuildDate>{format_datetime(now, usegmt=True)}</lastBuildDate>",
     ]
@@ -187,7 +275,10 @@ def main():
         encoding="utf-8",
     )
 
-    print(f"Successfully created RSS feed with {len(articles)} articles.")
+    print(
+        f"Successfully created RSS feed "
+        f"with {len(articles)} articles."
+    )
 
 
 if __name__ == "__main__":
