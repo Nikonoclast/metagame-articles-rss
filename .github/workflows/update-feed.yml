@@ -1,4 +1,4 @@
-name: Update Metagame RSS feed
+name: Update RSS feeds
 
 on:
   schedule:
@@ -37,6 +37,9 @@ jobs:
       - name: Generate Wizards RSS
         run: python generate_wizards_feed.py
 
+      - name: Generate EDHREC RSS
+        run: python generate_edhrec_feed.py
+
       - name: Save Metagame history
         run: |
           git config user.name "github-actions[bot]"
@@ -52,7 +55,6 @@ jobs:
 
   deploy:
     needs: build
-    if: ${{ always() && needs.build.result != 'cancelled' }}
     runs-on: ubuntu-latest
 
     environment:
