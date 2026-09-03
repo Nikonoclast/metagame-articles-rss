@@ -65,15 +65,89 @@ def extract_date(element):
     return None
 
 
+def extract_author(element):
+    """
+    Try to find the author from the article card.
+    """
+    current = element
+
+    for _ in range(7):
+        if current is None:
+            break
+
+        text = current.get_text(" ", strip=True)
+
+        match = re.search(
+            r"\bby\s+([A-Za-z0-9 .,'&+\-]+?)(?:\s{2,}|$)",
+            text,
+            re.IGNORECASE
+        )
+
+        if match:
+            author = match.group(1).strip()
+
+            if author and len(author) < 100:
+                return author
+
+        current = current.parent
+
+    return ""
+
+
+def extract_description(element, title):
+    """
+    Try to find the article description from the article card.
+    """
+    current = element
+
+    for _ in range(5):
+        if current is None:
+            break
+
+        text = current.get_text(" ", strip=True)
+
+        # Remove title and common metadata.
+        text = text.replace(title, "", 1)
+
+        text = re.sub(
+            DATE_PATTERN,
+            "",
+            text
+        )
+
+        text = re.sub(
+            r"\bby\s+[A-Za-z0-9 .,'&+\-]+",
+            "",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        text = re.sub(
+            r"\s+",
+            " ",
+            text
+        ).strip()
+
+        # Ignore very short pieces of text.
+        if len(text) >= 30 and len(text) < 1000:
+            return text
+
+        current = current.parent
+
+    return title
+
+
 def extract_articles():
     articles = []
     seen = set()
 
     for page in range(1, MAX_PAGES + 1):
+
+        # EDHREC uses ?page=2 rather than /page/2.
         if page == 1:
             url = ARCHIVE_URL
         else:
-            url = f"{ARCHIVE_URL}/page/{page}"
+            url = f"{ARCHIVE_URL}?page={page}"
 
         print(f"Fetching EDHREC article page {page}: {url}")
 
@@ -83,22 +157,24 @@ def extract_articles():
             href = urljoin(BASE_URL, link["href"])
             parsed = urlparse(href)
 
-            # Only actual article URLs:
-            # /articles/article-slug
+            # Only EDHREC links.
             if parsed.netloc != "edhrec.com":
                 continue
 
             path = parsed.path.rstrip("/")
 
+            # Article URLs look like:
+            # /articles/article-slug
             if not path.startswith("/articles/"):
                 continue
 
             remainder = path[len("/articles/"):]
 
-            # Exclude pagination, tags, authors, etc.
+            # Article slugs should not contain another slash.
             if not remainder or "/" in remainder:
                 continue
 
+            # Exclude known non-article pages.
             excluded = {
                 "for-writers",
                 "authors",
@@ -118,15 +194,16 @@ def extract_articles():
             if not title:
                 continue
 
-            # Avoid navigation links that aren't article titles.
             if len(title) < 5:
                 continue
 
             pub_date = extract_date(link)
 
-            # Only accept entries where we found a publication date.
             if pub_date is None:
                 continue
+
+            author = extract_author(link)
+            description = extract_description(link, title)
 
             seen.add(href)
 
@@ -134,6 +211,8 @@ def extract_articles():
                 "title": title,
                 "link": href,
                 "pub_date": pub_date,
+                "author": author,
+                "description": description,
             })
 
             if len(articles) >= MAX_ITEMS:
@@ -142,7 +221,7 @@ def extract_articles():
         if len(articles) >= MAX_ITEMS:
             break
 
-    # Newest first
+    # Newest first.
     articles.sort(
         key=lambda x: x["pub_date"],
         reverse=True
@@ -163,13 +242,22 @@ def build_rss(articles):
     for article in articles:
         pub_date = format_datetime(article["pub_date"])
 
+        author_xml = ""
+
+        if article["author"]:
+            author_xml = (
+                f"\n      <author>"
+                f"{xml_escape(article['author'])}"
+                f"</author>"
+            )
+
         items.append(
             f"""    <item>
       <title>{xml_escape(article["title"])}</title>
       <link>{xml_escape(article["link"])}</link>
       <guid isPermaLink="true">{xml_escape(article["link"])}</guid>
-      <pubDate>{pub_date}</pubDate>
-      <description>{xml_escape(article["title"])}</description>
+      <pubDate>{pub_date}</pubDate>{author_xml}
+      <description>{xml_escape(article["description"])}</description>
     </item>"""
         )
 
@@ -177,7 +265,7 @@ def build_rss(articles):
 <rss version="2.0">
   <channel>
     <title>EDHREC Articles</title>
-    <link>{FEED_URL.rsplit("/", 1)[0]}</link>
+    <link>{ARCHIVE_URL}</link>
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <lastBuildDate>{format_datetime(now)}</lastBuildDate>
