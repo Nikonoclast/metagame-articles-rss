@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 17:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Secret Lair: Set Phasers to Superdrop</title>
+      <link>https://www.magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Magic: The Gathering® | Star Trek™ Commander Decklists</title>
       <link>https://www.magic.wizards.com/en/news/announcements/star-trek-commander-decklists</link>
