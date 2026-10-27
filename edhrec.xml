@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Secret Lair Announces &quot;Set Phasers to Superdrop&quot; by Josh Nelson</title>
+      <link>https://edhrec.com/articles/secret-lair-announces-set-phasers-to-superdrop</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-announces-set-phasers-to-superdrop</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
       <title>Star Trek Deck Tech: Borg Queen, Perfection Manifest by Bennie Smith</title>
       <link>https://edhrec.com/articles/star-trek-deck-tech-borg-queen-perfection-manifest</link>
       <guid isPermaLink="true">https://edhrec.com/articles/star-trek-deck-tech-borg-queen-perfection-manifest</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/khan-vengeful-heart-the-new-face-of-cedh-food-chain-combo</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Harvey McGuinness</dc:creator>
+      <description>cEDH 10/27/26 Will cEDH tables see Khan, Vengeful Heart revive Food Chain combos? Harvey looks at the new card&#x27;s pros and cons for Korvold and others.</description>
     </item>
     <item>
       <title>Five Ways To Use The Darkhold by Alejandro Fuentes</title>
