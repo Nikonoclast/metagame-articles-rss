@@ -1,234 +1,174 @@
-import html
-import json
-import xml.etree.ElementTree as ET
+"""Builds feed.xml from the article archive on metagame.info.
+
+Reads the archive pages directly (newest first), remembers every article it
+has seen in metagame-articles.json, and always writes a feed, even if the
+website is unreachable this run (it just reuses what it remembered).
+"""
+
+import re
+import sys
+import time
 from datetime import datetime, timezone
-from email.utils import format_datetime, parsedate_to_datetime
-from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import urljoin, urlparse
 
 import requests
+from bs4 import BeautifulSoup
 
-OUTPUT = Path("feed.xml")
-HISTORY = Path("metagame-history.json")
+import feedlib
 
-GOOGLE_NEWS_URL = (
-    "https://news.google.com/rss/search"
-    "?q=" + quote("site:metagame.info/en-us/mtg/articles")
-    + "&hl=en-US&gl=US&ceid=US:en"
+BASE = "https://metagame.info"
+ARCHIVE = f"{BASE}/en-us/mtg/articles"
+HISTORY_FILE = "metagame-articles.json"
+OUTPUT_FILE = "feed.xml"
+FEED_URL = f"{feedlib.SITE_BASE}/feed.xml"
+MAX_PAGES = 8           # pages to read on the very first run
+INCREMENTAL_PAGES = 3   # pages to read on later runs (new articles are always on top)
+MAX_ITEMS = 100
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 
-MAX_ITEMS = 100
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; MetagameRSS/1.0)"
-}
+DATE = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{4}"
+DATE_RE = re.compile(DATE)
+ARTICLE_PATH = re.compile(r"^/en-us/mtg/articles/([^/]+)/?$")
 
 
-def clean(text):
-    return " ".join((text or "").split()).strip()
+def find_title(anchor, text, date_match, slug):
+    heading = anchor.find(["h1", "h2", "h3", "h4", "h5", "h6"])
+    if heading:
+        title = feedlib.clean(heading.get_text(" ", strip=True))
+        if title:
+            return title
+    # Archive cards read: "<title> article <title> shoppingmode <category> ..."
+    match = re.match(r"^(.+?)\s+article\s+\1(?:\s|$)", text)
+    if match:
+        return match.group(1)
+    match = re.match(r"^(.+?)\s+article\s+(?:shoppingmode|face)\b", text)
+    if match:
+        return match.group(1)
+    # Sidebar cards read: "<category> · by <author> · <date> <title>"
+    after = text[date_match.end():].strip()
+    if after:
+        return after
+    return slug.replace("-", " ").title()
 
 
-def parse_date(value):
-    if not value:
-        return datetime.now(timezone.utc)
+def parse_card(anchor):
+    """Turn one <a> tag into an article dict, or None if it isn't an article card."""
+    parsed = urlparse(urljoin(BASE, anchor.get("href", "")))
+    if parsed.netloc not in ("metagame.info", "www.metagame.info"):
+        return None
+    match = ARTICLE_PATH.match(parsed.path)
+    if not match:
+        return None
+    slug = match.group(1)
 
+    text = feedlib.clean(anchor.get_text(" ", strip=True))
+    date_match = DATE_RE.search(text)
+    if not date_match:
+        return None  # e.g. translated duplicate links in the sidebar
     try:
-        date = parsedate_to_datetime(value)
+        published = datetime.strptime(date_match.group(0), "%b %d, %Y")
+    except ValueError:
+        return None
+    published = published.replace(tzinfo=timezone.utc)
 
-        if date.tzinfo is None:
-            date = date.replace(tzinfo=timezone.utc)
+    author = category = ""
+    found = re.search(r"\bface\s+(.+?)\s+" + DATE, text)
+    if found:
+        author = found.group(1)
+    found = re.search(r"\bshoppingmode\s+(.+?)\s+favorite\b", text)
+    if found:
+        category = found.group(1)
+    if not author:
+        found = re.search(r"\bby\s+(.+?)\s+·\s+" + DATE, text)
+        if found:
+            author = found.group(1)
+    if not category:
+        found = re.match(r"^(.+?)\s+·\s+by\b", text)
+        if found:
+            category = found.group(1)
 
-        return date.astimezone(timezone.utc)
+    description = category
+    if author:
+        description = f"{category} - by {author}" if category else f"By {author}"
 
-    except (TypeError, ValueError):
-        return datetime.now(timezone.utc)
-
-
-def load_history():
-    if not HISTORY.exists():
-        return []
-
-    try:
-        data = json.loads(
-            HISTORY.read_text(encoding="utf-8")
-        )
-
-        if isinstance(data, list):
-            return data
-
-    except (json.JSONDecodeError, OSError) as error:
-        print(f"Could not read history: {error}")
-
-    return []
-
-
-def save_history(articles):
-    HISTORY.write_text(
-        json.dumps(
-            articles,
-            indent=2,
-            ensure_ascii=False,
-        ),
-        encoding="utf-8",
-    )
+    return {
+        "title": find_title(anchor, text, date_match, slug),
+        "link": f"{BASE}/en-us/mtg/articles/{slug}",
+        "published": feedlib.to_iso(published),
+        "author": author,
+        "category": category,
+        "description": description,
+    }
 
 
-def fetch_google_news():
-    print("Fetching Google News RSS...")
-
-    response = requests.get(
-        GOOGLE_NEWS_URL,
-        headers=HEADERS,
-        timeout=30,
-    )
-
-    response.raise_for_status()
-
-    return response.content
-
-
-def extract_articles(xml_data):
-    root = ET.fromstring(xml_data)
-
-    articles = []
-
-    for item in root.findall(".//item"):
-        title = clean(
-            item.findtext("title")
-        )
-
-        link = clean(
-            item.findtext("link")
-        )
-
-        pub_date = item.findtext("pubDate")
-
-        if not title or not link:
+def extract_cards(soup):
+    cards = {}
+    for anchor in soup.find_all("a", href=True):
+        card = parse_card(anchor)
+        if not card:
             continue
-
-        articles.append({
-            "title": title,
-            "link": link,
-            "published": format_datetime(
-                parse_date(pub_date),
-                usegmt=True,
-            ),
-        })
-
-    return articles
-
-
-def merge_articles(history, new_articles):
-    combined = {}
-
-    for article in history:
-        link = article.get("link")
-
-        if link:
-            combined[link] = article
-
-    for article in new_articles:
-        link = article.get("link")
-
-        if link:
-            combined[link] = article
-
-    articles = list(combined.values())
-
-    def sort_key(article):
-        try:
-            return parsedate_to_datetime(
-                article.get("published", "")
-            )
-        except (TypeError, ValueError):
-            return datetime.min.replace(
-                tzinfo=timezone.utc
-            )
-
-    articles.sort(
-        key=sort_key,
-        reverse=True,
-    )
-
-    return articles[:MAX_ITEMS]
-
-
-def create_rss(articles):
-    now = datetime.now(timezone.utc)
-
-    lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<rss version="2.0">',
-        "  <channel>",
-        "    <title>Metagame.info - Magic: The Gathering Articles</title>",
-        "    <link>https://metagame.info/en-us/mtg/articles</link>",
-        "    <description>",
-        "Latest Magic: The Gathering articles from Metagame.info.",
-        "</description>",
-        "    <language>en-us</language>",
-        f"    <lastBuildDate>{format_datetime(now, usegmt=True)}</lastBuildDate>",
-    ]
-
-    for article in articles:
-        title = html.escape(article["title"])
-        link = html.escape(article["link"])
-        pub_date = html.escape(article["published"])
-
-        lines.extend([
-            "    <item>",
-            f"      <title>{title}</title>",
-            f"      <link>{link}</link>",
-            f"      <guid isPermaLink=\"false\">{link}</guid>",
-            f"      <pubDate>{pub_date}</pubDate>",
-            "    </item>",
-        ])
-
-    lines.extend([
-        "  </channel>",
-        "</rss>",
-    ])
-
-    return "\n".join(lines) + "\n"
+        existing = cards.get(card["link"])
+        if existing is None or len(card["title"]) > len(existing["title"]):
+            cards[card["link"]] = card
+    return cards
 
 
 def main():
-    history = load_history()
+    history = feedlib.load_history(HISTORY_FILE)
+    session = feedlib.make_session(USER_AGENT)
+    collected = {}
+    fetch_error = None
 
-    print(
-        f"Existing Metagame history: "
-        f"{len(history)} articles"
+    page_limit = INCREMENTAL_PAGES if history else MAX_PAGES
+    for page in range(1, page_limit + 1):
+        url = ARCHIVE if page == 1 else f"{ARCHIVE}?page={page}"
+        try:
+            page_html = feedlib.fetch_text(session, url)
+        except requests.RequestException as error:
+            fetch_error = error
+            print(f"Could not load {url}: {error}")
+            break
+
+        cards = extract_cards(BeautifulSoup(page_html, "html.parser"))
+        print(f"Page {page}: found {len(cards)} articles")
+        if not cards:
+            break
+
+        unknown = [link for link in cards if link not in history and link not in collected]
+        for link, card in cards.items():
+            collected.setdefault(link, card)
+
+        # Once a whole page is already known there is nothing older to find.
+        if history and not unknown:
+            break
+        time.sleep(1)
+
+    if not collected and not history:
+        print("ERROR: no articles found and nothing saved from earlier runs.")
+        sys.exit(1)
+
+    items = feedlib.merge_items(history, list(collected.values()), MAX_ITEMS)
+    new_count = sum(1 for item in items if item["link"] not in history)
+
+    feedlib.save_history(HISTORY_FILE, items)
+    feedlib.write_text(
+        OUTPUT_FILE,
+        feedlib.build_rss(
+            title="Metagame.info - Magic: The Gathering Articles",
+            link=ARCHIVE,
+            description="Latest Magic: The Gathering articles from Metagame.info",
+            feed_url=FEED_URL,
+            items=items,
+        ),
     )
+    print(f"Wrote {OUTPUT_FILE}: {len(items)} articles ({new_count} new)")
 
-    xml_data = fetch_google_news()
-
-    new_articles = extract_articles(xml_data)
-
-    print(
-        f"Google News returned "
-        f"{len(new_articles)} Metagame articles."
-    )
-
-    if not new_articles and not history:
-        raise RuntimeError(
-            "No Metagame articles found and no existing history."
-        )
-
-    combined = merge_articles(
-        history,
-        new_articles,
-    )
-
-    save_history(combined)
-
-    OUTPUT.write_text(
-        create_rss(combined),
-        encoding="utf-8",
-    )
-
-    print(
-        f"Metagame history now contains "
-        f"{len(combined)} articles."
-    )
+    if fetch_error and not collected:
+        # Feed was still written from saved data, but flag the problem.
+        sys.exit(1)
 
 
 if __name__ == "__main__":
