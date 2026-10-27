@@ -2,66 +2,107 @@ name: Update RSS feeds
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    # Two chances per hour, at off-peak minutes (GitHub drops busy-minute runs).
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
+# Never cancel a run that is half-way through; just queue the next one.
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: update-feeds
+  cancel-in-progress: false
+
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    outputs:
+      uploaded: ${{ steps.upload.outcome }}
     steps:
-      - name: Checkout
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate Metagame RSS
-        run: python generate_feed.py
+      # Each feed runs on its own: one failing never blocks the others.
+      - name: Generate Metagame feed
+        id: metagame
         continue-on-error: true
+        run: python generate_feed.py
 
-      - name: Generate Wizards RSS
+      - name: Generate Wizards feed
+        id: wizards
+        continue-on-error: true
         run: python generate_wizards_feed.py
 
-      - name: Generate EDHREC RSS
+      - name: Generate EDHREC feed
+        id: edhrec
+        continue-on-error: true
         run: python generate_edhrec_feed.py
 
-      - name: Save Metagame history
+      # Saves the feeds and their memory files back to the repository so the
+      # last good version always survives a failed run.
+      - name: Save feeds and history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metagame-history.json
-          git diff --cached --quiet || git commit -m "Update Metagame RSS history"
-          git push
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Update feeds"
+            git pull --rebase
+            git push
+          fi
 
-      - name: Upload Pages artifact
+      - name: Prepare website folder
+        run: |
+          mkdir -p _site
+          for f in feed.xml wizards-mtg.xml edhrec.xml; do
+            if [ ! -f "$f" ]; then
+              echo "::error::$f does not exist, so the website was not updated."
+              exit 1
+            fi
+            cp "$f" _site/
+          done
+          if [ -f index.html ]; then cp index.html _site/; fi
+
+      - name: Upload website
+        id: upload
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
+
+      # Turns the run red (and sends you the usual GitHub email) if any feed
+      # failed, even though the other feeds were still published.
+      - name: Report any failed feed
+        if: ${{ steps.metagame.outcome == 'failure' || steps.wizards.outcome == 'failure' || steps.edhrec.outcome == 'failure' }}
+        run: |
+          echo "::error::At least one feed failed to refresh. Open the step list above to see which one."
+          exit 1
 
   deploy:
     needs: build
+    if: ${{ !cancelled() && needs.build.outputs.uploaded == 'success' }}
     runs-on: ubuntu-latest
-
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Publish to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
