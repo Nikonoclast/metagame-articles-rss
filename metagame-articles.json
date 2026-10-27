@@ -1,0 +1,666 @@
+[
+ {
+  "title": "Legacy Aluren Legacy Deck Guide And Sideboard Choices",
+  "link": "https://metagame.info/en-us/mtg/articles/legacy-aluren-legacy-deck-guide-and-sideboard-choices",
+  "published": "2026-10-26T00:00:00Z",
+  "author": "Francesco & Nicholas",
+  "category": "Legacy",
+  "description": "Legacy - by Francesco & Nicholas"
+ },
+ {
+  "title": "Premodern Uw Replenish Decklist And Sideboard Ultimate Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/premodern-uw-replenish-decklist-and-sideboard-ultimate-guide",
+  "published": "2026-10-25T00:00:00Z",
+  "author": "Elia Felisati",
+  "category": "Premodern",
+  "description": "Premodern - by Elia Felisati"
+ },
+ {
+  "title": "Premodern Premodern Enchantress This Four Creature Deck Is In Great Shape",
+  "link": "https://metagame.info/en-us/mtg/articles/premodern-premodern-enchantress-this-four-creature-deck-is-in-great-shape",
+  "published": "2026-10-23T00:00:00Z",
+  "author": "Thommy",
+  "category": "Premodern",
+  "description": "Premodern - by Thommy"
+ },
+ {
+  "title": "News Magic Star Trek The Borg And Captain Picard S Tea Arrive Seven New Cards Revealed",
+  "link": "https://metagame.info/en-us/mtg/articles/news-magic-star-trek-the-borg-and-captain-picard-s-tea-arrive-seven-new-cards-revealed",
+  "published": "2026-10-22T00:00:00Z",
+  "author": "Alex",
+  "category": "News",
+  "description": "News - by Alex"
+ },
+ {
+  "title": "Modern Modern Affinity The Ultimate Deck And Sideboard Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-modern-affinity-the-ultimate-deck-and-sideboard-guide",
+  "published": "2026-10-19T00:00:00Z",
+  "author": "Adam",
+  "category": "Modern",
+  "description": "Modern - by Adam"
+ },
+ {
+  "title": "Finance Mtg Finance New Spikes In Premodern Commander And Magic Online",
+  "link": "https://metagame.info/en-us/mtg/articles/finance-mtg-finance-new-spikes-in-premodern-commander-and-magic-online",
+  "published": "2026-10-16T00:00:00Z",
+  "author": "Paolo",
+  "category": "Finance",
+  "description": "Finance - by Paolo"
+ },
+ {
+  "title": "Pikula Tokens Legacy: Top 4 at Eternal Weekend Europe",
+  "link": "https://metagame.info/en-us/mtg/articles/pikula-tokens-legacy-top-4-at-eternal-weekend-europe",
+  "published": "2026-10-16T00:00:00Z",
+  "author": "Fioletti Niccolò",
+  "category": "Legacy",
+  "description": "Legacy - by Fioletti Niccolò"
+ },
+ {
+  "title": "Modern Eldrazi Broodscale Combo Decklist And Sideboard Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-eldrazi-broodscale-combo-decklist-and-sideboard-guide",
+  "published": "2026-10-14T00:00:00Z",
+  "author": "Adam",
+  "category": "Modern",
+  "description": "Modern - by Adam"
+ },
+ {
+  "title": "News Underpriced Magic Cards On Cardtrader Zero The Mtg Finance Telegram Group",
+  "link": "https://metagame.info/en-us/mtg/articles/news-underpriced-magic-cards-on-cardtrader-zero-the-mtg-finance-telegram-group",
+  "published": "2026-10-13T00:00:00Z",
+  "author": "Paolo Casucci",
+  "category": "News",
+  "description": "News - by Paolo Casucci"
+ },
+ {
+  "title": "Modern Modern Mtg September 2026 Metagame And Deck Analysis",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-modern-mtg-september-2026-metagame-and-deck-analysis",
+  "published": "2026-10-12T00:00:00Z",
+  "author": "Karol Malota",
+  "category": "Modern",
+  "description": "Modern - by Karol Malota"
+ },
+ {
+  "title": "Pauper How Much Does A Pauper Deck Cost Mono Red Madness",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-how-much-does-a-pauper-deck-cost-mono-red-madness",
+  "published": "2026-10-05T00:00:00Z",
+  "author": "Flavio Ausilio",
+  "category": "Pauper",
+  "description": "Pauper - by Flavio Ausilio"
+ },
+ {
+  "title": "Pauper Mono Blue Terror The Ultimate Guide To The Deck And Sideboard",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-mono-blue-terror-the-ultimate-guide-to-the-deck-and-sideboard",
+  "published": "2026-10-04T00:00:00Z",
+  "author": "Adam",
+  "category": "Pauper",
+  "description": "Pauper - by Adam"
+ },
+ {
+  "title": "Premodern Moneyball Black Premodern The Complete Deck And Sideboard Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/premodern-moneyball-black-premodern-the-complete-deck-and-sideboard-guide",
+  "published": "2026-09-27T00:00:00Z",
+  "author": "Alex",
+  "category": "Premodern",
+  "description": "Premodern - by Alex"
+ },
+ {
+  "title": "Finance Mtg Reality Fracture Top 10 Most Expensive Fra Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/finance-mtg-reality-fracture-top-10-most-expensive-fra-cards",
+  "published": "2026-09-25T00:00:00Z",
+  "author": "Alex",
+  "category": "Finance",
+  "description": "Finance - by Alex"
+ },
+ {
+  "title": "Limited Mtg Reality Fracture Prerelease Sealed And Draft Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/limited-mtg-reality-fracture-prerelease-sealed-and-draft-guide",
+  "published": "2026-09-24T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Limited",
+  "description": "Limited - by Metagame Staff"
+ },
+ {
+  "title": "Modern Mtg Metagame Analysis And 10 Competitive Decklists",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-mtg-metagame-analysis-and-10-competitive-decklists",
+  "published": "2026-09-21T00:00:00Z",
+  "author": "Andrea Paglialunga",
+  "category": "Modern",
+  "description": "Modern - by Andrea Paglialunga"
+ },
+ {
+  "title": "Commander Mtg Reality Fracture Commander The 5 Best Frc Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/commander-mtg-reality-fracture-commander-the-5-best-frc-cards",
+  "published": "2026-09-20T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Commander",
+  "description": "Commander - by Metagame Staff"
+ },
+ {
+  "title": "Guide Mtg Reality Fracture Top 10 Best Cards From Frc",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-mtg-reality-fracture-top-10-best-cards-from-frc",
+  "published": "2026-09-19T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Modern Modern Mole Destination Qualifier Metagame And Results",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-modern-mole-destination-qualifier-metagame-and-results",
+  "published": "2026-09-16T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Modern",
+  "description": "Modern - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Modern Devoted Druid Combo A Comprehensive Guide Decklist And Sideboard",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-devoted-druid-combo-a-comprehensive-guide-decklist-and-sideboard",
+  "published": "2026-09-13T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Modern",
+  "description": "Modern - by Metagame Staff"
+ },
+ {
+  "title": "News Doomsday Zeta Art Japanese Controversy Over Atomic Bomb Mushroom",
+  "link": "https://metagame.info/en-us/mtg/articles/news-doomsday-zeta-art-japanese-controversy-over-atomic-bomb-mushroom",
+  "published": "2026-09-12T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "News",
+  "description": "News - by Metagame Staff"
+ },
+ {
+  "title": "Legacy Cup Winner Magicon Amsterdam 2026",
+  "link": "https://metagame.info/en-us/mtg/articles/legacy-cup-winner-magicon-amsterdam-2026",
+  "published": "2026-09-09T00:00:00Z",
+  "author": "Mike",
+  "category": "Legacy",
+  "description": "Legacy - by Mike"
+ },
+ {
+  "title": "Pauper Zeta Set Top 10 New Pauper Legal Commons",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-zeta-set-top-10-new-pauper-legal-commons",
+  "published": "2026-09-06T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Pauper",
+  "description": "Pauper - by Metagame Staff"
+ },
+ {
+  "title": "News Zeta Set And Pauper Legality Bans Controversies And Goatbots",
+  "link": "https://metagame.info/en-us/mtg/articles/news-zeta-set-and-pauper-legality-bans-controversies-and-goatbots",
+  "published": "2026-09-05T00:00:00Z",
+  "author": "Flavio Ausilio",
+  "category": "News",
+  "description": "News - by Flavio Ausilio"
+ },
+ {
+  "title": "Guide Magic The Gathering Rules The Complete Guide To Rules And Pdf",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-magic-the-gathering-rules-the-complete-guide-to-rules-and-pdf",
+  "published": "2026-09-03T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Guide Mtg Formats Guide Standard Modern Commander And All Other Formats",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-mtg-formats-guide-standard-modern-commander-and-all-other-formats",
+  "published": "2026-09-02T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Pauper Pauper Past Present And Future Of The Magic Format",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-pauper-past-present-and-future-of-the-magic-format",
+  "published": "2026-09-01T00:00:00Z",
+  "author": "Flavio Ausilio",
+  "category": "Pauper",
+  "description": "Pauper - by Flavio Ausilio"
+ },
+ {
+  "title": "Bring Back The Gathering How To Save Competitive Magic",
+  "link": "https://metagame.info/en-us/mtg/articles/bring-back-the-gathering-how-to-save-competitive-magic",
+  "published": "2026-08-31T00:00:00Z",
+  "author": "Andrea Mengucci",
+  "category": "Guides",
+  "description": "Guides - by Andrea Mengucci"
+ },
+ {
+  "title": "Finance Mtg Market Hatsune Miku The Hobbit And Devoted Combo Drive Prices",
+  "link": "https://metagame.info/en-us/mtg/articles/finance-mtg-market-hatsune-miku-the-hobbit-and-devoted-combo-drive-prices",
+  "published": "2026-08-30T00:00:00Z",
+  "author": "Paolo Casucci",
+  "category": "Finance",
+  "description": "Finance - by Paolo Casucci"
+ },
+ {
+  "title": "Guide The Most Expensive Mtg The Hobbit Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-the-most-expensive-mtg-the-hobbit-cards",
+  "published": "2026-08-15T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Guide Advanced Magic Gym Conclusion",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-advanced-magic-gym-conclusion",
+  "published": "2026-08-12T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Guide Advanced Magic Workout The Art Of Sideboarding",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-advanced-magic-workout-the-art-of-sideboarding",
+  "published": "2026-08-11T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Modern Regional Championship Qualification From Boros Energy To Azorius Blink",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-regional-championship-qualification-from-boros-energy-to-azorius-blink",
+  "published": "2026-08-10T00:00:00Z",
+  "author": "Alessandro Buccola",
+  "category": "Modern",
+  "description": "Modern - by Alessandro Buccola"
+ },
+ {
+  "title": "Pauper How To Choose The Right Pauper Deck From Metagame To Personal List",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-how-to-choose-the-right-pauper-deck-from-metagame-to-personal-list",
+  "published": "2026-08-04T00:00:00Z",
+  "author": "Flavio Ausilio",
+  "category": "Pauper",
+  "description": "Pauper - by Flavio Ausilio"
+ },
+ {
+  "title": "Best The Hobbit Cards For Standard And Commander",
+  "link": "https://metagame.info/en-us/mtg/articles/best-the-hobbit-cards-for-standard-and-commander",
+  "published": "2026-08-01T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Top 32 In Amsterdam With Amulet Titan Journey Matters More Than Result",
+  "link": "https://metagame.info/en-us/mtg/articles/top-32-in-amsterdam-with-amulet-titan-journey-matters-more-than-result",
+  "published": "2026-07-30T00:00:00Z",
+  "author": "Jimmy Caroli",
+  "category": "Modern",
+  "description": "Modern - by Jimmy Caroli"
+ },
+ {
+  "title": "Mono Red Rally Top 4 At Paupergeddon Summer 2026",
+  "link": "https://metagame.info/en-us/mtg/articles/mono-red-rally-top-4-at-paupergeddon-summer-2026",
+  "published": "2026-07-19T00:00:00Z",
+  "author": "Dario Bonburini",
+  "category": "Pauper",
+  "description": "Pauper - by Dario Bonburini"
+ },
+ {
+  "title": "Mystery Booster Commander A Risk Of Becoming An Exclusive For Few",
+  "link": "https://metagame.info/en-us/mtg/articles/mystery-booster-commander-a-risk-of-becoming-an-exclusive-for-few",
+  "published": "2026-07-18T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "News",
+  "description": "News - by Metagame Staff"
+ },
+ {
+  "title": "Historic Pauper On Mtg Arena Format Banlist And Top Decks",
+  "link": "https://metagame.info/en-us/mtg/articles/historic-pauper-on-mtg-arena-format-banlist-and-top-decks",
+  "published": "2026-07-15T00:00:00Z",
+  "author": "Fabrimagic",
+  "category": "News",
+  "description": "News - by Fabrimagic"
+ },
+ {
+  "title": "Bracket System Di Commander Decklist",
+  "link": "https://metagame.info/en-us/mtg/articles/bracket-system-di-commander-decklist",
+  "published": "2026-07-09T00:00:00Z",
+  "author": "Giovanni Monachello",
+  "category": "Guides",
+  "description": "Guides - by Giovanni Monachello"
+ },
+ {
+  "title": "Commander Bracket System How It Works And What Changes",
+  "link": "https://metagame.info/en-us/mtg/articles/commander-bracket-system-how-it-works-and-what-changes",
+  "published": "2026-07-09T00:00:00Z",
+  "author": "Emanuele Imperato",
+  "category": "Guides",
+  "description": "Guides - by Emanuele Imperato"
+ },
+ {
+  "title": "Commander S Bracket System Multicolor And Colorless Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/commander-s-bracket-system-multicolor-and-colorless-cards",
+  "published": "2026-07-09T00:00:00Z",
+  "author": "Giovanni Monachello",
+  "category": "Guides",
+  "description": "Guides - by Giovanni Monachello"
+ },
+ {
+  "title": "Do Brackets And Game Changers Work",
+  "link": "https://metagame.info/en-us/mtg/articles/do-brackets-and-game-changers-work",
+  "published": "2026-07-04T00:00:00Z",
+  "author": "Riot",
+  "category": "Commander",
+  "description": "Commander - by Riot"
+ },
+ {
+  "title": "Advanced Magic Gym General Principles Of Deckbuilding",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-gym-general-principles-of-deckbuilding",
+  "published": "2026-06-29T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "The Most Expensive Marvel Super Heroes Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/the-most-expensive-marvel-super-heroes-cards",
+  "published": "2026-06-20T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Finance",
+  "description": "Finance - by Metagame Staff"
+ },
+ {
+  "title": "Advanced Magic Workshop Activity And Reactivity In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-workshop-activity-and-reactivity-in-mtg",
+  "published": "2026-06-20T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Workout Flexibility In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-workout-flexibility-in-mtg",
+  "published": "2026-06-20T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Training Efficiency In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-training-efficiency-in-mtg",
+  "published": "2026-06-19T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Workshop Offense And Defense In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-workshop-offense-and-defense-in-mtg",
+  "published": "2026-06-18T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "From Birthing Ritual To Yorion Eternal Weekend With Wg Taxes",
+  "link": "https://metagame.info/en-us/mtg/articles/from-birthing-ritual-to-yorion-eternal-weekend-with-wg-taxes",
+  "published": "2026-06-16T00:00:00Z",
+  "author": "Niccoló Fioletti",
+  "category": "Legacy",
+  "description": "Legacy - by Niccoló Fioletti"
+ },
+ {
+  "title": "Advanced Magic Gym Speed In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-gym-speed-in-mtg",
+  "published": "2026-06-14T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Gym Introduction",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-gym-introduction",
+  "published": "2026-06-14T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Workshop Game Theory Deckbuilding And Sideboarding",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-workshop-game-theory-deckbuilding-and-sideboarding",
+  "published": "2026-06-14T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Advanced Magic Gym Resource In Mtg",
+  "link": "https://metagame.info/en-us/mtg/articles/advanced-magic-gym-resource-in-mtg",
+  "published": "2026-06-14T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Guides",
+  "description": "Guides - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Mtg Marvel Super Heroes The Best Cards From The Set",
+  "link": "https://metagame.info/en-us/mtg/articles/mtg-marvel-super-heroes-the-best-cards-from-the-set",
+  "published": "2026-06-09T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Finance",
+  "description": "Finance - by Metagame Staff"
+ },
+ {
+  "title": "How To Build A Commander Deck From Scratch",
+  "link": "https://metagame.info/en-us/mtg/articles/how-to-build-a-commander-deck-from-scratch",
+  "published": "2026-06-02T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Guides",
+  "description": "Guides - by Metagame Staff"
+ },
+ {
+  "title": "Mtg Standard The Metagame Between Rc Prague Washington And Spotlight Chiba",
+  "link": "https://metagame.info/en-us/mtg/articles/mtg-standard-the-metagame-between-rc-prague-washington-and-spotlight-chiba",
+  "published": "2026-06-02T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Standard",
+  "description": "Standard - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Mono Blue Belcher Modern Complete Primer And Updated List",
+  "link": "https://metagame.info/en-us/mtg/articles/mono-blue-belcher-modern-complete-primer-and-updated-list",
+  "published": "2026-05-23T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Modern",
+  "description": "Modern - by Metagame Staff"
+ },
+ {
+  "title": "Captain Kirk Is The First Card From The Star Trek Commander Spoiler",
+  "link": "https://metagame.info/en-us/mtg/articles/captain-kirk-is-the-first-card-from-the-star-trek-commander-spoiler",
+  "published": "2026-05-19T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "News",
+  "description": "News - by Metagame Staff"
+ },
+ {
+  "title": "Ban Restricted Announcement Shake Ups In Modern",
+  "link": "https://metagame.info/en-us/mtg/articles/ban-restricted-announcement-shake-ups-in-modern",
+  "published": "2026-05-18T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "News",
+  "description": "News - by Metagame Staff"
+ },
+ {
+  "title": "Izzet Prowess The Complete Guide To Mtg Deck And Sideboard",
+  "link": "https://metagame.info/en-us/mtg/articles/izzet-prowess-the-complete-guide-to-mtg-deck-and-sideboard",
+  "published": "2026-05-17T00:00:00Z",
+  "author": "Reid Duke",
+  "category": "Standard",
+  "description": "Standard - by Reid Duke"
+ },
+ {
+  "title": "Standard Meta Report 2026 The Best Decklists From London To Tokyo",
+  "link": "https://metagame.info/en-us/mtg/articles/standard-meta-report-2026-the-best-decklists-from-london-to-tokyo",
+  "published": "2026-05-12T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Standard",
+  "description": "Standard - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Uw Landstill The Complete Deck And Sideboard Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/uw-landstill-the-complete-deck-and-sideboard-guide",
+  "published": "2026-05-11T00:00:00Z",
+  "author": "Alessandro Galli",
+  "category": "Premodern",
+  "description": "Premodern - by Alessandro Galli"
+ },
+ {
+  "title": "Rg Goblins Strengths Of A Timeless Deck",
+  "link": "https://metagame.info/en-us/mtg/articles/rg-goblins-strengths-of-a-timeless-deck",
+  "published": "2026-05-10T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Premodern",
+  "description": "Premodern - by Metagame Staff"
+ },
+ {
+  "title": "Goblin Storm The New Goblin Themed Secret Lair Commander Deck",
+  "link": "https://metagame.info/en-us/mtg/articles/goblin-storm-the-new-goblin-themed-secret-lair-commander-deck",
+  "published": "2026-05-07T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Commander",
+  "description": "Commander - by Metagame Staff"
+ },
+ {
+  "title": "Mtg The Hobbit Preview Very Strong Cards Revealed",
+  "link": "https://metagame.info/en-us/mtg/articles/mtg-the-hobbit-preview-very-strong-cards-revealed",
+  "published": "2026-05-02T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "News",
+  "description": "News - by Metagame Staff"
+ },
+ {
+  "title": "Pro Tour Secrets Of Strixhaven Standard Metagame Analysis",
+  "link": "https://metagame.info/en-us/mtg/articles/pro-tour-secrets-of-strixhaven-standard-metagame-analysis",
+  "published": "2026-05-01T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Standard",
+  "description": "Standard - by Metagame Staff"
+ },
+ {
+  "title": "The Best Mtg Secrets Of Strixhaven Cards For Standard",
+  "link": "https://metagame.info/en-us/mtg/articles/the-best-mtg-secrets-of-strixhaven-cards-for-standard",
+  "published": "2026-04-20T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Standard",
+  "description": "Standard - by Francesco Guidorizzi"
+ },
+ {
+  "title": "The Most Expensive Mtg Secrets Of Strixhaven Cards",
+  "link": "https://metagame.info/en-us/mtg/articles/the-most-expensive-mtg-secrets-of-strixhaven-cards",
+  "published": "2026-04-17T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Finance",
+  "description": "Finance - by Metagame Staff"
+ },
+ {
+  "title": "Report And Guide To The Italian Champion 2026 Cradle Control",
+  "link": "https://metagame.info/en-us/mtg/articles/report-and-guide-to-the-italian-champion-2026-cradle-control",
+  "published": "2026-04-15T00:00:00Z",
+  "author": "Frank Roelofs",
+  "category": "Premodern",
+  "description": "Premodern - by Frank Roelofs"
+ },
+ {
+  "title": "Ever Stronger Decks And New Mechanics From Secrets Of Strixhaven",
+  "link": "https://metagame.info/en-us/mtg/articles/ever-stronger-decks-and-new-mechanics-from-secrets-of-strixhaven",
+  "published": "2026-04-13T00:00:00Z",
+  "author": "Francesco Guidorizzi",
+  "category": "Standard",
+  "description": "Standard - by Francesco Guidorizzi"
+ },
+ {
+  "title": "Eldrazi Aggro Sideboard Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/eldrazi-aggro-sideboard-guide",
+  "published": "2026-04-08T00:00:00Z",
+  "author": "Metagame Staff",
+  "category": "Modern",
+  "description": "Modern - by Metagame Staff"
+ },
+ {
+  "title": "Preparation For Paupergeddon Winter Edition 2026",
+  "link": "https://metagame.info/en-us/mtg/articles/preparation-for-paupergeddon-winter-edition-2026",
+  "published": "2026-03-16T00:00:00Z",
+  "author": "Emanuele Imperato",
+  "category": "Pauper",
+  "description": "Pauper - by Emanuele Imperato"
+ },
+ {
+  "title": "Report Winner Mole Retro Series",
+  "link": "https://metagame.info/en-us/mtg/articles/report-winner-mole-retro-series",
+  "published": "2026-03-04T00:00:00Z",
+  "author": "Steven Minelli",
+  "category": "Premodern",
+  "description": "Premodern - by Steven Minelli"
+ },
+ {
+  "title": "Premodern A Beginner S Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/premodern-a-beginner-s-guide",
+  "published": "2026-02-15T00:00:00Z",
+  "author": "Luis Scott-Vargas",
+  "category": "Premodern",
+  "description": "Premodern - by Luis Scott-Vargas"
+ },
+ {
+  "title": "Modern Report Winner 4Seasons With Boros",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-report-winner-4seasons-with-boros",
+  "published": "2024-12-03T00:00:00Z",
+  "author": "Nino Alessi",
+  "category": "Modern",
+  "description": "Modern - by Nino Alessi"
+ },
+ {
+  "title": "Mono Black Necro Mtg Deck Guide",
+  "link": "https://metagame.info/en-us/mtg/articles/mono-black-necro-mtg-deck-guide",
+  "published": "2024-07-10T00:00:00Z",
+  "author": "Reid Duke - Tradotto da ArabicLawrence",
+  "category": "Modern",
+  "description": "Modern - by Reid Duke - Tradotto da ArabicLawrence"
+ },
+ {
+  "title": "Pauper Deck Analysis Goblin Combo",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-deck-analysis-goblin-combo",
+  "published": "2024-03-17T00:00:00Z",
+  "author": "Emanuele Imperato",
+  "category": "Pauper",
+  "description": "Pauper - by Emanuele Imperato"
+ },
+ {
+  "title": "Pauper Deck Analysis Bg Gardens Black Gardens",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-deck-analysis-bg-gardens-black-gardens",
+  "published": "2024-03-13T00:00:00Z",
+  "author": "ExLo05",
+  "category": "Pauper",
+  "description": "Pauper - by ExLo05"
+ },
+ {
+  "title": "Pauper Deck Analysis Affinity Glitters",
+  "link": "https://metagame.info/en-us/mtg/articles/pauper-deck-analysis-affinity-glitters",
+  "published": "2024-03-04T00:00:00Z",
+  "author": "Mr.B",
+  "category": "Pauper",
+  "description": "Pauper - by Mr.B"
+ },
+ {
+  "title": "Modern Report Amulet Titan Nordic Masters",
+  "link": "https://metagame.info/en-us/mtg/articles/modern-report-amulet-titan-nordic-masters",
+  "published": "2023-09-11T00:00:00Z",
+  "author": "Jimmy Caroli",
+  "category": "Modern",
+  "description": "Modern - by Jimmy Caroli"
+ },
+ {
+  "title": "Guide Cockatrice Installation And Configuration",
+  "link": "https://metagame.info/en-us/mtg/articles/guide-cockatrice-installation-and-configuration",
+  "published": "2020-04-07T00:00:00Z",
+  "author": "Federico Egidi",
+  "category": "Guides",
+  "description": "Guides - by Federico Egidi"
+ },
+ {
+  "title": "Strategy The Most Hated Decks In History",
+  "link": "https://metagame.info/en-us/mtg/articles/strategy-the-most-hated-decks-in-history",
+  "published": "2012-12-04T00:00:00Z",
+  "author": "Giacomo Bonati",
+  "category": "Guides",
+  "description": "Guides - by Giacomo Bonati"
+ }
+]
