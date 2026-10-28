@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Where to Play Magic: The Gathering® | Star Trek™</title>
+      <link>https://www.magic.wizards.com/en/news/feature/where-to-play-star-trek</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/feature/where-to-play-star-trek</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Secret Lair: Set Phasers to Superdrop</title>
       <link>https://www.magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop</link>
