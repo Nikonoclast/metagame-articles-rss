@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>EDHREC Halloween Anthology, Part 1: Six Tales of Horror by Josh Nelson</title>
+      <link>https://edhrec.com/articles/edhrec-halloween-anthology-part-1-six-tales-of-horror</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/edhrec-halloween-anthology-part-1-six-tales-of-horror</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
       <title>What is the Best Horror Plane: Innistrad or Duskmourn? by Levi Perry</title>
       <link>https://edhrec.com/articles/what-is-the-best-horror-plane-innistrad-or-duskmourn</link>
       <guid isPermaLink="true">https://edhrec.com/articles/what-is-the-best-horror-plane-innistrad-or-duskmourn</guid>
@@ -796,14 +803,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Levi Perry</dc:creator>
       <description>Opinion 10/1/26 A look at what EDHREC&#x27;s Salt Score actually measures, why the Salt List isn&#x27;t a ban list, and playing Commander&#x27;s saltiest cards the right way.</description>
-    </item>
-    <item>
-      <title>Reality Fracture&#x27;s Best Cards for Minotaur Decks</title>
-      <link>https://edhrec.com/articles/reality-fractures-best-cards-for-minotaur-decks</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/reality-fractures-best-cards-for-minotaur-decks</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Minotaur Reviewer</dc:creator>
-      <description>Articles 10/1/26 Ajani&#x27;s Anguish, Bloodline Recollector, and a pinging Tinybones lead the herd for Reality Fracture cards best for...minotaurs?</description>
     </item>
   </channel>
 </rss>
