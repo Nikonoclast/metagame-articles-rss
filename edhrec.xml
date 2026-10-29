@@ -8,6 +8,20 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>What is the Best Horror Plane: Innistrad or Duskmourn? by Levi Perry</title>
+      <link>https://edhrec.com/articles/what-is-the-best-horror-plane-innistrad-or-duskmourn</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/what-is-the-best-horror-plane-innistrad-or-duskmourn</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Levi Perry</dc:creator>
+    </item>
+    <item>
+      <title>The Traveler | Lands, Tokens, and Commander Damage by Kara Blinebry</title>
+      <link>https://edhrec.com/articles/the-traveler-lands-tokens-and-commander-damage</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-traveler-lands-tokens-and-commander-damage</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Kara Blinebry</dc:creator>
+    </item>
+    <item>
       <title>Secret Lair Announces &quot;Set Phasers to Superdrop&quot; by Josh Nelson</title>
       <link>https://edhrec.com/articles/secret-lair-announces-set-phasers-to-superdrop</link>
       <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-announces-set-phasers-to-superdrop</guid>
@@ -790,22 +804,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Minotaur Reviewer</dc:creator>
       <description>Articles 10/1/26 Ajani&#x27;s Anguish, Bloodline Recollector, and a pinging Tinybones lead the herd for Reality Fracture cards best for...minotaurs?</description>
-    </item>
-    <item>
-      <title>Thalia, the Survivor | Aggressive Stax Deck</title>
-      <link>https://edhrec.com/articles/thalia-the-survivor-aggressive-stax-deck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/thalia-the-survivor-aggressive-stax-deck</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kara Blinebry</dc:creator>
-      <description>Articles 10/1/26 There are some great mirror versions of cards in Reality Fracture, and Thalia, the Survivor is one half of one of them. Take a look!</description>
-    </item>
-    <item>
-      <title>Secret Lair: Corn Maze Superdrop Officially Announced</title>
-      <link>https://edhrec.com/articles/secret-lair-corn-maze-superdrop-officially-announced</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-corn-maze-superdrop-officially-announced</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Josh Nelson</dc:creator>
-      <description>News &amp; Reviews 9/30/26 This Secret Lair Superdrop will contain cards with Marvel, KPop Demon Hunters, and Labyrinth licensed properties!</description>
     </item>
   </channel>
 </rss>
