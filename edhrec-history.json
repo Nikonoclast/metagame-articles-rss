@@ -1,24 +1,45 @@
 [
  {
+  "title": "Isshin, Two Heavens As One | Commander Makeover by Owain Roberts",
+  "link": "https://edhrec.com/articles/isshin-two-heavens-as-one-commander-makeover",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Owain Roberts",
+  "description": ""
+ },
+ {
+  "title": "Fire and Ice: Which Cards Are Hot and Cold for Marvo, Deep Operative? by Julia Maddalena",
+  "link": "https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-marvo-deep-operative",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Julia Maddalena",
+  "description": ""
+ },
+ {
+  "title": "Top 10 Colorless Ramp Cards for Starship Enterprise by DougY",
+  "link": "https://edhrec.com/articles/top-10-colorless-ramp-cards-for-starship-enterprise",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "DougY",
+  "description": ""
+ },
+ {
   "title": "EDHREC Halloween Anthology, Part 1: Six Tales of Horror by Josh Nelson",
   "link": "https://edhrec.com/articles/edhrec-halloween-anthology-part-1-six-tales-of-horror",
   "published": "2027-04-09T00:00:00Z",
   "author": "Josh Nelson",
-  "description": ""
+  "description": "Articles 10/29/26 Welcome to our second-annual Halloween Anthology, EDHREC's celebration of the delightfully macabre and downright spooky!"
  },
  {
   "title": "What is the Best Horror Plane: Innistrad or Duskmourn? by Levi Perry",
   "link": "https://edhrec.com/articles/what-is-the-best-horror-plane-innistrad-or-duskmourn",
   "published": "2027-04-09T00:00:00Z",
   "author": "Levi Perry",
-  "description": ""
+  "description": "Opinion 10/29/26 Innistrad vs. Duskmourn: which plane is the true king of horror? Levi pits their hallmark cards across five horror themes to crown a winner."
  },
  {
   "title": "The Traveler | Lands, Tokens, and Commander Damage by Kara Blinebry",
   "link": "https://edhrec.com/articles/the-traveler-lands-tokens-and-commander-damage",
   "published": "2027-04-09T00:00:00Z",
   "author": "Kara Blinebry",
-  "description": ""
+  "description": "Deck Techs 10/29/26 Just like The Traveler helped Wesley Crusher on his journey, so, too, will The Traveler help us... crush our opponents!"
  },
  {
   "title": "Secret Lair Announces \"Set Phasers to Superdrop\" by Josh Nelson",
@@ -68,6 +89,13 @@
   "published": "2027-04-09T00:00:00Z",
   "author": "Nick Price",
   "description": "Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg."
+ },
+ {
+  "title": "Building Shade Typal with Ihsan's Shade",
+  "link": "https://edhrec.com/articles/building-shade-typal-with-ihsans-shade",
+  "published": "2026-10-30T00:00:00Z",
+  "author": "Jeremy Rowe",
+  "description": "Deck Techs 10/30/26 A Halloween Shades deck tech built around Ihsan’s Shade focused on mono-black mana doublers pumping an army of spectral monsters."
  },
  {
   "title": "Ranking the Best Nightmare Combos in Commander | Wombo Combo",
@@ -670,33 +698,5 @@
   "published": "2026-10-02T00:00:00Z",
   "author": "Owain Roberts",
   "description": "Deck Techs 10/2/26 Owain pulls the string on an Aerid Konstrari deck tech built to max out the value from Heartwood tokens - does the Elder Sphinx have what it takes?"
- },
- {
-  "title": "The Educator's Guide to the Foundations Precons",
-  "link": "https://edhrec.com/articles/the-educators-guide-to-the-foundations-precons",
-  "published": "2026-10-02T00:00:00Z",
-  "author": "Jeremy Rowe",
-  "description": "Opinion 10/2/26 The Foundations preconstructed decks are intended for people new to Magic, but how are they as an educational tool? Educator Jeremy weighs in."
- },
- {
-  "title": "Changelog: Replacing Synergy with Lift",
-  "link": "https://edhrec.com/articles/changelog-replacing-synergy-with-lift-on-edhrecs-card-pages",
-  "published": "2026-10-01T00:00:00Z",
-  "author": "keattz",
-  "description": "Changelog 10/1/26 Lift is now available on /commanders, /combos, and /tags pages on EDHREC! Let's chat about the math behind what it is and how it replaces synergy."
- },
- {
-  "title": "Zeta Set Sale Returns Dec. 9 With 24-Hour Order Window",
-  "link": "https://edhrec.com/articles/zeta-set-sale-returns-dec-9-with-24-hour-order-window",
-  "published": "2026-10-01T00:00:00Z",
-  "author": "Nick Wolf",
-  "description": "News & Reviews 10/1/26 Wizards explained what broke the Secret Lair Zeta Set sale, apologized for the queue pause, and set a 24-hour order window for Dec. 9."
- },
- {
-  "title": "Salt isn't a Ban List",
-  "link": "https://edhrec.com/articles/salt-isnt-a-ban-list",
-  "published": "2026-10-01T00:00:00Z",
-  "author": "Levi Perry",
-  "description": "Opinion 10/1/26 A look at what EDHREC's Salt Score actually measures, why the Salt List isn't a ban list, and playing Commander's saltiest cards the right way."
  }
 ]
