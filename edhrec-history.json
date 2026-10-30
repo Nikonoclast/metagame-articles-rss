@@ -1,5 +1,12 @@
 [
  {
+  "title": "EDHREC Halloween Anthology, Part 2: Six More Tales of Horror by Josh Nelson",
+  "link": "https://edhrec.com/articles/edhrec-halloween-anthology-part-2-six-more-tales-of-horror",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Josh Nelson",
+  "description": ""
+ },
+ {
   "title": "Isshin, Two Heavens As One | Commander Makeover by Owain Roberts",
   "link": "https://edhrec.com/articles/isshin-two-heavens-as-one-commander-makeover",
   "published": "2027-04-09T00:00:00Z",
@@ -18,7 +25,7 @@
   "link": "https://edhrec.com/articles/top-10-colorless-ramp-cards-for-starship-enterprise",
   "published": "2027-04-09T00:00:00Z",
   "author": "DougY",
-  "description": ""
+  "description": "Lists 10/30/26 Make it so! We've got the starship Enterprise coming to Magic, and it wants to see lands hit the field. Which cards do that the best?"
  },
  {
   "title": "EDHREC Halloween Anthology, Part 1: Six Tales of Horror by Josh Nelson",
@@ -691,12 +698,5 @@
   "published": "2026-10-02T00:00:00Z",
   "author": "Julia Maddalena",
   "description": "Data 10/2/26 What's hot and cold for Commander decks led by the banana magnate, Kibo? Julia peels through the data to find out."
- },
- {
-  "title": "Aerid Konstrari | Heartwood Token Bonanza",
-  "link": "https://edhrec.com/articles/aerid-konstrari-heartwood-token-bonanza",
-  "published": "2026-10-02T00:00:00Z",
-  "author": "Owain Roberts",
-  "description": "Deck Techs 10/2/26 Owain pulls the string on an Aerid Konstrari deck tech built to max out the value from Heartwood tokens - does the Elder Sphinx have what it takes?"
  }
 ]

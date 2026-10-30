@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>EDHREC Halloween Anthology, Part 2: Six More Tales of Horror by Josh Nelson</title>
+      <link>https://edhrec.com/articles/edhrec-halloween-anthology-part-2-six-more-tales-of-horror</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/edhrec-halloween-anthology-part-2-six-more-tales-of-horror</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
       <title>Isshin, Two Heavens As One | Commander Makeover by Owain Roberts</title>
       <link>https://edhrec.com/articles/isshin-two-heavens-as-one-commander-makeover</link>
       <guid isPermaLink="true">https://edhrec.com/articles/isshin-two-heavens-as-one-commander-makeover</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/top-10-colorless-ramp-cards-for-starship-enterprise</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>DougY</dc:creator>
+      <description>Lists 10/30/26 Make it so! We&#x27;ve got the starship Enterprise coming to Magic, and it wants to see lands hit the field. Which cards do that the best?</description>
     </item>
     <item>
       <title>EDHREC Halloween Anthology, Part 1: Six Tales of Horror by Josh Nelson</title>
@@ -795,14 +803,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Julia Maddalena</dc:creator>
       <description>Data 10/2/26 What&#x27;s hot and cold for Commander decks led by the banana magnate, Kibo? Julia peels through the data to find out.</description>
-    </item>
-    <item>
-      <title>Aerid Konstrari | Heartwood Token Bonanza</title>
-      <link>https://edhrec.com/articles/aerid-konstrari-heartwood-token-bonanza</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/aerid-konstrari-heartwood-token-bonanza</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Owain Roberts</dc:creator>
-      <description>Deck Techs 10/2/26 Owain pulls the string on an Aerid Konstrari deck tech built to max out the value from Heartwood tokens - does the Elder Sphinx have what it takes?</description>
     </item>
   </channel>
 </rss>
