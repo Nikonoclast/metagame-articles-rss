@@ -6,7 +6,16 @@
     <description>Latest Magic: The Gathering articles from Metagame.info</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Commander Magic Star Trek Top Cards For Commander</title>
+      <link>https://metagame.info/en-us/mtg/articles/commander-magic-star-trek-top-cards-for-commander</link>
+      <guid isPermaLink="true">https://metagame.info/en-us/mtg/articles/commander-magic-star-trek-top-cards-for-commander</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Adam Rinaldi</dc:creator>
+      <category>Commander</category>
+      <description>Commander - by Adam Rinaldi</description>
+    </item>
     <item>
       <title>Commander Magic Star Trek We Are The Borg Full Decklist And Best Commander Reprints</title>
       <link>https://metagame.info/en-us/mtg/articles/commander-magic-star-trek-we-are-the-borg-full-decklist-and-best-commander-reprints</link>
