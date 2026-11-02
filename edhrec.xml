@@ -8,11 +8,33 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Quark, Humble Proprietor | Mono Red Artifact Deck by John Sherwood</title>
+      <link>https://edhrec.com/articles/quark-humble-proprietor-mono-red-artifact-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/quark-humble-proprietor-mono-red-artifact-deck</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>John Sherwood</dc:creator>
+    </item>
+    <item>
+      <title>The Top 10 Most-Played Commander 2021 Cards by Nick Price</title>
+      <link>https://edhrec.com/articles/the-top-10-most-played-commander-2021-cards</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-commander-2021-cards</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Nick Price</dc:creator>
+    </item>
+    <item>
+      <title>The Art of a Tempo Board Wipe in Commander by Cas Hinds</title>
+      <link>https://edhrec.com/articles/the-art-of-a-tempo-board-wipe-in-commander</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-art-of-a-tempo-board-wipe-in-commander</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Cas Hinds</dc:creator>
+    </item>
+    <item>
       <title>EDHREC Halloween Anthology, Part 2: Six More Tales of Horror by Josh Nelson</title>
       <link>https://edhrec.com/articles/edhrec-halloween-anthology-part-2-six-more-tales-of-horror</link>
       <guid isPermaLink="true">https://edhrec.com/articles/edhrec-halloween-anthology-part-2-six-more-tales-of-horror</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
+      <description>Articles 10/30/26 For the second part of EDHREC&#x27;s Halloween Anthology, we&#x27;ve returned with even more spooky tales of horror, dread, and woe!</description>
     </item>
     <item>
       <title>Isshin, Two Heavens As One | Commander Makeover by Owain Roberts</title>
@@ -20,6 +42,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/isshin-two-heavens-as-one-commander-makeover</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Owain Roberts</dc:creator>
+      <description>Deck Techs 10/30/26 A Commander Makeover for Isshin, Two Heavens as One, which brings in the best new attack triggers and doublers for a powerful deck list.</description>
     </item>
     <item>
       <title>Fire and Ice: Which Cards Are Hot and Cold for Marvo, Deep Operative? by Julia Maddalena</title>
@@ -27,6 +50,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-marvo-deep-operative</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Julia Maddalena</dc:creator>
+      <description>Data 10/30/26 Julia breaks down clash-loving Marvo, Deep Operative&#x27;s hottest rising cards, its cooling includes, and a full sample deck list.</description>
     </item>
     <item>
       <title>Top 10 Colorless Ramp Cards for Starship Enterprise by DougY</title>
@@ -115,6 +139,14 @@
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
       <description>Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg.</description>
+    </item>
+    <item>
+      <title>Dack Fayden, Helping Hand | Blink Deck Tech</title>
+      <link>https://edhrec.com/articles/dack-helping-hand</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/dack-helping-hand</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Ciel Collins</dc:creator>
+      <description>Deck Techs 11/2/26 A pair of deck tech for Dack Fayden, Helping Hand, one a mono-white blink deck that steals your stuff back, and another ready to take the initiative.</description>
     </item>
     <item>
       <title>Building Shade Typal with Ihsan&#x27;s Shade</title>
@@ -771,38 +803,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
       <description>Lists 10/5/26 How good was the Time Spiral block for Commander? It turns out: pretty dang good, with several format staples tracing their history to the block.</description>
-    </item>
-    <item>
-      <title>What is the Saltiest Color for Each Card Type?</title>
-      <link>https://edhrec.com/articles/what-is-the-saltiest-color-for-each-card-type</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/what-is-the-saltiest-color-for-each-card-type</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>John Sherwood</dc:creator>
-      <description>Data 10/5/26 Every color&#x27;s got salty cards, but which color has the most representation for each card type? And why is it mostly blue?</description>
-    </item>
-    <item>
-      <title>The Salt Score Polls Are Coming Next Monday!</title>
-      <link>https://edhrec.com/articles/the-salt-score-polls-are-coming-next-monday</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-salt-score-polls-are-coming-next-monday</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Josh Nelson</dc:creator>
-      <description>News &amp; Reviews 10/2/26 The EDHREC Salt Score polls give players a chance to speak up about the cards that give them the most tilting sodium chloride on the table.</description>
-    </item>
-    <item>
-      <title>Top 10 Combo Enchantments for Pia, Aether Ascetic</title>
-      <link>https://edhrec.com/articles/top-10-combo-enchantments-for-pia-aether-ascetic</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/top-10-combo-enchantments-for-pia-aether-ascetic</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>DougY</dc:creator>
-      <description>Articles 10/2/26 This new Pia loves enchantments so much she&#x27;ll grab them from your deck, so which are the best enchantment combos in green?</description>
-    </item>
-    <item>
-      <title>Fire and Ice: Which Cards Are Hot and Cold for Kibo, Uktabi Prince?</title>
-      <link>https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-kibo-uktabi-prince</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-kibo-uktabi-prince</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Julia Maddalena</dc:creator>
-      <description>Data 10/2/26 What&#x27;s hot and cold for Commander decks led by the banana magnate, Kibo? Julia peels through the data to find out.</description>
     </item>
   </channel>
 </rss>
