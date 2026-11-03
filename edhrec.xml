@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Secret Lair Drop: Rise of the Polygons for Extra Life 2026 by Morgan Sanchez</title>
+      <link>https://edhrec.com/articles/secret-lair-drop-rise-of-the-polygons-for-extra-life-2026</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-drop-rise-of-the-polygons-for-extra-life-2026</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Morgan Sanchez</dc:creator>
+    </item>
+    <item>
       <title>Heroes &amp; Villains Sets off for MagicCon Atlanta With Merch by Josh Nelson</title>
       <link>https://edhrec.com/articles/heroes-villains-sets-off-for-magiccon-atlanta-with-merch</link>
       <guid isPermaLink="true">https://edhrec.com/articles/heroes-villains-sets-off-for-magiccon-atlanta-with-merch</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/building-whale-typal-with-h-m-s-bounty-unlikely-timeship</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Jeremy Rowe</dc:creator>
+      <description>Lists 11/3/26 Are Whales viable in Commander? Jeremy gets into the bathysphere to explore what a H.M.S. Bounty, Unlikely Timeship might actually entail.</description>
     </item>
     <item>
       <title>Best New Commanders from Star Trek by Bennie Smith</title>
@@ -795,14 +803,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Bennie Smith</dc:creator>
       <description>Articles 10/6/26 It&#x27;s Salt Week, and if you&#x27;re looking to reduce your deck&#x27;s salt output, Bennie Smith is here with heart-healthy options!</description>
-    </item>
-    <item>
-      <title>The 10 Most-Played Salty Cards in Commander</title>
-      <link>https://edhrec.com/articles/the-10-most-played-salty-cards-in-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-10-most-played-salty-cards-in-commander</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Ciel Collins</dc:creator>
-      <description>Data 10/6/26 The 10 most-played cards on EDHREC&#x27;s Top 100 Salt Score list, from Orcish Bowmasters to Rhystic Study, and why they&#x27;re so ubiquitously salty.</description>
     </item>
   </channel>
 </rss>
