@@ -8,11 +8,33 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Five Ways to Use The City on the Edge of Forever by Alejandro Fuentes</title>
+      <link>https://edhrec.com/articles/five-ways-to-use-the-city-on-the-edge-of-forever</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/five-ways-to-use-the-city-on-the-edge-of-forever</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Alejandro Fuentes</dc:creator>
+    </item>
+    <item>
+      <title>H.M.S. Bounty, Unlikely Timeship | Can We Save The Whales? by Jeremy Rowe</title>
+      <link>https://edhrec.com/articles/building-whale-typal-with-h-m-s-bounty-unlikely-timeship</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/building-whale-typal-with-h-m-s-bounty-unlikely-timeship</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Jeremy Rowe</dc:creator>
+    </item>
+    <item>
+      <title>Best New Commanders from Star Trek by Bennie Smith</title>
+      <link>https://edhrec.com/articles/best-new-commanders-from-star-trek</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/best-new-commanders-from-star-trek</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Bennie Smith</dc:creator>
+    </item>
+    <item>
       <title>Quark, Humble Proprietor | Mono Red Artifact Deck by John Sherwood</title>
       <link>https://edhrec.com/articles/quark-humble-proprietor-mono-red-artifact-deck</link>
       <guid isPermaLink="true">https://edhrec.com/articles/quark-humble-proprietor-mono-red-artifact-deck</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>John Sherwood</dc:creator>
+      <description>Deck Techs 11/2/26 A Treasure-fueled artifacts deck for Quark, Humble Proprietor, the Ferengi barkeep who hoards Treasure tokens and turns them into victory.</description>
     </item>
     <item>
       <title>The Top 10 Most-Played Commander 2021 Cards by Nick Price</title>
@@ -20,6 +42,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-commander-2021-cards</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
+      <description>Lists 11/2/26 Counting down the 10 most played Commander 2021 (C21) cards in Commander, from Laelia and Monologue Tax to Inkshield and Cursed Mirror.</description>
     </item>
     <item>
       <title>The Art of a Tempo Board Wipe in Commander by Cas Hinds</title>
@@ -27,6 +50,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-art-of-a-tempo-board-wipe-in-commander</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Cas Hinds</dc:creator>
+      <description>Opinion 11/2/26 Board wipes aren’t just panic buttons: Cas makes the case for the tempo board wipe, a cheap, early sweeper to slow opponents and put you in front.</description>
     </item>
     <item>
       <title>EDHREC Halloween Anthology, Part 2: Six More Tales of Horror by Josh Nelson</title>
@@ -139,6 +163,14 @@
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
       <description>Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg.</description>
+    </item>
+    <item>
+      <title>Captain Jean-Luc Picard | Mono-White Tokens on a Budget</title>
+      <link>https://edhrec.com/articles/captain-jean-luc-picard-mono-white-tokens-on-a-budget</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/captain-jean-luc-picard-mono-white-tokens-on-a-budget</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Tyler Bucks</dc:creator>
+      <description>Deck Techs 11/3/26 Tyler builds a budget Captain Jean-Luc Picard deck for about $30, as a mono-white token swarm with a six-Spacecraft toolbox to make it so.</description>
     </item>
     <item>
       <title>Dack Fayden, Helping Hand | Blink Deck Tech</title>
@@ -771,38 +803,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
       <description>News &amp; Reviews 10/5/26 This Secret Lair Festival In A Box is notable as it is the first instance in which the public can access Mystery Booster: Commander Edition.</description>
-    </item>
-    <item>
-      <title>Wizards Announces MTG God Packs and Changes to Booster Types</title>
-      <link>https://edhrec.com/articles/wizards-announces-mtg-god-packs-and-changes-to-booster-types</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/wizards-announces-mtg-god-packs-and-changes-to-booster-types</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Morgan Sanchez</dc:creator>
-      <description>News &amp; Reviews 10/5/26 Starting with Nauctis: The Sunken Realm in February 2027, there will be some compelling changes to what you can expect to open in MTG booster packs, let&#x27;s see what&#x27;s being added and what&#x27;s being removed.</description>
-    </item>
-    <item>
-      <title>Salt Score Voting is Now Open!</title>
-      <link>https://edhrec.com/articles/salt-score-voting-is-now-open</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/salt-score-voting-is-now-open</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Josh Nelson</dc:creator>
-      <description>News &amp; Reviews 10/5/26 In our annual Salt Score polls, readers are encouraged to vote on the cards that make them feel the most salty. But wait, there&#x27;s more!</description>
-    </item>
-    <item>
-      <title>The Intersection of Salt and Rhystic Study</title>
-      <link>https://edhrec.com/articles/the-intersections-of-salt-and-rhystic-study</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-intersections-of-salt-and-rhystic-study</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Cas Hinds</dc:creator>
-      <description>Opinion 10/5/26 Everyone&#x27;s got an opinion on Rhystic Study, and historically, it&#x27;s one of the saltiest cards ever, as voted on by the community. But why?</description>
-    </item>
-    <item>
-      <title>The Top 10 Most-Played Time Spiral Cards</title>
-      <link>https://edhrec.com/articles/the-top-10-most-played-time-spiral-cards</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-time-spiral-cards</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Price</dc:creator>
-      <description>Lists 10/5/26 How good was the Time Spiral block for Commander? It turns out: pretty dang good, with several format staples tracing their history to the block.</description>
     </item>
   </channel>
 </rss>

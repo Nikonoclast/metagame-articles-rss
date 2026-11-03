@@ -1,24 +1,45 @@
 [
  {
+  "title": "Five Ways to Use The City on the Edge of Forever by Alejandro Fuentes",
+  "link": "https://edhrec.com/articles/five-ways-to-use-the-city-on-the-edge-of-forever",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Alejandro Fuentes",
+  "description": ""
+ },
+ {
+  "title": "H.M.S. Bounty, Unlikely Timeship | Can We Save The Whales? by Jeremy Rowe",
+  "link": "https://edhrec.com/articles/building-whale-typal-with-h-m-s-bounty-unlikely-timeship",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Jeremy Rowe",
+  "description": ""
+ },
+ {
+  "title": "Best New Commanders from Star Trek by Bennie Smith",
+  "link": "https://edhrec.com/articles/best-new-commanders-from-star-trek",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Bennie Smith",
+  "description": ""
+ },
+ {
   "title": "Quark, Humble Proprietor | Mono Red Artifact Deck by John Sherwood",
   "link": "https://edhrec.com/articles/quark-humble-proprietor-mono-red-artifact-deck",
   "published": "2027-04-09T00:00:00Z",
   "author": "John Sherwood",
-  "description": ""
+  "description": "Deck Techs 11/2/26 A Treasure-fueled artifacts deck for Quark, Humble Proprietor, the Ferengi barkeep who hoards Treasure tokens and turns them into victory."
  },
  {
   "title": "The Top 10 Most-Played Commander 2021 Cards by Nick Price",
   "link": "https://edhrec.com/articles/the-top-10-most-played-commander-2021-cards",
   "published": "2027-04-09T00:00:00Z",
   "author": "Nick Price",
-  "description": ""
+  "description": "Lists 11/2/26 Counting down the 10 most played Commander 2021 (C21) cards in Commander, from Laelia and Monologue Tax to Inkshield and Cursed Mirror."
  },
  {
   "title": "The Art of a Tempo Board Wipe in Commander by Cas Hinds",
   "link": "https://edhrec.com/articles/the-art-of-a-tempo-board-wipe-in-commander",
   "published": "2027-04-09T00:00:00Z",
   "author": "Cas Hinds",
-  "description": ""
+  "description": "Opinion 11/2/26 Board wipes aren’t just panic buttons: Cas makes the case for the tempo board wipe, a cheap, early sweeper to slow opponents and put you in front."
  },
  {
   "title": "EDHREC Halloween Anthology, Part 2: Six More Tales of Horror by Josh Nelson",
@@ -117,6 +138,13 @@
   "published": "2027-04-09T00:00:00Z",
   "author": "Nick Price",
   "description": "Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg."
+ },
+ {
+  "title": "Captain Jean-Luc Picard | Mono-White Tokens on a Budget",
+  "link": "https://edhrec.com/articles/captain-jean-luc-picard-mono-white-tokens-on-a-budget",
+  "published": "2026-11-03T00:00:00Z",
+  "author": "Tyler Bucks",
+  "description": "Deck Techs 11/3/26 Tyler builds a budget Captain Jean-Luc Picard deck for about $30, as a mono-white token swarm with a six-Spacecraft toolbox to make it so."
  },
  {
   "title": "Dack Fayden, Helping Hand | Blink Deck Tech",
@@ -670,33 +698,5 @@
   "published": "2026-10-05T00:00:00Z",
   "author": "Josh Nelson",
   "description": "News & Reviews 10/5/26 This Secret Lair Festival In A Box is notable as it is the first instance in which the public can access Mystery Booster: Commander Edition."
- },
- {
-  "title": "Wizards Announces MTG God Packs and Changes to Booster Types",
-  "link": "https://edhrec.com/articles/wizards-announces-mtg-god-packs-and-changes-to-booster-types",
-  "published": "2026-10-05T00:00:00Z",
-  "author": "Morgan Sanchez",
-  "description": "News & Reviews 10/5/26 Starting with Nauctis: The Sunken Realm in February 2027, there will be some compelling changes to what you can expect to open in MTG booster packs, let's see what's being added and what's being removed."
- },
- {
-  "title": "Salt Score Voting is Now Open!",
-  "link": "https://edhrec.com/articles/salt-score-voting-is-now-open",
-  "published": "2026-10-05T00:00:00Z",
-  "author": "Josh Nelson",
-  "description": "News & Reviews 10/5/26 In our annual Salt Score polls, readers are encouraged to vote on the cards that make them feel the most salty. But wait, there's more!"
- },
- {
-  "title": "The Intersection of Salt and Rhystic Study",
-  "link": "https://edhrec.com/articles/the-intersections-of-salt-and-rhystic-study",
-  "published": "2026-10-05T00:00:00Z",
-  "author": "Cas Hinds",
-  "description": "Opinion 10/5/26 Everyone's got an opinion on Rhystic Study, and historically, it's one of the saltiest cards ever, as voted on by the community. But why?"
- },
- {
-  "title": "The Top 10 Most-Played Time Spiral Cards",
-  "link": "https://edhrec.com/articles/the-top-10-most-played-time-spiral-cards",
-  "published": "2026-10-05T00:00:00Z",
-  "author": "Nick Price",
-  "description": "Lists 10/5/26 How good was the Time Spiral block for Commander? It turns out: pretty dang good, with several format staples tracing their history to the block."
  }
 ]
