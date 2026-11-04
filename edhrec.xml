@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>November&#x27;s Archidekt Deckbuilding Contest | Deep Cuts Only by Dana Roach</title>
+      <link>https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Dana Roach</dc:creator>
+    </item>
+    <item>
       <title>Am I the Bolas? - *Points Finger* by Mike Carrozza</title>
       <link>https://edhrec.com/articles/am-i-the-bolas-points-finger</link>
       <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-points-finger</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-best-lands-and-artifacts-in-star-trek</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Nicholas Lucchesi</dc:creator>
+      <description>News &amp; Reviews 11/4/26 A card-by-card review of every new land and artifact in Star Trek and its Commander decks, from the best Spacecraft to the biggest misses.</description>
     </item>
     <item>
       <title>Secret Lair Drop: Rise of the Polygons for Extra Life 2026 by Morgan Sanchez</title>
@@ -795,14 +803,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Mike Carrozza</dc:creator>
       <description>Articles 10/7/26 You&#x27;ve wiped everyone&#x27;s board but your own, then your commander gets removed. Who really had the fun removed from the game?</description>
-    </item>
-    <item>
-      <title>The Salty Cards EDHREC Writers Refuse to Face</title>
-      <link>https://edhrec.com/articles/the-edhrec-writers-guide-to-salt</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-edhrec-writers-guide-to-salt</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Wolf</dc:creator>
-      <description>Opinion 10/7/26 From Rhystic Study to Grave Pact, EDHREC&#x27;s writers name the Commander cards that make them saltiest, with stories from games that went wrong.</description>
     </item>
   </channel>
 </rss>

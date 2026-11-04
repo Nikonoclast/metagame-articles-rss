@@ -1,5 +1,12 @@
 [
  {
+  "title": "November's Archidekt Deckbuilding Contest | Deep Cuts Only by Dana Roach",
+  "link": "https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Dana Roach",
+  "description": ""
+ },
+ {
   "title": "Am I the Bolas? - *Points Finger* by Mike Carrozza",
   "link": "https://edhrec.com/articles/am-i-the-bolas-points-finger",
   "published": "2027-04-09T00:00:00Z",
@@ -18,7 +25,7 @@
   "link": "https://edhrec.com/articles/the-best-lands-and-artifacts-in-star-trek",
   "published": "2027-04-09T00:00:00Z",
   "author": "Nicholas Lucchesi",
-  "description": ""
+  "description": "News & Reviews 11/4/26 A card-by-card review of every new land and artifact in Star Trek and its Commander decks, from the best Spacecraft to the biggest misses."
  },
  {
   "title": "Secret Lair Drop: Rise of the Polygons for Extra Life 2026 by Morgan Sanchez",
@@ -691,12 +698,5 @@
   "published": "2026-10-07T00:00:00Z",
   "author": "Mike Carrozza",
   "description": "Articles 10/7/26 You've wiped everyone's board but your own, then your commander gets removed. Who really had the fun removed from the game?"
- },
- {
-  "title": "The Salty Cards EDHREC Writers Refuse to Face",
-  "link": "https://edhrec.com/articles/the-edhrec-writers-guide-to-salt",
-  "published": "2026-10-07T00:00:00Z",
-  "author": "Nick Wolf",
-  "description": "Opinion 10/7/26 From Rhystic Study to Grave Pact, EDHREC's writers name the Commander cards that make them saltiest, with stories from games that went wrong."
  }
 ]
