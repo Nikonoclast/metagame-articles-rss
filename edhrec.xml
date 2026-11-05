@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Magic Movie Adds Maya Hawke to Cast List by Josh Nelson</title>
+      <link>https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
       <title>MagicCon Tokyo New Perspectives Grant Applications Open Now by Josh Nelson</title>
       <link>https://edhrec.com/articles/magiccon-tokyo-new-perspectives-grant-applications-open-now</link>
       <guid isPermaLink="true">https://edhrec.com/articles/magiccon-tokyo-new-perspectives-grant-applications-open-now</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-best-star-trek-commanders-for-beginners</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Jonathan Zucchetti</dc:creator>
+      <description>News &amp; Reviews 11/5/26 From Deanna Troi to a trio of Borg, these Star Trek commanders can teach new players combat, card draw, politics, and artifact synergies.</description>
     </item>
     <item>
       <title>Smooth Sailing: The Best Commander Smoothers of 2026 by Ezra Sassaman</title>
@@ -795,14 +803,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Jonathan Zucchetti</dc:creator>
       <description>Articles 10/8/26 Each color of the pie is known for a &quot;thing&quot; - the one aspect of Magic its best at. But does each color also have a distinct flavor of salt, too?</description>
-    </item>
-    <item>
-      <title>Empowering Carth with Reality Fracture</title>
-      <link>https://edhrec.com/articles/empowering-carth-with-reality-fracture</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/empowering-carth-with-reality-fracture</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Ezra Sassaman</dc:creator>
-      <description>Deck Techs 10/8/26 With a focus on planeswalkers, Reality Fracture brings with it a ton of new toys for Carth the Lion, a Golgari-colored &#x27;walker-loving legend.</description>
     </item>
   </channel>
 </rss>
