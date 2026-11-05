@@ -5,6 +5,11 @@ on:
     # Two chances per hour, at off-peak minutes (GitHub drops busy-minute runs).
     - cron: "7,37 * * * *"
   workflow_dispatch:
+    inputs:
+      publish:
+        description: "Publish even if nothing changed"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -54,6 +59,7 @@ jobs:
       # Saves the feeds and their memory files back to the repository so the
       # last good version always survives a failed run.
       - name: Save feeds and history
+        id: save
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -64,6 +70,7 @@ jobs:
             git commit -m "Update feeds"
             git pull --rebase
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Prepare website folder
@@ -78,8 +85,26 @@ jobs:
           done
           if [ -f index.html ]; then cp index.html _site/; fi
 
+      # Publishing is the slow, occasionally flaky part, so only do it when
+      # something changed, once a day as a safety net (06:00 UTC hour), or
+      # when you ask for it by ticking the box on a manual run.
+      - name: Decide whether to publish
+        id: decide
+        env:
+          CHANGED: ${{ steps.save.outputs.changed }}
+          FORCED: ${{ inputs.publish }}
+        run: |
+          if [ "$CHANGED" = "true" ] || [ "$FORCED" = "true" ] || [ "$(date -u +%H)" = "06" ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+            echo "Publishing."
+          else
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing changed, so skipping the publish step."
+          fi
+
       - name: Upload website
         id: upload
+        if: ${{ steps.decide.outputs.publish == 'true' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
