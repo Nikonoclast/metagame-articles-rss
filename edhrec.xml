@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>The Best Nonlegendary Creatures in Star Trek by Chris Guest</title>
+      <link>https://edhrec.com/articles/the-best-nonlegendary-creatures-in-star-trek</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-best-nonlegendary-creatures-in-star-trek</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Chris Guest</dc:creator>
+    </item>
+    <item>
       <title>Magic Movie Adds Maya Hawke to Cast List by Josh Nelson</title>
       <link>https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</link>
       <guid isPermaLink="true">https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Kara Blinebry</dc:creator>
+      <description>Deck Techs 11/5/26 We&#x27;re getting cards from all over the Star Trek universe, and that includes Lower Decks! Come check out this D&#x27;vana Tendi deck tech.</description>
     </item>
     <item>
       <title>The Best Star Trek Commanders for Beginners by Jonathan Zucchetti</title>
@@ -795,14 +803,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Kurohitsuki</dc:creator>
       <description>News &amp; Reviews 10/8/26 Now that Reality Fracture&#x27;s out in the wild, it&#x27;s time to take a deep dive into the mechanics of the set, both official and otherwise.</description>
-    </item>
-    <item>
-      <title>What Do You Salt? A Guide to Each Color&#x27;s Flavor of Salt</title>
-      <link>https://edhrec.com/articles/what-do-you-salt-a-guide-to-each-colors-flavor-of-salt</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/what-do-you-salt-a-guide-to-each-colors-flavor-of-salt</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jonathan Zucchetti</dc:creator>
-      <description>Articles 10/8/26 Each color of the pie is known for a &quot;thing&quot; - the one aspect of Magic its best at. But does each color also have a distinct flavor of salt, too?</description>
     </item>
   </channel>
 </rss>

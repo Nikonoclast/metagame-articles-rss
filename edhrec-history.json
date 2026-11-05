@@ -1,5 +1,12 @@
 [
  {
+  "title": "The Best Nonlegendary Creatures in Star Trek by Chris Guest",
+  "link": "https://edhrec.com/articles/the-best-nonlegendary-creatures-in-star-trek",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Chris Guest",
+  "description": ""
+ },
+ {
   "title": "Magic Movie Adds Maya Hawke to Cast List by Josh Nelson",
   "link": "https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list",
   "published": "2027-04-09T00:00:00Z",
@@ -18,7 +25,7 @@
   "link": "https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck",
   "published": "2027-04-09T00:00:00Z",
   "author": "Kara Blinebry",
-  "description": ""
+  "description": "Deck Techs 11/5/26 We're getting cards from all over the Star Trek universe, and that includes Lower Decks! Come check out this D'vana Tendi deck tech."
  },
  {
   "title": "The Best Star Trek Commanders for Beginners by Jonathan Zucchetti",
@@ -691,12 +698,5 @@
   "published": "2026-10-08T00:00:00Z",
   "author": "Kurohitsuki",
   "description": "News & Reviews 10/8/26 Now that Reality Fracture's out in the wild, it's time to take a deep dive into the mechanics of the set, both official and otherwise."
- },
- {
-  "title": "What Do You Salt? A Guide to Each Color's Flavor of Salt",
-  "link": "https://edhrec.com/articles/what-do-you-salt-a-guide-to-each-colors-flavor-of-salt",
-  "published": "2026-10-08T00:00:00Z",
-  "author": "Jonathan Zucchetti",
-  "description": "Articles 10/8/26 Each color of the pie is known for a \"thing\" - the one aspect of Magic its best at. But does each color also have a distinct flavor of salt, too?"
  }
 ]
