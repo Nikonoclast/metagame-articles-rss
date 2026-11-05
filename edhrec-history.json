@@ -1,24 +1,45 @@
 [
  {
+  "title": "D'Vana Tendi, Optimistic Ensign | Big Mana Artifacts Deck by Kara Blinebry",
+  "link": "https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Kara Blinebry",
+  "description": ""
+ },
+ {
+  "title": "The Best Star Trek Commanders for Beginners by Jonathan Zucchetti",
+  "link": "https://edhrec.com/articles/the-best-star-trek-commanders-for-beginners",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Jonathan Zucchetti",
+  "description": ""
+ },
+ {
+  "title": "Smooth Sailing: The Best Commander Smoothers of 2026 by Ezra Sassaman",
+  "link": "https://edhrec.com/articles/smooth-sailing-the-best-commander-smoothers-of-2026",
+  "published": "2027-04-09T00:00:00Z",
+  "author": "Ezra Sassaman",
+  "description": ""
+ },
+ {
   "title": "November's Archidekt Deckbuilding Contest | Deep Cuts Only by Dana Roach",
   "link": "https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only",
   "published": "2027-04-09T00:00:00Z",
   "author": "Dana Roach",
-  "description": ""
+  "description": "News & Reviews 11/4/26 November’s Archidekt Deckbuilding Contest wants an underplayed commander with fewer than 500 EDHREC decks. Here’s how to enter and win."
  },
  {
   "title": "Am I the Bolas? - *Points Finger* by Mike Carrozza",
   "link": "https://edhrec.com/articles/am-i-the-bolas-points-finger",
   "published": "2027-04-09T00:00:00Z",
   "author": "Mike Carrozza",
-  "description": ""
+  "description": "Opinion 11/4/26 A player has been targeting you all night, then you return the favor and they explode. Who's in the wrong here?"
  },
  {
   "title": "A Castlevania Deck Featuring the Good Guys | Beyond Universes Within by Arnaud Gompertz",
   "link": "https://edhrec.com/articles/a-castlevania-deck-featuring-the-good-guys-beyond-universes-within",
   "published": "2027-04-09T00:00:00Z",
   "author": "Arnaud Gompertz",
-  "description": ""
+  "description": "Deck Techs 11/4/26 This time it's about the good guys, as Arnaud crafts a Bracket 1 tribute to Castlevania’s heroes, the Belmonts, Alucard, and more."
  },
  {
   "title": "The Best Lands and Artifacts in Star Trek by Nicholas Lucchesi",
@@ -180,6 +201,13 @@
   "published": "2027-04-09T00:00:00Z",
   "author": "Nick Price",
   "description": "Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg."
+ },
+ {
+  "title": "Mystery Booster Commander's Best Combo Cards, Ranked | Wombo Combo",
+  "link": "https://edhrec.com/articles/mystery-booster-commanders-best-combo-cards-ranked-wombo-combo",
+  "published": "2026-11-05T00:00:00Z",
+  "author": "Ethan Coover",
+  "description": "Lists 11/5/26 With Mystery Booster Commander Edition coming, Ethan ranks the top 10 combo cards by Commander Spellbook data, from Ekthi to Massimo."
  },
  {
   "title": "Captain Jean-Luc Picard | Mono-White Tokens on a Budget",
@@ -670,33 +698,5 @@
   "published": "2026-10-07T00:00:00Z",
   "author": "Dana Roach",
   "description": "News & Reviews 10/7/26 October's deckbuilding contest is challenging players to think about Halloween with a deck built around tricks, treats, or both."
- },
- {
-  "title": "The Sodium Content Difference Between USA and France",
-  "link": "https://edhrec.com/articles/the-sodium-content-difference-between-usa-and-france",
-  "published": "2026-10-07T00:00:00Z",
-  "author": "Arnaud Gompertz",
-  "description": "Opinion 10/7/26 Commander is played worldwide, which means different cultures bring their own levels of salt tolerance to the table. What's it like in France?"
- },
- {
-  "title": "10 High-Salt Cards the Community Got Wrong",
-  "link": "https://edhrec.com/articles/10-high-salt-cards-the-community-got-wrong",
-  "published": "2026-10-07T00:00:00Z",
-  "author": "Nicholas Lucchesi",
-  "description": "Lists 10/7/26 Everyone agrees that the top tier of salty cards deserves their ranking...or do they? Take a look at some cards that don't deserve the hate."
- },
- {
-  "title": "Flickering Hound: Five Ways to Use It in Commander",
-  "link": "https://edhrec.com/articles/flickering-hound-five-ways-to-use-it-in-commander",
-  "published": "2026-10-07T00:00:00Z",
-  "author": "Alejandro Fuentes",
-  "description": "Lists 10/7/26 A card like Flickering Hound will impact Commander games in plenty of ways - Alejandro explores four good ways and one not so good way."
- },
- {
-  "title": "Am I the Bolas? - \"Real Fun\"",
-  "link": "https://edhrec.com/articles/am-i-the-bolas-real-fun",
-  "published": "2026-10-07T00:00:00Z",
-  "author": "Mike Carrozza",
-  "description": "Articles 10/7/26 You've wiped everyone's board but your own, then your commander gets removed. Who really had the fun removed from the game?"
  }
 ]

@@ -8,11 +8,33 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>D&#x27;Vana Tendi, Optimistic Ensign | Big Mana Artifacts Deck by Kara Blinebry</title>
+      <link>https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Kara Blinebry</dc:creator>
+    </item>
+    <item>
+      <title>The Best Star Trek Commanders for Beginners by Jonathan Zucchetti</title>
+      <link>https://edhrec.com/articles/the-best-star-trek-commanders-for-beginners</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-best-star-trek-commanders-for-beginners</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Jonathan Zucchetti</dc:creator>
+    </item>
+    <item>
+      <title>Smooth Sailing: The Best Commander Smoothers of 2026 by Ezra Sassaman</title>
+      <link>https://edhrec.com/articles/smooth-sailing-the-best-commander-smoothers-of-2026</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/smooth-sailing-the-best-commander-smoothers-of-2026</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Ezra Sassaman</dc:creator>
+    </item>
+    <item>
       <title>November&#x27;s Archidekt Deckbuilding Contest | Deep Cuts Only by Dana Roach</title>
       <link>https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only</link>
       <guid isPermaLink="true">https://edhrec.com/articles/novembers-archidekt-deckbuilding-contest-deep-cuts-only</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Dana Roach</dc:creator>
+      <description>News &amp; Reviews 11/4/26 November’s Archidekt Deckbuilding Contest wants an underplayed commander with fewer than 500 EDHREC decks. Here’s how to enter and win.</description>
     </item>
     <item>
       <title>Am I the Bolas? - *Points Finger* by Mike Carrozza</title>
@@ -20,6 +42,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-points-finger</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Mike Carrozza</dc:creator>
+      <description>Opinion 11/4/26 A player has been targeting you all night, then you return the favor and they explode. Who&#x27;s in the wrong here?</description>
     </item>
     <item>
       <title>A Castlevania Deck Featuring the Good Guys | Beyond Universes Within by Arnaud Gompertz</title>
@@ -27,6 +50,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/a-castlevania-deck-featuring-the-good-guys-beyond-universes-within</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Arnaud Gompertz</dc:creator>
+      <description>Deck Techs 11/4/26 This time it&#x27;s about the good guys, as Arnaud crafts a Bracket 1 tribute to Castlevania’s heroes, the Belmonts, Alucard, and more.</description>
     </item>
     <item>
       <title>The Best Lands and Artifacts in Star Trek by Nicholas Lucchesi</title>
@@ -211,6 +235,14 @@
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
       <description>Data 10/26/26 Counting down the 10 most played Modern Horizons 2 cards in Commander, from Liquimetal Torque to Esper Sentinel and a green Urborg.</description>
+    </item>
+    <item>
+      <title>Mystery Booster Commander&#x27;s Best Combo Cards, Ranked | Wombo Combo</title>
+      <link>https://edhrec.com/articles/mystery-booster-commanders-best-combo-cards-ranked-wombo-combo</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/mystery-booster-commanders-best-combo-cards-ranked-wombo-combo</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Ethan Coover</dc:creator>
+      <description>Lists 11/5/26 With Mystery Booster Commander Edition coming, Ethan ranks the top 10 combo cards by Commander Spellbook data, from Ekthi to Massimo.</description>
     </item>
     <item>
       <title>Captain Jean-Luc Picard | Mono-White Tokens on a Budget</title>
@@ -771,38 +803,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Dana Roach</dc:creator>
       <description>News &amp; Reviews 10/7/26 October&#x27;s deckbuilding contest is challenging players to think about Halloween with a deck built around tricks, treats, or both.</description>
-    </item>
-    <item>
-      <title>The Sodium Content Difference Between USA and France</title>
-      <link>https://edhrec.com/articles/the-sodium-content-difference-between-usa-and-france</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-sodium-content-difference-between-usa-and-france</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Arnaud Gompertz</dc:creator>
-      <description>Opinion 10/7/26 Commander is played worldwide, which means different cultures bring their own levels of salt tolerance to the table. What&#x27;s it like in France?</description>
-    </item>
-    <item>
-      <title>10 High-Salt Cards the Community Got Wrong</title>
-      <link>https://edhrec.com/articles/10-high-salt-cards-the-community-got-wrong</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/10-high-salt-cards-the-community-got-wrong</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nicholas Lucchesi</dc:creator>
-      <description>Lists 10/7/26 Everyone agrees that the top tier of salty cards deserves their ranking...or do they? Take a look at some cards that don&#x27;t deserve the hate.</description>
-    </item>
-    <item>
-      <title>Flickering Hound: Five Ways to Use It in Commander</title>
-      <link>https://edhrec.com/articles/flickering-hound-five-ways-to-use-it-in-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/flickering-hound-five-ways-to-use-it-in-commander</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Alejandro Fuentes</dc:creator>
-      <description>Lists 10/7/26 A card like Flickering Hound will impact Commander games in plenty of ways - Alejandro explores four good ways and one not so good way.</description>
-    </item>
-    <item>
-      <title>Am I the Bolas? - &quot;Real Fun&quot;</title>
-      <link>https://edhrec.com/articles/am-i-the-bolas-real-fun</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-real-fun</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Mike Carrozza</dc:creator>
-      <description>Articles 10/7/26 You&#x27;ve wiped everyone&#x27;s board but your own, then your commander gets removed. Who really had the fun removed from the game?</description>
     </item>
   </channel>
 </rss>
