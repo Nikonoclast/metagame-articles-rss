@@ -8,7 +8,7 @@ writing the RSS file.
 import html
 import json
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
@@ -69,8 +69,17 @@ def from_iso(text):
 
 # ----------------------------------------------------------------- history
 
+def is_future(moment, slack_days=1):
+    """True if a date is implausibly far in the future (a parsing mistake)."""
+    return moment > datetime.now(timezone.utc) + timedelta(days=slack_days)
+
+
 def load_history(path):
-    """Read the saved article list. Returns {link: article}."""
+    """Read the saved article list. Returns {link: article}.
+
+    Articles saved with a date in the future are discarded so they get
+    re-read (and re-dated) from the website on the next run.
+    """
     path = Path(path)
     if not path.exists():
         return {}
@@ -83,6 +92,12 @@ def load_history(path):
     if isinstance(data, list):
         for item in data:
             if isinstance(item, dict) and item.get("link") and item.get("published"):
+                try:
+                    if is_future(from_iso(item["published"])):
+                        print(f"Discarding saved article with a bad date: {item['link']}")
+                        continue
+                except ValueError:
+                    continue
                 history[item["link"]] = item
     return history
 

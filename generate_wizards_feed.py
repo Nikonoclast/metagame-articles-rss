@@ -145,6 +145,8 @@ def fetch_article(session, link, title):
         print(f"Could not fetch article: {link} ({error})")
         return None
     published = parse_article_date(soup)
+    if published is not None and feedlib.is_future(published):
+        published = None
     if published is None:
         print(f"No publication date found: {link}")
         return None

@@ -38,6 +38,8 @@ DATE_PATTERN = re.compile(
     r"\b(?:January|February|March|April|May|June|July|August|September|"
     r"October|November|December)\s+\d{1,2},\s+\d{4}\b"
 )
+# EDHREC cards show dates like "11/5/26" (month/day/year).
+SHORT_DATE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(\d{2})\b")
 EXCLUDED_SLUGS = {"for-writers", "authors", "tags", "tag", "author"}
 
 
@@ -75,29 +77,27 @@ def find_card(link):
 
 
 def parse_date(text):
+    for match in SHORT_DATE.finditer(text):
+        month, day, year = (int(part) for part in match.groups())
+        try:
+            return datetime(2000 + year, month, day, tzinfo=timezone.utc)
+        except ValueError:
+            continue
     match = DATE_PATTERN.search(text)
-    if not match:
-        return None
-    try:
-        return datetime.strptime(match.group(0), "%B %d, %Y").replace(tzinfo=timezone.utc)
-    except ValueError:
-        return None
-
-
-def find_date(link, card):
-    published = parse_date(card.get_text(" ", strip=True))
-    if published:
-        return published
-    # Fallback: the original, wider search, so nothing that used to work breaks.
-    current = link
-    for _ in range(7):
-        if current is None:
-            break
-        published = parse_date(current.get_text(" ", strip=True))
-        if published:
-            return published
-        current = current.parent
+    if match:
+        try:
+            return datetime.strptime(match.group(0), "%B %d, %Y").replace(tzinfo=timezone.utc)
+        except ValueError:
+            pass
     return None
+
+
+def find_date(card):
+    """Read the date from this article's own card only (never the wider page)."""
+    published = parse_date(card.get_text(" ", strip=True))
+    if published is None or feedlib.is_future(published):
+        return None
+    return published
 
 
 def find_author(card):
@@ -113,17 +113,23 @@ def find_author(card):
     return ""
 
 
-def find_description(card, title, author):
+def find_details(card, title, author):
+    """Return (category, description) from the rest of the card's text."""
     text = card.get_text(" ", strip=True)
     text = text.replace(title, "", 1)
-    text = DATE_PATTERN.sub("", text)
     if author:
         text = re.sub(r"\bby\s+" + re.escape(author), "", text, flags=re.IGNORECASE)
         text = text.replace(author, "", 1)
     text = feedlib.clean(text)
-    if 30 <= len(text) < 1000:
-        return text
-    return ""
+    category = ""
+    match = SHORT_DATE.search(text)
+    if match and match.start() < 40:
+        category = text[:match.start()].strip()
+        text = text[match.end():].strip()
+    text = feedlib.clean(DATE_PATTERN.sub("", text))
+    if not (30 <= len(text) < 1000):
+        text = ""
+    return category, text
 
 
 def extract_cards(soup):
@@ -139,16 +145,22 @@ def extract_cards(soup):
             continue
 
         card = find_card(link)
-        published = find_date(link, card)
+        published = find_date(card)
         if published is None:
-            continue
+            # No readable date (e.g. a newest-article banner): use today's date.
+            # It is saved on first sight, so it won't change on later runs.
+            published = datetime.now(timezone.utc).replace(second=0, microsecond=0)
         author = find_author(card)
+        if author and title.endswith(f" by {author}"):
+            title = title[: -len(f" by {author}")].strip()
+        category, description = find_details(card, title, author)
         cards[url] = {
             "title": title,
             "link": url,
             "published": feedlib.to_iso(published),
             "author": author,
-            "description": find_description(card, title, author),
+            "category": category,
+            "description": description,
         }
     return cards
 
