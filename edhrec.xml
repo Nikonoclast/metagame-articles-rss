@@ -8,6 +8,13 @@
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 09 Apr 2027 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>MagicCon Tokyo New Perspectives Grant Applications Open Now by Josh Nelson</title>
+      <link>https://edhrec.com/articles/magiccon-tokyo-new-perspectives-grant-applications-open-now</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/magiccon-tokyo-new-perspectives-grant-applications-open-now</guid>
+      <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
       <title>D&#x27;Vana Tendi, Optimistic Ensign | Big Mana Artifacts Deck by Kara Blinebry</title>
       <link>https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</link>
       <guid isPermaLink="true">https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</guid>
@@ -27,6 +34,7 @@
       <guid isPermaLink="true">https://edhrec.com/articles/smooth-sailing-the-best-commander-smoothers-of-2026</guid>
       <pubDate>Fri, 09 Apr 2027 00:00:00 GMT</pubDate>
       <dc:creator>Ezra Sassaman</dc:creator>
+      <description>Lists 11/5/26 The best smoothers of 2026: cheap Commander cards that find early land drops and stay useful late, sorted by color with commander pairings.</description>
     </item>
     <item>
       <title>November&#x27;s Archidekt Deckbuilding Contest | Deep Cuts Only by Dana Roach</title>
@@ -795,14 +803,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Ezra Sassaman</dc:creator>
       <description>Deck Techs 10/8/26 With a focus on planeswalkers, Reality Fracture brings with it a ton of new toys for Carth the Lion, a Golgari-colored &#x27;walker-loving legend.</description>
-    </item>
-    <item>
-      <title>Archidekt Deckbuilding Contest — October 2026</title>
-      <link>https://edhrec.com/articles/archidekt-deckbuilding-contest-october-2026</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/archidekt-deckbuilding-contest-october-2026</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Dana Roach</dc:creator>
-      <description>News &amp; Reviews 10/7/26 October&#x27;s deckbuilding contest is challenging players to think about Halloween with a deck built around tricks, treats, or both.</description>
     </item>
   </channel>
 </rss>
