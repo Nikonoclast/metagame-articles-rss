@@ -6,7 +6,14 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Changelog: Big Performance Upgrades</title>
+      <link>https://edhrec.com/articles/changelog-big-performance-upgrades</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/changelog-big-performance-upgrades</guid>
+      <pubDate>Fri, 06 Nov 2026 18:30:00 GMT</pubDate>
+      <dc:creator>GGards</dc:creator>
+    </item>
     <item>
       <title>Mizzix&#x27;s Seize Control | Precon Remastered</title>
       <link>https://edhrec.com/articles/mizzixs-seize-control-precon-remastered</link>
@@ -27,6 +34,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-sisay-weatherlight-captain-fire-and-ice</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Julia Maddalena</dc:creator>
+      <category>cEDH November 6, 2026</category>
+      <description>Sisay, Weatherlight Captain&#x27;s cEDH data shows Samut and Shang-Chi heating up for the five-color legend,, while Kutzil and planeswalkers shiver.</description>
     </item>
     <item>
       <title>Star Trek Typal Set Review</title>
