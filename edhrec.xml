@@ -6,13 +6,45 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 22:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Mizzix&#x27;s Seize Control | Precon Remastered</title>
+      <link>https://edhrec.com/articles/mizzixs-seize-control-precon-remastered</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/mizzixs-seize-control-precon-remastered</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Owain Roberts</dc:creator>
+    </item>
+    <item>
+      <title>Top 10 Dilemmas for Seven of Nine</title>
+      <link>https://edhrec.com/articles/top-10-dilemmas-for-seven-of-nine</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/top-10-dilemmas-for-seven-of-nine</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>DougY</dc:creator>
+    </item>
+    <item>
+      <title>Which Cards Are Hot and Cold for Sisay, Weatherlight Captain? | Fire and Ice</title>
+      <link>https://edhrec.com/articles/which-cards-are-hot-and-cold-for-sisay-weatherlight-captain-fire-and-ice</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-sisay-weatherlight-captain-fire-and-ice</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Julia Maddalena</dc:creator>
+    </item>
+    <item>
+      <title>Star Trek Typal Set Review</title>
+      <link>https://edhrec.com/articles/star-trek-typal-set-review</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/star-trek-typal-set-review</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Jeremy Rowe</dc:creator>
+      <category>News &amp; Reviews November 6, 2026</category>
+      <description>The best Star Trek cards for Typal Commander decks, from the federation mechanic to Picard, Sisko, Worf, and Klingon-pumping General Chang.</description>
+    </item>
     <item>
       <title>Magic Movie Adds Maya Hawke to Cast List</title>
       <link>https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</link>
       <guid isPermaLink="true">https://edhrec.com/articles/magic-movie-adds-maya-hawke-to-cast-list</guid>
       <pubDate>Thu, 05 Nov 2026 22:18:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
+      <category>News &amp; Reviews November 5, 2026</category>
+      <description>The Magic movie has cast Maya Hawke (of Stranger Things fame, among others) in a yet-undisclosed role. Could she be Chandra?</description>
     </item>
     <item>
       <title>MagicCon Tokyo New Perspectives Grant Applications Open Now</title>
@@ -20,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/magiccon-tokyo-new-perspectives-grant-applications-open-now</guid>
       <pubDate>Thu, 05 Nov 2026 22:18:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
+      <category>News &amp; Reviews November 5, 2026</category>
+      <description>Wizards of the Coast is looking to help marginalized Magic fans get to MagicCon Tokyo with a $2000 grant through the New Perspectives grant!</description>
     </item>
     <item>
       <title>D&#x27;Vana Tendi, Optimistic Ensign | Big Mana Artifacts Deck</title>
@@ -27,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/dvana-tendi-optimistic-ensign-big-mana-artifacts-deck</guid>
       <pubDate>Thu, 05 Nov 2026 22:18:00 GMT</pubDate>
       <dc:creator>Kara Blinebry</dc:creator>
+      <category>Deck Techs November 5, 2026</category>
+      <description>We&#x27;re getting cards from all over the Star Trek universe, and that includes Lower Decks! Come check out this D&#x27;vana Tendi deck tech.</description>
     </item>
     <item>
       <title>The Best Nonlegendary Creatures in Star Trek</title>
