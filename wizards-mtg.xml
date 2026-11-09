@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>MTG Arena Announcements – November 9, 2026</title>
+      <link>https://www.magic.wizards.com/en/news/mtg-arena/announcements-november-9-2026</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/mtg-arena/announcements-november-9-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Design Files: Fifth Dawn, Part 2</title>
       <link>https://www.magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-2</link>
