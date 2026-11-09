@@ -6,13 +6,45 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Nov 2026 18:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Best Instants and Sorceries from Star Trek</title>
+      <link>https://edhrec.com/articles/best-instants-and-sorceries-from-star-trek</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/best-instants-and-sorceries-from-star-trek</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Ciel Collins</dc:creator>
+    </item>
+    <item>
+      <title>Star Trek Spacecraft for Commander: Which Ships Are the Best?</title>
+      <link>https://edhrec.com/articles/star-trek-spacecraft-for-commander-which-ships-are-the-best</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/star-trek-spacecraft-for-commander-which-ships-are-the-best</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Alejandro Fuentes</dc:creator>
+    </item>
+    <item>
+      <title>The Top 10 Most-Played Kaldheim Cards</title>
+      <link>https://edhrec.com/articles/the-top-10-most-played-kaldheim-cards</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-kaldheim-cards</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Nick Price</dc:creator>
+    </item>
+    <item>
+      <title>Burden of Guilt: The &quot;Mean Commander&quot; Experience</title>
+      <link>https://edhrec.com/articles/burden-of-guilt-the-mean-commander-experience</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/burden-of-guilt-the-mean-commander-experience</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Cas Hinds</dc:creator>
+      <category>Opinion November 9, 2026</category>
+      <description>Some Commander archetypes come with social baggage. Cas Hinds breaks down which decks draw the table’s salt, and who shouldn’t build them.</description>
+    </item>
     <item>
       <title>Changelog: Big Performance Upgrades</title>
       <link>https://edhrec.com/articles/changelog-big-performance-upgrades</link>
       <guid isPermaLink="true">https://edhrec.com/articles/changelog-big-performance-upgrades</guid>
       <pubDate>Fri, 06 Nov 2026 18:30:00 GMT</pubDate>
       <dc:creator>GGards</dc:creator>
+      <category>Changelog November 6, 2026</category>
+      <description>GGards returns to provide insight into recent performance upgrades made to the site, as well as a number of bug fixes and features added.</description>
     </item>
     <item>
       <title>Mizzix&#x27;s Seize Control | Precon Remastered</title>
@@ -20,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/mizzixs-seize-control-precon-remastered</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Owain Roberts</dc:creator>
+      <category>Deck Techs November 6, 2026</category>
+      <description>Precon Remastered rebuilds Commander 2015’s Seize Control around Mizzix of the Izmagnus, with modern Izzet-y X-spells and cost reducers.</description>
     </item>
     <item>
       <title>Top 10 Dilemmas for Seven of Nine</title>
@@ -27,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/top-10-dilemmas-for-seven-of-nine</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>DougY</dc:creator>
+      <category>Lists November 6, 2026</category>
+      <description>Seven of Nine wants you to make choices, so which are the best cheap modal spells within Dimir? Let&#x27;s find out.</description>
     </item>
     <item>
       <title>Which Cards Are Hot and Cold for Sisay, Weatherlight Captain? | Fire and Ice</title>
@@ -801,14 +837,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Kara Blinebry</dc:creator>
       <description>Articles 10/8/26 Mass land denial is the worst, isn&#x27;t it? ... or is it? In this article, Kara lays out some reasons why the strategy may not be that bad.</description>
-    </item>
-    <item>
-      <title>The Mechanics of the Echoverse</title>
-      <link>https://edhrec.com/articles/the-mechanics-of-the-echoverse</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-mechanics-of-the-echoverse</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kurohitsuki</dc:creator>
-      <description>News &amp; Reviews 10/8/26 Now that Reality Fracture&#x27;s out in the wild, it&#x27;s time to take a deep dive into the mechanics of the set, both official and otherwise.</description>
     </item>
   </channel>
 </rss>
