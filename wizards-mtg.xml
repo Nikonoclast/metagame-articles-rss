@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Design Files: Fifth Dawn, Part 2</title>
+      <link>https://www.magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-2</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-2</guid>
+      <pubDate>Mon, 09 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Magic: The Gathering® | Star Trek™ Update Bulletin</title>
       <link>https://www.magic.wizards.com/en/news/announcements/star-trek-update-bulletin</link>
