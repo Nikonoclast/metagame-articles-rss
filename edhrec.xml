@@ -6,13 +6,45 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>How Good is Star Trek for Commander?</title>
+      <link>https://edhrec.com/articles/how-good-is-star-trek-for-commander</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/how-good-is-star-trek-for-commander</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Bennie Smith</dc:creator>
+    </item>
+    <item>
+      <title>Star Trek&#x27;s Best Commons &amp; Uncommons for Commander</title>
+      <link>https://edhrec.com/articles/star-treks-best-commons-uncommons-for-commander</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/star-treks-best-commons-uncommons-for-commander</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Tyler Bucks</dc:creator>
+    </item>
+    <item>
+      <title>Star Trek: A cEDH Set Review</title>
+      <link>https://edhrec.com/articles/star-trek-a-cedh-set-review</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/star-trek-a-cedh-set-review</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Harvey McGuinness</dc:creator>
+    </item>
+    <item>
+      <title>Which Star Trek Commanders Are the Most Fun?</title>
+      <link>https://edhrec.com/articles/which-star-trek-commanders-are-the-most-fun</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/which-star-trek-commanders-are-the-most-fun</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Benjamin Levin</dc:creator>
+      <category>Lists November 10, 2026</category>
+      <description>Star Trek beamed a bridge crew of new legends into Magic. Ben Levin ranks his top 10 Star Trek commanders by fun, not power. Who made the cut?</description>
+    </item>
     <item>
       <title>Best Instants and Sorceries from Star Trek</title>
       <link>https://edhrec.com/articles/best-instants-and-sorceries-from-star-trek</link>
       <guid isPermaLink="true">https://edhrec.com/articles/best-instants-and-sorceries-from-star-trek</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Ciel Collins</dc:creator>
+      <category>News &amp; Reviews November 9, 2026</category>
+      <description>The best Star Trek instants and sorceries for Commander, color by color, from Brazen Bluff and Own the Day to Live Long and Prosper.</description>
     </item>
     <item>
       <title>Star Trek Spacecraft for Commander: Which Ships Are the Best?</title>
@@ -20,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/star-trek-spacecraft-for-commander-which-ships-are-the-best</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Alejandro Fuentes</dc:creator>
+      <category>Lists November 9, 2026</category>
+      <description>Which Star Trek Spacecraft are worth stationing in Commander? Alejandro ranks 15, from S-tier Queen’s Diamond to sub-standard ships.</description>
     </item>
     <item>
       <title>The Top 10 Most-Played Kaldheim Cards</title>
@@ -27,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-kaldheim-cards</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
+      <category>Data November 9, 2026</category>
+      <description>Which Kaldheim cards see the most Commander play? Nick Price counts down the top 10, from The World Tree combo to Goldspan Dragon.</description>
     </item>
     <item>
       <title>Burden of Guilt: The &quot;Mean Commander&quot; Experience</title>
@@ -805,38 +841,6 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Julia Maddalena</dc:creator>
       <description>Data 10/9/26 In honor of the final day of Salt Week, Julia looks at the saltiest commander of 2025&#x27;s vote to see what&#x27;s hot and cold for Tergrid, God of Fright.</description>
-    </item>
-    <item>
-      <title>Top 10 Worst Salty Cards</title>
-      <link>https://edhrec.com/articles/top-10-worst-salty-cards</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/top-10-worst-salty-cards</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>DougY</dc:creator>
-      <description>Articles 10/9/26 We&#x27;ve all got our cards that make us really salty, but what about the cards that make folks salty that just don&#x27;t have a lot going on?</description>
-    </item>
-    <item>
-      <title>What&#x27;s the Saltiest Creature Type?</title>
-      <link>https://edhrec.com/articles/whats-the-saltiest-creature-type</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/whats-the-saltiest-creature-type</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jeremy Rowe</dc:creator>
-      <description>Lists 10/9/26 When it comes to creature types, not all are created equal in terms of the amount of salt they generate. Which produce the most sodium?</description>
-    </item>
-    <item>
-      <title>Raising the Nine Hells With Avacyn, Angel of Horror</title>
-      <link>https://edhrec.com/articles/raising-the-nine-hells-with-avacyn-angel-of-horror</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/raising-the-nine-hells-with-avacyn-angel-of-horror</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Josh Nelson</dc:creator>
-      <description>Deck Techs 10/8/26 As a &quot;filthy Aristocrats player,&quot; it&#x27;s only right that Josh Nelson covers the newest spooky commander in mono-black: Avacyn, Angel of Horror!</description>
-    </item>
-    <item>
-      <title>Mass Land Denial Is Fun, Actually</title>
-      <link>https://edhrec.com/articles/mass-land-denial-is-fun-actually</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/mass-land-denial-is-fun-actually</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kara Blinebry</dc:creator>
-      <description>Articles 10/8/26 Mass land denial is the worst, isn&#x27;t it? ... or is it? In this article, Kara lays out some reasons why the strategy may not be that bad.</description>
     </item>
   </channel>
 </rss>
