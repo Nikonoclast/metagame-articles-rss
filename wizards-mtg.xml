@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Artist Credit Update</title>
+      <link>https://www.magic.wizards.com/en/news/announcements/artist-credit-update</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/announcements/artist-credit-update</guid>
+      <pubDate>Thu, 12 Nov 2026 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>MTG Arena Announcements – November 9, 2026</title>
       <link>https://www.magic.wizards.com/en/news/mtg-arena/announcements-november-9-2026</link>
