@@ -6,13 +6,36 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ten Cards I Still Visit in the Retirement Home</title>
+      <link>https://edhrec.com/articles/ten-card-i-still-visit-in-the-retirement-home</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/ten-card-i-still-visit-in-the-retirement-home</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Levi Perry</dc:creator>
+    </item>
+    <item>
+      <title>A Brazen Bluff | Star Trek: The Original Series, Card by Card by Kara Blinebry</title>
+      <link>https://edhrec.com/articles/a-brazen-bluff-star-trek-the-original-series-card-by-card</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/a-brazen-bluff-star-trek-the-original-series-card-by-card</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Card</dc:creator>
+    </item>
+    <item>
+      <title>The Best Enchantments in Star Trek</title>
+      <link>https://edhrec.com/articles/the-best-enchantments-in-star-trek</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-best-enchantments-in-star-trek</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
     <item>
       <title>Get Your Smarts Together with this Trimmed Lyra, Tolarian Archangel Deck</title>
       <link>https://edhrec.com/articles/get-your-smarts-together-with-this-trimmed-lyra-tolarian-archangel-deck</link>
       <guid isPermaLink="true">https://edhrec.com/articles/get-your-smarts-together-with-this-trimmed-lyra-tolarian-archangel-deck</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Arnaud Gompertz</dc:creator>
+      <category>Deck Techs November 11, 2026</category>
+      <description>This week, Arnaud takes to the skies on a low-cost company, with a budget Lyra, Tolarian Archangel deck including no cards above $1.10.</description>
     </item>
     <item>
       <title>Which Cards Are Hot and Cold for Ashling, the Limitless? | Fire and Ice</title>
@@ -20,6 +43,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-ashling-the-limitless-fire-and-ice</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Cooper Gottfried</dc:creator>
+      <category>Data November 11, 2026</category>
+      <description>Julia digs into the data to see which cards are heating up and cooling off in Elemental decks led by five-color Ashling, the Limitless.</description>
     </item>
     <item>
       <title>The Over/Under - Predicting the Popularity of Reality Fracture Commanders, Part 2: Rares &amp; Mythics</title>
@@ -27,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-over-under-predicting-the-popularity-of-reality-fracture-commanders-part-2-rares-mythics</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Kyle Massa</dc:creator>
+      <category>Lists November 11, 2026</category>
+      <description>Kyle returns to finish grading the Reality Fracture commanders. Which new legends will clear 1,200 decks in a year, and which will fall short?</description>
     </item>
     <item>
       <title>Am I the Bolas? - &quot;In Front of My Baby?!&quot;</title>
@@ -823,30 +850,6 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
       <description>News &amp; Reviews 10/12/26 Dragon Shield released this set of Halloween sleeves on Friday, October 2nd! How do we feel about them? Read on, and find out!</description>
-    </item>
-    <item>
-      <title>Are Magic Players Their Own Scalpers?</title>
-      <link>https://edhrec.com/articles/are-magic-players-their-own-scalpers</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/are-magic-players-their-own-scalpers</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Cas Hinds</dc:creator>
-      <description>Opinion 10/12/26 We&#x27;ve all heard blame levied toward &quot;scalpers&quot; for rising prices, scarcity, and online sales going sideways - but maybe we&#x27;re the problem, too.</description>
-    </item>
-    <item>
-      <title>The Top 10 Most-Played Planar Chaos Cards</title>
-      <link>https://edhrec.com/articles/the-top-10-most-played-planar-chaos-cards</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-planar-chaos-cards</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Price</dc:creator>
-      <description>Lists 10/12/26 The 10 most-played Planar Chaos cards in Commander, from Dawn Charm to Urborg: the colorshifted spells that bent the color pie 20 years ago.</description>
-    </item>
-    <item>
-      <title>Ranking Every Five Color Artifact</title>
-      <link>https://edhrec.com/articles/ranking-every-five-color-artifact</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/ranking-every-five-color-artifact</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Alejandro Fuentes</dc:creator>
-      <description>Lists 10/12/26 Inspired by Echoverse Karn&#x27;s shiny golden makeover, Alejandro ranks every five-color artifact based on playability, art, and overall cool factor.</description>
     </item>
   </channel>
 </rss>
