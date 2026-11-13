@@ -6,7 +6,25 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 21:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Collecting Nauctis: The Sunken Realm | A First Look</title>
+      <link>https://www.magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm</guid>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planeswalker&#x27;s Guide to Nauctis: The Sunken Realm</title>
+      <link>https://www.magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-nauctis-the-sunken-realm</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-nauctis-the-sunken-realm</guid>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix Reveals Magic: The Gathering Animated Series PLANESWALKER</title>
+      <link>https://www.magic.wizards.com/en/news/announcements/netflix-reveals-magic-the-gathering-animated-series-planeswalker</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/announcements/netflix-reveals-magic-the-gathering-animated-series-planeswalker</guid>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Artist Credit Update</title>
       <link>https://www.magic.wizards.com/en/news/announcements/artist-credit-update</link>
