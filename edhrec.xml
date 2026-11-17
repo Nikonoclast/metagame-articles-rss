@@ -6,7 +6,14 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Secret Lair Website Afflicted by Optimizely Malware by Josh Nelson</title>
+      <link>https://edhrec.com/articles/secret-lair-website-afflicted-by-optimizely-malware</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-website-afflicted-by-optimizely-malware</guid>
+      <pubDate>Tue, 17 Nov 2026 16:30:00 GMT</pubDate>
+      <dc:creator>Optimizely Malware</dc:creator>
+    </item>
     <item>
       <title>Dathon, His Heart Open | Oops All Enchantment Nonlands on a Budget</title>
       <link>https://edhrec.com/articles/dathon-his-heart-open-oops-all-enchantment-nonlands-on-a-budget</link>
@@ -27,6 +34,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/nauctis-deck-tech-goramou-the-coral-taken</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Bennie Smith</dc:creator>
+      <category>Deck Techs November 17, 2026</category>
+      <description>We got a peek at Nauctis: The Sunken Realm, including a Land Shark of all things! Discard for profit and ramp, then maybe bite some people.</description>
     </item>
     <item>
       <title>Top 10 Most Played Commander Legends Cards</title>
@@ -853,14 +862,6 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Nick Wolf</dc:creator>
       <description>News &amp; Reviews 10/15/26 The Mayor’s Magic Melee turns two days of Commander into an endowment for special education in Newnan, Georgia. Here’s how to help.</description>
-    </item>
-    <item>
-      <title>Reality Fracture Over/Under, Part 1: The Uncommons</title>
-      <link>https://edhrec.com/articles/reality-fracture-over-under-part-1-the-uncommons</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/reality-fracture-over-under-part-1-the-uncommons</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kyle Massa</dc:creator>
-      <description>Lists 10/14/26 Predicting the Over/Under on every Reality Fracture uncommon commander: Kyle calls each one over or under 1,200 decks, from Arni to Yuriko.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
  {
+  "title": "Secret Lair Website Afflicted by Optimizely Malware by Josh Nelson",
+  "link": "https://edhrec.com/articles/secret-lair-website-afflicted-by-optimizely-malware",
+  "published": "2026-11-17T16:30:00Z",
+  "author": "Optimizely Malware",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "Dathon, His Heart Open | Oops All Enchantment Nonlands on a Budget",
   "link": "https://edhrec.com/articles/dathon-his-heart-open-oops-all-enchantment-nonlands-on-a-budget",
   "published": "2026-11-17T12:00:00Z",
@@ -20,8 +28,8 @@
   "link": "https://edhrec.com/articles/nauctis-deck-tech-goramou-the-coral-taken",
   "published": "2026-11-17T12:00:00Z",
   "author": "Bennie Smith",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 17, 2026",
+  "description": "We got a peek at Nauctis: The Sunken Realm, including a Land Shark of all things! Discard for profit and ramp, then maybe bite some people."
  },
  {
   "title": "Top 10 Most Played Commander Legends Cards",
@@ -752,12 +760,5 @@
   "published": "2026-10-15T00:00:00Z",
   "author": "Nick Wolf",
   "description": "News & Reviews 10/15/26 The Mayor’s Magic Melee turns two days of Commander into an endowment for special education in Newnan, Georgia. Here’s how to help."
- },
- {
-  "title": "Reality Fracture Over/Under, Part 1: The Uncommons",
-  "link": "https://edhrec.com/articles/reality-fracture-over-under-part-1-the-uncommons",
-  "published": "2026-10-14T00:00:00Z",
-  "author": "Kyle Massa",
-  "description": "Lists 10/14/26 Predicting the Over/Under on every Reality Fracture uncommon commander: Kyle calls each one over or under 1,200 decks, from Arni to Yuriko."
  }
 ]
