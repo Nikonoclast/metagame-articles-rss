@@ -1,5 +1,45 @@
 [
  {
+  "title": "Dathon, His Heart Open | Oops All Enchantment Nonlands on a Budget",
+  "link": "https://edhrec.com/articles/dathon-his-heart-open-oops-all-enchantment-nonlands-on-a-budget",
+  "published": "2026-11-17T12:00:00Z",
+  "author": "Tyler Bucks",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Every Commander That Cares About Sacrificing, Ranked",
+  "link": "https://edhrec.com/articles/every-commander-that-cares-about-sacrificing-ranked",
+  "published": "2026-11-17T12:00:00Z",
+  "author": "Alejandro Fuentes",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Nauctis Deck Tech: Goramou the Coral-Taken",
+  "link": "https://edhrec.com/articles/nauctis-deck-tech-goramou-the-coral-taken",
+  "published": "2026-11-17T12:00:00Z",
+  "author": "Bennie Smith",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Top 10 Most Played Commander Legends Cards",
+  "link": "https://edhrec.com/articles/top-10-most-played-commander-legends-cards",
+  "published": "2026-11-17T00:00:00Z",
+  "author": "Nick Price",
+  "category": "Data November 17, 2026",
+  "description": "Nick Price counts down the 10 most played Commander Legends cards, with the combos and commanders that keep them in decks."
+ },
+ {
+  "title": "The Return of Removal in cEDH",
+  "link": "https://edhrec.com/articles/the-return-of-removal-in-cedh",
+  "published": "2026-11-17T00:00:00Z",
+  "author": "Harvey McGuinness",
+  "category": "cEDH November 17, 2026",
+  "description": "Harvey McGuinness looks at five creature removal spells worth playing in cEDH as creature-based decks gain ground in the format."
+ },
+ {
   "title": "Have Tacksies Backies Gone Too Far?",
   "link": "https://edhrec.com/articles/have-tacksies-backies-gone-too-far",
   "published": "2026-11-16T12:00:00Z",
@@ -12,16 +52,16 @@
   "link": "https://edhrec.com/articles/a-common-goal-star-trek-deep-space-nine-card-by-card",
   "published": "2026-11-16T12:00:00Z",
   "author": "Card",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 16, 2026",
+  "description": "John analyzes the new Star Trek set card by card, highlighting hits and misses, including the set's representation of DS9's spiritual elements."
  },
  {
   "title": "MagicCon Atlanta 2026 Preview Panel Recap",
   "link": "https://edhrec.com/articles/magiccon-atlanta-2026-preview-panel-recap",
   "published": "2026-11-13T19:30:00Z",
   "author": "Josh Nelson",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 13, 2026",
+  "description": "Here are some of the highlights of the MagicCon Atlanta preview panel, including cards and some of the art from Nauctis: The Sunken Realm!"
  },
  {
   "title": "Resistance is Futile | Star Trek: The Next Generation, Card by Card",
@@ -719,40 +759,5 @@
   "published": "2026-10-14T00:00:00Z",
   "author": "Kyle Massa",
   "description": "Lists 10/14/26 Predicting the Over/Under on every Reality Fracture uncommon commander: Kyle calls each one over or under 1,200 decks, from Arni to Yuriko."
- },
- {
-  "title": "Pester and Petition with this Katilda and Lier Trimmed Deck",
-  "link": "https://edhrec.com/articles/pester-and-petition-with-this-katilda-and-lier-trimmed-deck",
-  "published": "2026-10-14T00:00:00Z",
-  "author": "Arnaud Gompertz",
-  "description": "Deck Techs 10/14/26 This week, Arnaud petitions with a trimmed Katilda and Lier brew. Will you manage to mill your entire deck? Let's find out!"
- },
- {
-  "title": "Am I the Bolas? - Too Much of a Roll?",
-  "link": "https://edhrec.com/articles/am-i-the-bolas-too-much-of-a-roll",
-  "published": "2026-10-14T00:00:00Z",
-  "author": "Mike Carrozza",
-  "description": "Articles 10/14/26 What happens when your deck pops off in a most unexpected way... twice? Come find out in this week's Am I the Bolas?"
- },
- {
-  "title": "Ranking Reality Fracture’s Best Combo Cards | Wombo Combo",
-  "link": "https://edhrec.com/articles/ranking-reality-fractures-best-combo-cards-wombo-combo",
-  "published": "2026-10-14T00:00:00Z",
-  "author": "Ethan Coover",
-  "description": "Lists 10/14/26 The best Reality Fracture combos, ranked by Commander Spellbook data. From Niv-Mizzet to Vraska, the set’s top 10 combo cards."
- },
- {
-  "title": "Changelog: EDHREC Redesign",
-  "link": "https://edhrec.com/articles/changelog-edhrec-redesign",
-  "published": "2026-10-13T00:00:00Z",
-  "author": "GGards",
-  "description": "Changelog 10/13/26 Curious about all the awesome changes that came with the EDHREC redesign? Who better than to walk us through them than one of the devs himself!"
- },
- {
-  "title": "A Chat with EDHREC's Senior Devs on Our Site Redesign",
-  "link": "https://edhrec.com/articles/site-redesign-interview",
-  "published": "2026-10-13T00:00:00Z",
-  "author": "Nick Wolf",
-  "description": "Changelog 10/13/26 We chatted with the core EDHREC Dev Team to learn a bit more about the redesign, as well as who they are as people and Commander players."
  }
 ]
