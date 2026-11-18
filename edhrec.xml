@@ -6,7 +6,21 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Secret Lair X Dune Collaborative Drops Incoming</title>
+      <link>https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming</guid>
+      <pubDate>Wed, 18 Nov 2026 17:30:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
+      <title>November&#x27;s Deckbuilding Contest Finalists: Voting is Live!</title>
+      <link>https://edhrec.com/articles/novembers-deckbuilding-contest-finalists-voting-is-live</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/novembers-deckbuilding-contest-finalists-voting-is-live</guid>
+      <pubDate>Wed, 18 Nov 2026 17:30:00 GMT</pubDate>
+      <dc:creator>Dana Roach</dc:creator>
+    </item>
     <item>
       <title>Star Trek&#x27;s Best Cards for Minotaur Decks</title>
       <link>https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks</link>
@@ -20,6 +34,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/valentin-wears-black-auras-inside-out</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Arnaud Gompertz</dc:creator>
+      <category>Deck Techs November 18, 2026</category>
+      <description>Arnaud looks at the best color combos for an Aura deck, throws the results into the trash, and builds the least likely instead: mono-black.</description>
     </item>
     <item>
       <title>Top Ten Black One-Drops Only Printed Once</title>
@@ -27,6 +43,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/top-ten-black-one-drops-only-printed-once</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Nicholas Lucchesi</dc:creator>
+      <category>Data November 18, 2026</category>
+      <description>Nick Lucchesi looks for the best black one-drops in Commander that have only ever been printed once, from creatures to instants.</description>
     </item>
     <item>
       <title>How Magic&#x27;s Star Trek Handles the Modern Series, Card by Card</title>
@@ -851,22 +869,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Nick Wolf</dc:creator>
       <description>Data 10/16/26 EDHREC’s 2026 salt survey results are in. Stasis sits on top again, but there&#x27;s plenty of movers and shakers below it, including cards new in 2026.</description>
-    </item>
-    <item>
-      <title>Which Cards Are Hot and Cold for Ob Nixilis, Captive Kingpin? | Fire and Ice</title>
-      <link>https://edhrec.com/articles/which-cards-are-hot-and-cold-for-ob-nixilis-captive-kingpin-fire-and-ice</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-ob-nixilis-captive-kingpin-fire-and-ice</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Julia Maddalena</dc:creator>
-      <description>cEDH 10/16/26 EDHREC data on Ob Nixilis, Captive Kingpin: what’s hot and cold in this cEDH Rakdos deck, from Casey Jones to the fading All Will Be One.</description>
-    </item>
-    <item>
-      <title>Zurzoth, Chaos Rider I A Devilish Typal Deck</title>
-      <link>https://edhrec.com/articles/zurzoth-chaos-rider-i-a-devilish-typal-deck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/zurzoth-chaos-rider-i-a-devilish-typal-deck</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jeremy Rowe</dc:creator>
-      <description>Deck Techs 10/16/26 A Halloween Devil typal tech for Zurzoth, Chaos Rider: death by a thousand paper cuts, chaos removal, and damage doublers for the finish.</description>
     </item>
   </channel>
 </rss>

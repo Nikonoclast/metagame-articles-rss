@@ -1,5 +1,21 @@
 [
  {
+  "title": "Secret Lair X Dune Collaborative Drops Incoming",
+  "link": "https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming",
+  "published": "2026-11-18T17:30:00Z",
+  "author": "Josh Nelson",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "November's Deckbuilding Contest Finalists: Voting is Live!",
+  "link": "https://edhrec.com/articles/novembers-deckbuilding-contest-finalists-voting-is-live",
+  "published": "2026-11-18T17:30:00Z",
+  "author": "Dana Roach",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "Star Trek's Best Cards for Minotaur Decks",
   "link": "https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks",
   "published": "2026-11-18T12:00:00Z",
@@ -12,16 +28,16 @@
   "link": "https://edhrec.com/articles/valentin-wears-black-auras-inside-out",
   "published": "2026-11-18T12:00:00Z",
   "author": "Arnaud Gompertz",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 18, 2026",
+  "description": "Arnaud looks at the best color combos for an Aura deck, throws the results into the trash, and builds the least likely instead: mono-black."
  },
  {
   "title": "Top Ten Black One-Drops Only Printed Once",
   "link": "https://edhrec.com/articles/top-ten-black-one-drops-only-printed-once",
   "published": "2026-11-18T12:00:00Z",
   "author": "Nicholas Lucchesi",
-  "category": "",
-  "description": ""
+  "category": "Data November 18, 2026",
+  "description": "Nick Lucchesi looks for the best black one-drops in Commander that have only ever been printed once, from creatures to instants."
  },
  {
   "title": "How Magic's Star Trek Handles the Modern Series, Card by Card",
@@ -751,19 +767,5 @@
   "published": "2026-10-16T00:00:00Z",
   "author": "Nick Wolf",
   "description": "Data 10/16/26 EDHREC’s 2026 salt survey results are in. Stasis sits on top again, but there's plenty of movers and shakers below it, including cards new in 2026."
- },
- {
-  "title": "Which Cards Are Hot and Cold for Ob Nixilis, Captive Kingpin? | Fire and Ice",
-  "link": "https://edhrec.com/articles/which-cards-are-hot-and-cold-for-ob-nixilis-captive-kingpin-fire-and-ice",
-  "published": "2026-10-16T00:00:00Z",
-  "author": "Julia Maddalena",
-  "description": "cEDH 10/16/26 EDHREC data on Ob Nixilis, Captive Kingpin: what’s hot and cold in this cEDH Rakdos deck, from Casey Jones to the fading All Will Be One."
- },
- {
-  "title": "Zurzoth, Chaos Rider I A Devilish Typal Deck",
-  "link": "https://edhrec.com/articles/zurzoth-chaos-rider-i-a-devilish-typal-deck",
-  "published": "2026-10-16T00:00:00Z",
-  "author": "Jeremy Rowe",
-  "description": "Deck Techs 10/16/26 A Halloween Devil typal tech for Zurzoth, Chaos Rider: death by a thousand paper cuts, chaos removal, and damage doublers for the finish."
  }
 ]
