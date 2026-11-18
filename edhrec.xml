@@ -6,13 +6,54 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 16:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Star Trek&#x27;s Best Cards for Minotaur Decks</title>
+      <link>https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Minotaur Reviewer</dc:creator>
+    </item>
+    <item>
+      <title>Valentin Wears Black Auras | Inside Out</title>
+      <link>https://edhrec.com/articles/valentin-wears-black-auras-inside-out</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/valentin-wears-black-auras-inside-out</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Arnaud Gompertz</dc:creator>
+    </item>
+    <item>
+      <title>Top Ten Black One-Drops Only Printed Once</title>
+      <link>https://edhrec.com/articles/top-ten-black-one-drops-only-printed-once</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/top-ten-black-one-drops-only-printed-once</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Nicholas Lucchesi</dc:creator>
+    </item>
+    <item>
+      <title>How Magic&#x27;s Star Trek Handles the Modern Series, Card by Card</title>
+      <link>https://edhrec.com/articles/how-magics-star-trek-handles-the-modern-series-card-by-card</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/how-magics-star-trek-handles-the-modern-series-card-by-card</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Christian Alexander</dc:creator>
+      <category>News &amp; Reviews November 18, 2026</category>
+      <description>How well did Magic capture Star Trek: Voyager? Trekkie Christian digs into the lore behind Janeway, Seven of Nine, Tuvix, and the Prodigy crew.</description>
+    </item>
+    <item>
+      <title>Am I the Bolas? - Fun. I Said It&#x27;s Fun!</title>
+      <link>https://edhrec.com/articles/am-i-the-bolas-fun-i-said-its-fun</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-fun-i-said-its-fun</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Mike Carrozza</dc:creator>
+      <category>Opinion November 18, 2026</category>
+      <description>What happens when everyone&#x27;s technically at the same power level but one person is consistently overpowering the table?</description>
+    </item>
     <item>
       <title>Secret Lair Website Afflicted by Optimizely Malware by Josh Nelson</title>
       <link>https://edhrec.com/articles/secret-lair-website-afflicted-by-optimizely-malware</link>
       <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-website-afflicted-by-optimizely-malware</guid>
       <pubDate>Tue, 17 Nov 2026 16:30:00 GMT</pubDate>
       <dc:creator>Optimizely Malware</dc:creator>
+      <category>News &amp; Reviews November 17, 2026</category>
+      <description>The Secret Lair webstore was affected by a cyberattack which has also affected many different websites across the Internet.</description>
     </item>
     <item>
       <title>Dathon, His Heart Open | Oops All Enchantment Nonlands on a Budget</title>
@@ -20,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/dathon-his-heart-open-oops-all-enchantment-nonlands-on-a-budget</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Tyler Bucks</dc:creator>
+      <category>Deck Techs November 17, 2026</category>
+      <description>Tyler puts together a budget Dathon, His Heart Open Enchantress deck where every nonland card in the list is an enchantment — all for around $40.</description>
     </item>
     <item>
       <title>Every Commander That Cares About Sacrificing, Ranked</title>
@@ -27,6 +70,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/every-commander-that-cares-about-sacrificing-ranked</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Alejandro Fuentes</dc:creator>
+      <category>Lists November 17, 2026</category>
+      <description>Inspired by Marvel: Darkhold Destiny&#x27;s early reveal of Magik, Illyana Rasputin, Alejandro ranks all the Commanders that encourage sacrificing.</description>
     </item>
     <item>
       <title>Nauctis Deck Tech: Goramou the Coral-Taken</title>
@@ -822,46 +867,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Jeremy Rowe</dc:creator>
       <description>Deck Techs 10/16/26 A Halloween Devil typal tech for Zurzoth, Chaos Rider: death by a thousand paper cuts, chaos removal, and damage doublers for the finish.</description>
-    </item>
-    <item>
-      <title>Top 10 Forests</title>
-      <link>https://edhrec.com/articles/top-10-forests</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/top-10-forests</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>DougY</dc:creator>
-      <description>Lists 10/16/26 In today&#x27;s Top 10, we&#x27;re becoming one with nature as Doug presents the top 10 most played Forests in the game.</description>
-    </item>
-    <item>
-      <title>Kenrith, the Returned King | Commander Makeover</title>
-      <link>https://edhrec.com/articles/kenrith-the-returned-king-commander-makeover</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/kenrith-the-returned-king-commander-makeover</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Owain Roberts</dc:creator>
-      <description>Lists 10/16/26 A Commander Makeover for Kenrith, the Returned King, with new Group Hug and Combo cards to refresh the five-color king.</description>
-    </item>
-    <item>
-      <title>Is the New Era of Information Ruining Commander?</title>
-      <link>https://edhrec.com/articles/is-the-new-era-of-information-ruining-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/is-the-new-era-of-information-ruining-commander</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Levi Perry</dc:creator>
-      <description>Opinion 10/15/26 Has easy access to online tools made Commander deckbuilding better or worse? A look at what the information age gives brewers, and costs them.</description>
-    </item>
-    <item>
-      <title>Building Jund Midrange In Commander</title>
-      <link>https://edhrec.com/articles/building-jund-midrange-in-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/building-jund-midrange-in-commander</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kara Blinebry</dc:creator>
-      <description>Articles 10/15/26 One of the most popular competitive decks ever, Jund Midrange is finally being ported over to Commander. Come take a look!</description>
-    </item>
-    <item>
-      <title>Inside the Mayor’s Magic Melee, a Charity Commander Weekend</title>
-      <link>https://edhrec.com/articles/inside-the-mayors-magic-melee-a-charity-commander-weekend</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/inside-the-mayors-magic-melee-a-charity-commander-weekend</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Wolf</dc:creator>
-      <description>News &amp; Reviews 10/15/26 The Mayor’s Magic Melee turns two days of Commander into an endowment for special education in Newnan, Georgia. Here’s how to help.</description>
     </item>
   </channel>
 </rss>
