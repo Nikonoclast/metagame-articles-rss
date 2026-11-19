@@ -1,27 +1,67 @@
 [
  {
+  "title": "The Transdimensional Warp Mechanics of Star Trek!",
+  "link": "https://edhrec.com/articles/the-transdimensional-warp-mechanics-of-star-trek",
+  "published": "2026-11-19T12:00:00Z",
+  "author": "Kurohitsuki",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Jurati, Cordial Queen | Artifact Tokens Aggro",
+  "link": "https://edhrec.com/articles/jurati-cordial-queen-artifact-tokens-aggro",
+  "published": "2026-11-19T12:00:00Z",
+  "author": "Kara Blinebry",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Jace, Multiverse Architect | A $50 Upgrade for Multiverse Reforged",
+  "link": "https://edhrec.com/articles/jace-multiverse-architect-a-50-upgrade-for-multiverse-reforged",
+  "published": "2026-11-19T12:00:00Z",
+  "author": "Ciel Collins",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Mirrodin, Kamigawa, and Eighth Edition | The Block Era",
+  "link": "https://edhrec.com/articles/mirrodin-kamigawa-and-eighth-edition-the-block-era",
+  "published": "2026-11-19T00:00:00Z",
+  "author": "Ezra Sassaman",
+  "category": "Lists November 19, 2026",
+  "description": "Ezra looks back at the Mirrodin and Kamigawa Standard era and the cards from those blocks that are still Commander staples today."
+ },
+ {
+  "title": "A Universe Beyond Universes Beyond | Star Trek: Movies Lore, Card by Card",
+  "link": "https://edhrec.com/articles/a-universe-beyond-universes-beyond-star-trek-movies-lore-card-by-card",
+  "published": "2026-11-19T00:00:00Z",
+  "author": "Christian Alexander",
+  "category": "News & Reviews November 19, 2026",
+  "description": "Christian looks at which Star Trek movies made it into the Magic set, from The Wrath of Khan and First Contact to the Kelvin timeline."
+ },
+ {
   "title": "Secret Lair X Dune Collaborative Drops Incoming",
   "link": "https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming",
   "published": "2026-11-18T17:30:00Z",
   "author": "Josh Nelson",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 18, 2026",
+  "description": "On November 30th, Secret Lair will open its webstore once again, where fans can potentially grab three Dune-themed drops."
  },
  {
   "title": "November's Deckbuilding Contest Finalists: Voting is Live!",
   "link": "https://edhrec.com/articles/novembers-deckbuilding-contest-finalists-voting-is-live",
   "published": "2026-11-18T17:30:00Z",
   "author": "Dana Roach",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 18, 2026",
+  "description": "Dana presents the three finalists for November’s Archidekt Deckbuilding Contest, built around commanders with fewer than 500 decks."
  },
  {
   "title": "Star Trek's Best Cards for Minotaur Decks",
   "link": "https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks",
   "published": "2026-11-18T12:00:00Z",
   "author": "Minotaur Reviewer",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 18, 2026",
+  "description": "The Minotaur Reviewer checks which Star Trek cards earn a spot in Minotaur typal decks, from discard enablers to Group Slug tech."
  },
  {
   "title": "Valentin Wears Black Auras | Inside Out",
@@ -732,40 +772,5 @@
   "published": "2026-10-20T00:00:00Z",
   "author": "Alejandro Fuentes",
   "description": "Lists 10/20/26 Scry is an evergreen mechanic, and many cards trigger off doing so - but which are the best payoffs for a scry-themed Commander deck?"
- },
- {
-  "title": "Luck Skill Victory",
-  "link": "https://edhrec.com/articles/luck-skill-victory",
-  "published": "2026-10-19T00:00:00Z",
-  "author": "Cas Hinds",
-  "description": "Opinion 10/19/26 What really wins games of Commander: luck, skill, or deckbuilding? A reflection on the question through the words of Magic pros."
- },
- {
-  "title": "Making Grixis Discard Fun",
-  "link": "https://edhrec.com/articles/making-grixis-discard-fun",
-  "published": "2026-10-19T00:00:00Z",
-  "author": "John Sherwood",
-  "description": "Deck Techs 10/19/26 Building a Grixis Discard Commander deck that makes hand destruction fun, with a reader vote for its leader: Nicol Bolas or Crosis?"
- },
- {
-  "title": "The Top 10 Most-Played Future Sight Cards",
-  "link": "https://edhrec.com/articles/the-top-10-most-played-future-sight-cards",
-  "published": "2026-10-19T00:00:00Z",
-  "author": "Nick Price",
-  "description": "Data 10/19/26 Counting down the ten most-played Future Sight cards in Commander by deck count, from Nimbus Maze up to Pact of Negation."
- },
- {
-  "title": "Mel or Vorthos? Breaking Down Every Reality Fracture Echo Pair",
-  "link": "https://edhrec.com/articles/mel-or-vorthos-breaking-down-every-reality-fracture-echo-pair",
-  "published": "2026-10-19T00:00:00Z",
-  "author": "Ciel Collins",
-  "description": "Lists 10/19/26 Breaking down every Reality Fracture Echo pair by design: which cards tell their story through mechanics, and which through flavor."
- },
- {
-  "title": "The Results of 2026 Salt Score Voting is Here!",
-  "link": "https://edhrec.com/articles/salt-vote-results-2026",
-  "published": "2026-10-16T00:00:00Z",
-  "author": "Nick Wolf",
-  "description": "Data 10/16/26 EDHREC’s 2026 salt survey results are in. Stasis sits on top again, but there's plenty of movers and shakers below it, including cards new in 2026."
  }
 ]

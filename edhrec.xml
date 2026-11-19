@@ -6,13 +6,54 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>The Transdimensional Warp Mechanics of Star Trek!</title>
+      <link>https://edhrec.com/articles/the-transdimensional-warp-mechanics-of-star-trek</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-transdimensional-warp-mechanics-of-star-trek</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Kurohitsuki</dc:creator>
+    </item>
+    <item>
+      <title>Jurati, Cordial Queen | Artifact Tokens Aggro</title>
+      <link>https://edhrec.com/articles/jurati-cordial-queen-artifact-tokens-aggro</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/jurati-cordial-queen-artifact-tokens-aggro</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Kara Blinebry</dc:creator>
+    </item>
+    <item>
+      <title>Jace, Multiverse Architect | A $50 Upgrade for Multiverse Reforged</title>
+      <link>https://edhrec.com/articles/jace-multiverse-architect-a-50-upgrade-for-multiverse-reforged</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/jace-multiverse-architect-a-50-upgrade-for-multiverse-reforged</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Ciel Collins</dc:creator>
+    </item>
+    <item>
+      <title>Mirrodin, Kamigawa, and Eighth Edition | The Block Era</title>
+      <link>https://edhrec.com/articles/mirrodin-kamigawa-and-eighth-edition-the-block-era</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/mirrodin-kamigawa-and-eighth-edition-the-block-era</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Ezra Sassaman</dc:creator>
+      <category>Lists November 19, 2026</category>
+      <description>Ezra looks back at the Mirrodin and Kamigawa Standard era and the cards from those blocks that are still Commander staples today.</description>
+    </item>
+    <item>
+      <title>A Universe Beyond Universes Beyond | Star Trek: Movies Lore, Card by Card</title>
+      <link>https://edhrec.com/articles/a-universe-beyond-universes-beyond-star-trek-movies-lore-card-by-card</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/a-universe-beyond-universes-beyond-star-trek-movies-lore-card-by-card</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Christian Alexander</dc:creator>
+      <category>News &amp; Reviews November 19, 2026</category>
+      <description>Christian looks at which Star Trek movies made it into the Magic set, from The Wrath of Khan and First Contact to the Kelvin timeline.</description>
+    </item>
     <item>
       <title>Secret Lair X Dune Collaborative Drops Incoming</title>
       <link>https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming</link>
       <guid isPermaLink="true">https://edhrec.com/articles/secret-lair-x-dune-collaborative-drops-incoming</guid>
       <pubDate>Wed, 18 Nov 2026 17:30:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
+      <category>News &amp; Reviews November 18, 2026</category>
+      <description>On November 30th, Secret Lair will open its webstore once again, where fans can potentially grab three Dune-themed drops.</description>
     </item>
     <item>
       <title>November&#x27;s Deckbuilding Contest Finalists: Voting is Live!</title>
@@ -20,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/novembers-deckbuilding-contest-finalists-voting-is-live</guid>
       <pubDate>Wed, 18 Nov 2026 17:30:00 GMT</pubDate>
       <dc:creator>Dana Roach</dc:creator>
+      <category>News &amp; Reviews November 18, 2026</category>
+      <description>Dana presents the three finalists for November’s Archidekt Deckbuilding Contest, built around commanders with fewer than 500 decks.</description>
     </item>
     <item>
       <title>Star Trek&#x27;s Best Cards for Minotaur Decks</title>
@@ -27,6 +70,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/star-treks-best-cards-for-minotaur-decks</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Minotaur Reviewer</dc:creator>
+      <category>News &amp; Reviews November 18, 2026</category>
+      <description>The Minotaur Reviewer checks which Star Trek cards earn a spot in Minotaur typal decks, from discard enablers to Group Slug tech.</description>
     </item>
     <item>
       <title>Valentin Wears Black Auras | Inside Out</title>
@@ -829,46 +874,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Alejandro Fuentes</dc:creator>
       <description>Lists 10/20/26 Scry is an evergreen mechanic, and many cards trigger off doing so - but which are the best payoffs for a scry-themed Commander deck?</description>
-    </item>
-    <item>
-      <title>Luck Skill Victory</title>
-      <link>https://edhrec.com/articles/luck-skill-victory</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/luck-skill-victory</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Cas Hinds</dc:creator>
-      <description>Opinion 10/19/26 What really wins games of Commander: luck, skill, or deckbuilding? A reflection on the question through the words of Magic pros.</description>
-    </item>
-    <item>
-      <title>Making Grixis Discard Fun</title>
-      <link>https://edhrec.com/articles/making-grixis-discard-fun</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/making-grixis-discard-fun</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>John Sherwood</dc:creator>
-      <description>Deck Techs 10/19/26 Building a Grixis Discard Commander deck that makes hand destruction fun, with a reader vote for its leader: Nicol Bolas or Crosis?</description>
-    </item>
-    <item>
-      <title>The Top 10 Most-Played Future Sight Cards</title>
-      <link>https://edhrec.com/articles/the-top-10-most-played-future-sight-cards</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-future-sight-cards</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Price</dc:creator>
-      <description>Data 10/19/26 Counting down the ten most-played Future Sight cards in Commander by deck count, from Nimbus Maze up to Pact of Negation.</description>
-    </item>
-    <item>
-      <title>Mel or Vorthos? Breaking Down Every Reality Fracture Echo Pair</title>
-      <link>https://edhrec.com/articles/mel-or-vorthos-breaking-down-every-reality-fracture-echo-pair</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/mel-or-vorthos-breaking-down-every-reality-fracture-echo-pair</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Ciel Collins</dc:creator>
-      <description>Lists 10/19/26 Breaking down every Reality Fracture Echo pair by design: which cards tell their story through mechanics, and which through flavor.</description>
-    </item>
-    <item>
-      <title>The Results of 2026 Salt Score Voting is Here!</title>
-      <link>https://edhrec.com/articles/salt-vote-results-2026</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/salt-vote-results-2026</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Wolf</dc:creator>
-      <description>Data 10/16/26 EDHREC’s 2026 salt survey results are in. Stasis sits on top again, but there&#x27;s plenty of movers and shakers below it, including cards new in 2026.</description>
     </item>
   </channel>
 </rss>
