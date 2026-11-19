@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Magic Rules Blog: Mana Abilities</title>
+      <link>https://www.magic.wizards.com/en/news/feature/magic-rules-blog-mana-abilities</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/feature/magic-rules-blog-mana-abilities</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Secret Lair: My Arrakis, My Superdrop</title>
       <link>https://www.magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop</link>
