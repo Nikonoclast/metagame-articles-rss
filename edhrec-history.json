@@ -1,27 +1,59 @@
 [
  {
+  "title": "Fire and Ice: Which Cards Are Hot and Cold for the \"Landfall\" Scryfall Tag?",
+  "link": "https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-the-landfall-scryfall-tag",
+  "published": "2026-11-20T12:00:00Z",
+  "author": "Julia Maddalena",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Wade Into Battle | Precon Remastered",
+  "link": "https://edhrec.com/articles/wade-into-battle-precon-remastered",
+  "published": "2026-11-20T12:00:00Z",
+  "author": "Owain Roberts",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Top 10 Spacecraft for Captain Jean-Luc Picard",
+  "link": "https://edhrec.com/articles/top-10-spacecraft-for-captain-jean-luc-picard",
+  "published": "2026-11-20T12:00:00Z",
+  "author": "DougY",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Building Officer Typal with Captain Benjamin Sisko",
+  "link": "https://edhrec.com/articles/building-officer-typal-with-captain-benjamin-sisko",
+  "published": "2026-11-20T00:00:00Z",
+  "author": "Jeremy Rowe",
+  "category": "Deck Techs November 20, 2026",
+  "description": "Jeremy builds a Captain Benjamin Sisko deck for Commander that swarms the board with Officers and rewards every dilemma along the way."
+ },
+ {
   "title": "The Transdimensional Warp Mechanics of Star Trek!",
   "link": "https://edhrec.com/articles/the-transdimensional-warp-mechanics-of-star-trek",
   "published": "2026-11-19T12:00:00Z",
   "author": "Kurohitsuki",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 19, 2026",
+  "description": "Kurohitsuki breaks down the mechanics of the Star Trek set, from beam me up and Federation to assimilate and the returning Spacecraft."
  },
  {
   "title": "Jurati, Cordial Queen | Artifact Tokens Aggro",
   "link": "https://edhrec.com/articles/jurati-cordial-queen-artifact-tokens-aggro",
   "published": "2026-11-19T12:00:00Z",
   "author": "Kara Blinebry",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 19, 2026",
+  "description": "It's the Borg... but nice? Eh, not really: we're still looking to flood the board with artifact creatures."
  },
  {
   "title": "Jace, Multiverse Architect | A $50 Upgrade for Multiverse Reforged",
   "link": "https://edhrec.com/articles/jace-multiverse-architect-a-50-upgrade-for-multiverse-reforged",
   "published": "2026-11-19T12:00:00Z",
   "author": "Ciel Collins",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 19, 2026",
+  "description": "Looking to gift someone the Reality Fracture precon this holiday season? Package these upgrades Ciel recommends to go along with it!"
  },
  {
   "title": "Mirrodin, Kamigawa, and Eighth Edition | The Block Era",
@@ -744,33 +776,5 @@
   "published": "2026-10-20T00:00:00Z",
   "author": "Josh Nelson",
   "description": "News & Reviews 10/20/26 Coming out on November 13th, the upcoming Star Trek set features a whole galaxy's worth of collaborative throwbacks!"
- },
- {
-  "title": "Aerid Konstrari | Gruul Artifact Aggro on a Budget",
-  "link": "https://edhrec.com/articles/aerid-konstrari-gruul-artifact-aggro-on-a-budget",
-  "published": "2026-10-20T00:00:00Z",
-  "author": "Tyler Bucks",
-  "description": "Deck Techs 10/20/26 Tyler builds a Bracket 2 Aerid Konstrari deck, featuring the Gruul artifacts commander from Reality Fracture, on a $45 budget."
- },
- {
-  "title": "A Look at Wheels in cEDH",
-  "link": "https://edhrec.com/articles/a-look-at-wheels-in-cedh",
-  "published": "2026-10-20T00:00:00Z",
-  "author": "Harvey McGuinness",
-  "description": "cEDH 10/20/26 Harvey explains the concept of using Wheels in cEDH, from burst draw and velocity to their relationship with the graveyard."
- },
- {
-  "title": "Darkhold Destiny Deck Tech: Gargantos, the Endbringer",
-  "link": "https://edhrec.com/articles/darkhold-destiny-deck-tech-gargantos-the-endbringer",
-  "published": "2026-10-20T00:00:00Z",
-  "author": "Bennie Smith",
-  "description": "Articles 10/20/26 It's an Elder God Horror, how scary can it be? Bennie Smith brings the cosmic beatdown with this Darkhold Destiny deck tech!"
- },
- {
-  "title": "Ranking Every Card That Cares About When You Scry",
-  "link": "https://edhrec.com/articles/ranking-every-card-that-cares-about-when-you-scry",
-  "published": "2026-10-20T00:00:00Z",
-  "author": "Alejandro Fuentes",
-  "description": "Lists 10/20/26 Scry is an evergreen mechanic, and many cards trigger off doing so - but which are the best payoffs for a scry-themed Commander deck?"
  }
 ]
