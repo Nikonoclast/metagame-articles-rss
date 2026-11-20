@@ -1,5 +1,13 @@
 [
  {
+  "title": "Accessories",
+  "link": "https://edhrec.com/articles/edhrecs-2026-black-friday-gift-guide-for-magic-players",
+  "published": "2026-11-20T17:30:00Z",
+  "author": "Morgan Sanchez",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "Fire and Ice: Which Cards Are Hot and Cold for the \"Landfall\" Scryfall Tag?",
   "link": "https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-the-landfall-scryfall-tag",
   "published": "2026-11-20T12:00:00Z",
@@ -20,8 +28,8 @@
   "link": "https://edhrec.com/articles/top-10-spacecraft-for-captain-jean-luc-picard",
   "published": "2026-11-20T12:00:00Z",
   "author": "DougY",
-  "category": "",
-  "description": ""
+  "category": "Lists November 20, 2026",
+  "description": "Engage! Captain Jean-Luc Picard is here, and he wants to see Spacecraft. Which ones are the best to include in your deck?"
  },
  {
   "title": "Building Officer Typal with Captain Benjamin Sisko",
@@ -769,12 +777,5 @@
   "published": "2026-10-21T00:00:00Z",
   "author": "Arnaud Gompertz",
   "description": "Deck Techs 10/21/26 Meria, Scholar of Antiquity leads a brutal Gruul Stax Control for Bracket 3 - here's a deck tech for Control’s least-played colors."
- },
- {
-  "title": "Star Trek Debut Stream Preview Recap",
-  "link": "https://edhrec.com/articles/star-trek-debut-stream-preview-recap",
-  "published": "2026-10-20T00:00:00Z",
-  "author": "Josh Nelson",
-  "description": "News & Reviews 10/20/26 Coming out on November 13th, the upcoming Star Trek set features a whole galaxy's worth of collaborative throwbacks!"
  }
 ]

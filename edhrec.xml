@@ -6,7 +6,14 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Accessories</title>
+      <link>https://edhrec.com/articles/edhrecs-2026-black-friday-gift-guide-for-magic-players</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/edhrecs-2026-black-friday-gift-guide-for-magic-players</guid>
+      <pubDate>Fri, 20 Nov 2026 17:30:00 GMT</pubDate>
+      <dc:creator>Morgan Sanchez</dc:creator>
+    </item>
     <item>
       <title>Fire and Ice: Which Cards Are Hot and Cold for the &quot;Landfall&quot; Scryfall Tag?</title>
       <link>https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-the-landfall-scryfall-tag</link>
@@ -27,6 +34,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/top-10-spacecraft-for-captain-jean-luc-picard</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>DougY</dc:creator>
+      <category>Lists November 20, 2026</category>
+      <description>Engage! Captain Jean-Luc Picard is here, and he wants to see Spacecraft. Which ones are the best to include in your deck?</description>
     </item>
     <item>
       <title>Building Officer Typal with Captain Benjamin Sisko</title>
@@ -870,14 +879,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Arnaud Gompertz</dc:creator>
       <description>Deck Techs 10/21/26 Meria, Scholar of Antiquity leads a brutal Gruul Stax Control for Bracket 3 - here&#x27;s a deck tech for Control’s least-played colors.</description>
-    </item>
-    <item>
-      <title>Star Trek Debut Stream Preview Recap</title>
-      <link>https://edhrec.com/articles/star-trek-debut-stream-preview-recap</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/star-trek-debut-stream-preview-recap</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Josh Nelson</dc:creator>
-      <description>News &amp; Reviews 10/20/26 Coming out on November 13th, the upcoming Star Trek set features a whole galaxy&#x27;s worth of collaborative throwbacks!</description>
     </item>
   </channel>
 </rss>
