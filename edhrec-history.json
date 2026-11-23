@@ -1,5 +1,29 @@
 [
  {
+  "title": "The Top 10 Most-Played Zendikar Rising Cards",
+  "link": "https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards",
+  "published": "2026-11-23T12:00:00Z",
+  "author": "Nick Price",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Vash, Freelance Archaeologist",
+  "link": "https://edhrec.com/articles/vash-freelance-archaeologist",
+  "published": "2026-11-23T12:00:00Z",
+  "author": "Ciel Collins",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Four Unspoken Rules of Commander",
+  "link": "https://edhrec.com/articles/four-unspoken-rules-of-commander",
+  "published": "2026-11-23T12:00:00Z",
+  "author": "Cas Hinds",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "Accessories",
   "link": "https://edhrec.com/articles/edhrecs-2026-black-friday-gift-guide-for-magic-players",
   "published": "2026-11-20T17:30:00Z",
@@ -12,16 +36,16 @@
   "link": "https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-the-landfall-scryfall-tag",
   "published": "2026-11-20T12:00:00Z",
   "author": "Julia Maddalena",
-  "category": "",
-  "description": ""
+  "category": "Data November 20, 2026",
+  "description": "Julia tracks which landfall cards are heating up and cooling off in Commander, based on deckbuilding data trends among players."
  },
  {
   "title": "Wade Into Battle | Precon Remastered",
   "link": "https://edhrec.com/articles/wade-into-battle-precon-remastered",
   "published": "2026-11-20T12:00:00Z",
   "author": "Owain Roberts",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 20, 2026",
+  "description": "Owain remasters the Wade into Battle precon from Commander 2015, trading Kalemne’s Giants for an Equipment build centered on Sunforger."
  },
  {
   "title": "Top 10 Spacecraft for Captain Jean-Luc Picard",
@@ -756,26 +780,5 @@
   "published": "2026-10-21T00:00:00Z",
   "author": "Harvey McGuinness",
   "description": "News & Reviews 10/21/26 Magic hit a record $616.1 million, about three-quarters of the company’s growth — but the raised guidance quietly signals a weaker Q4."
- },
- {
-  "title": "Am I the Bolas? - Pillowfort Time Suck",
-  "link": "https://edhrec.com/articles/am-i-the-bolas-pillowfort-time-suck",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Mike Carrozza",
-  "description": "Articles 10/21/26 What do you do when someone has slowed the game to a crawl (lasting over three hours!) and stopping everything that you play?"
- },
- {
-  "title": "Which Jace is Best for Commander?",
-  "link": "https://edhrec.com/articles/which-jace-is-best-for-commander",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Nicholas Lucchesi",
-  "description": "Lists 10/21/26 Which Jace is best for Commander? Nick tier-ranks every Jace planeswalker, from the worst of the blue menaces to the one clear winner."
- },
- {
-  "title": "Meria, Scholar of Antiquity Wants Control | Inside Out",
-  "link": "https://edhrec.com/articles/inside-out-this-meria-scholar-of-antiquity-deck-wants-control",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Arnaud Gompertz",
-  "description": "Deck Techs 10/21/26 Meria, Scholar of Antiquity leads a brutal Gruul Stax Control for Bracket 3 - here's a deck tech for Control’s least-played colors."
  }
 ]

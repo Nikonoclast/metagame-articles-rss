@@ -6,7 +6,28 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>The Top 10 Most-Played Zendikar Rising Cards</title>
+      <link>https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Nick Price</dc:creator>
+    </item>
+    <item>
+      <title>Vash, Freelance Archaeologist</title>
+      <link>https://edhrec.com/articles/vash-freelance-archaeologist</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/vash-freelance-archaeologist</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Ciel Collins</dc:creator>
+    </item>
+    <item>
+      <title>Four Unspoken Rules of Commander</title>
+      <link>https://edhrec.com/articles/four-unspoken-rules-of-commander</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/four-unspoken-rules-of-commander</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Cas Hinds</dc:creator>
+    </item>
     <item>
       <title>Accessories</title>
       <link>https://edhrec.com/articles/edhrecs-2026-black-friday-gift-guide-for-magic-players</link>
@@ -20,6 +41,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/fire-and-ice-which-cards-are-hot-and-cold-for-the-landfall-scryfall-tag</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Julia Maddalena</dc:creator>
+      <category>Data November 20, 2026</category>
+      <description>Julia tracks which landfall cards are heating up and cooling off in Commander, based on deckbuilding data trends among players.</description>
     </item>
     <item>
       <title>Wade Into Battle | Precon Remastered</title>
@@ -27,6 +50,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/wade-into-battle-precon-remastered</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Owain Roberts</dc:creator>
+      <category>Deck Techs November 20, 2026</category>
+      <description>Owain remasters the Wade into Battle precon from Commander 2015, trading Kalemne’s Giants for an Equipment build centered on Sunforger.</description>
     </item>
     <item>
       <title>Top 10 Spacecraft for Captain Jean-Luc Picard</title>
@@ -855,30 +880,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Harvey McGuinness</dc:creator>
       <description>News &amp; Reviews 10/21/26 Magic hit a record $616.1 million, about three-quarters of the company’s growth — but the raised guidance quietly signals a weaker Q4.</description>
-    </item>
-    <item>
-      <title>Am I the Bolas? - Pillowfort Time Suck</title>
-      <link>https://edhrec.com/articles/am-i-the-bolas-pillowfort-time-suck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-pillowfort-time-suck</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Mike Carrozza</dc:creator>
-      <description>Articles 10/21/26 What do you do when someone has slowed the game to a crawl (lasting over three hours!) and stopping everything that you play?</description>
-    </item>
-    <item>
-      <title>Which Jace is Best for Commander?</title>
-      <link>https://edhrec.com/articles/which-jace-is-best-for-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/which-jace-is-best-for-commander</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nicholas Lucchesi</dc:creator>
-      <description>Lists 10/21/26 Which Jace is best for Commander? Nick tier-ranks every Jace planeswalker, from the worst of the blue menaces to the one clear winner.</description>
-    </item>
-    <item>
-      <title>Meria, Scholar of Antiquity Wants Control | Inside Out</title>
-      <link>https://edhrec.com/articles/inside-out-this-meria-scholar-of-antiquity-deck-wants-control</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/inside-out-this-meria-scholar-of-antiquity-deck-wants-control</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Arnaud Gompertz</dc:creator>
-      <description>Deck Techs 10/21/26 Meria, Scholar of Antiquity leads a brutal Gruul Stax Control for Bracket 3 - here&#x27;s a deck tech for Control’s least-played colors.</description>
     </item>
   </channel>
 </rss>
