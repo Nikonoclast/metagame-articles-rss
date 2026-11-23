@@ -6,7 +6,13 @@
     <description>Latest Magic: The Gathering articles and news from Wizards of the Coast.</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/wizards-mtg.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Design Files: Fifth Dawn, Part 4</title>
+      <link>https://www.magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-4</link>
+      <guid isPermaLink="true">https://www.magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-4</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Magic Rules Blog: Mana Abilities</title>
       <link>https://www.magic.wizards.com/en/news/feature/magic-rules-blog-mana-abilities</link>
