@@ -1,5 +1,13 @@
 [
  {
+  "title": "Meet Heron Hill Designs, the Indigenous Artists Behind EDHREC's Charity Shirt",
+  "link": "https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt",
+  "published": "2026-11-23T17:30:00Z",
+  "author": "Nick Wolf",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "The Top 10 Most-Played Zendikar Rising Cards",
   "link": "https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards",
   "published": "2026-11-23T12:00:00Z",
@@ -20,8 +28,8 @@
   "link": "https://edhrec.com/articles/four-unspoken-rules-of-commander",
   "published": "2026-11-23T12:00:00Z",
   "author": "Cas Hinds",
-  "category": "",
-  "description": ""
+  "category": "Opinion November 23, 2026",
+  "description": "Cas shares results of an informal poll on the unspoken rules of Commander and breaks down the social contracts every game expects you to know."
  },
  {
   "title": "Accessories",
@@ -773,12 +781,5 @@
   "published": "2026-10-21T00:00:00Z",
   "author": "Nick Wolf",
   "description": "News & Reviews 10/21/26 An interview with Katie Strobel, community artist behind custom-painted Quivers, on the MTG fan art community and the D00-DL Off at MagicCon."
- },
- {
-  "title": "Magic Quarterly Earnings Top $600 Million For The First Time",
-  "link": "https://edhrec.com/articles/magic-quarterly-earnings-top-600-million-for-the-first-time",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Harvey McGuinness",
-  "description": "News & Reviews 10/21/26 Magic hit a record $616.1 million, about three-quarters of the company’s growth — but the raised guidance quietly signals a weaker Q4."
  }
 ]

@@ -6,7 +6,14 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Meet Heron Hill Designs, the Indigenous Artists Behind EDHREC&#x27;s Charity Shirt</title>
+      <link>https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt</guid>
+      <pubDate>Mon, 23 Nov 2026 17:30:00 GMT</pubDate>
+      <dc:creator>Nick Wolf</dc:creator>
+    </item>
     <item>
       <title>The Top 10 Most-Played Zendikar Rising Cards</title>
       <link>https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards</link>
@@ -27,6 +34,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/four-unspoken-rules-of-commander</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Cas Hinds</dc:creator>
+      <category>Opinion November 23, 2026</category>
+      <description>Cas shares results of an informal poll on the unspoken rules of Commander and breaks down the social contracts every game expects you to know.</description>
     </item>
     <item>
       <title>Accessories</title>
@@ -872,14 +881,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Nick Wolf</dc:creator>
       <description>News &amp; Reviews 10/21/26 An interview with Katie Strobel, community artist behind custom-painted Quivers, on the MTG fan art community and the D00-DL Off at MagicCon.</description>
-    </item>
-    <item>
-      <title>Magic Quarterly Earnings Top $600 Million For The First Time</title>
-      <link>https://edhrec.com/articles/magic-quarterly-earnings-top-600-million-for-the-first-time</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/magic-quarterly-earnings-top-600-million-for-the-first-time</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Harvey McGuinness</dc:creator>
-      <description>News &amp; Reviews 10/21/26 Magic hit a record $616.1 million, about three-quarters of the company’s growth — but the raised guidance quietly signals a weaker Q4.</description>
     </item>
   </channel>
 </rss>
