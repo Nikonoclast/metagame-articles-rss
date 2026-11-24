@@ -6,13 +6,45 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Five Ways To Use Borg Cube</title>
+      <link>https://edhrec.com/articles/five-ways-to-use-borg-cube</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/five-ways-to-use-borg-cube</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Alejandro Fuentes</dc:creator>
+    </item>
+    <item>
+      <title>Commander Deck Tech: Chani, Blade of Sietch Tabr</title>
+      <link>https://edhrec.com/articles/commander-deck-tech-chani-blade-of-sietch-tabr</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/commander-deck-tech-chani-blade-of-sietch-tabr</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Bennie Smith</dc:creator>
+    </item>
+    <item>
+      <title>Eirdu, Carrier of Dawn | Budget Aristocrat Deck Tech | The Lost Decks</title>
+      <link>https://edhrec.com/articles/eirdu-carrier-of-dawn-budget-aristocrat-deck-tech-the-lost-decks</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/eirdu-carrier-of-dawn-budget-aristocrat-deck-tech-the-lost-decks</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Tyler Bucks</dc:creator>
+    </item>
+    <item>
+      <title>The New Kinnan on the Block: Breaking Down cEDH &#x27;Little Flips&#x27;</title>
+      <link>https://edhrec.com/articles/the-new-kinnan-on-the-block-breaking-down-cedh-little-flips</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/the-new-kinnan-on-the-block-breaking-down-cedh-little-flips</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Harvey McGuinness</dc:creator>
+      <category>cEDH November 24, 2026</category>
+      <description>Harvey McGuinness breaks down Little Flips, the Kinnan, Bonder Prodigy cEDH build that trades big monsters for a cavalcade of mana producers.</description>
+    </item>
     <item>
       <title>Meet Heron Hill Designs, the Indigenous Artists Behind EDHREC&#x27;s Charity Shirt</title>
       <link>https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt</link>
       <guid isPermaLink="true">https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt</guid>
       <pubDate>Mon, 23 Nov 2026 17:30:00 GMT</pubDate>
       <dc:creator>Nick Wolf</dc:creator>
+      <category>News &amp; Reviews November 23, 2026</category>
+      <description>Nick Wolf chats with artists Joey and Daniel of Heron Hill Designs about Magic, beadwork, and the EDHREC charity shirt he helped design.</description>
     </item>
     <item>
       <title>The Top 10 Most-Played Zendikar Rising Cards</title>
@@ -20,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Nick Price</dc:creator>
+      <category>Data November 23, 2026</category>
+      <description>Nickcounts down the ten most-played Zendikar Rising cards in Commander, from Pathways and MDFCs to the removal spell at the top.</description>
     </item>
     <item>
       <title>Vash, Freelance Archaeologist</title>
@@ -27,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/vash-freelance-archaeologist</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Ciel Collins</dc:creator>
+      <category>Deck Techs November 23, 2026</category>
+      <description>This week, Ciel builds a budget Vash, Freelance Archaeologist deck for Bracket 3 that mills, recurs, and draws off its own graveyard.</description>
     </item>
     <item>
       <title>Four Unspoken Rules of Commander</title>
@@ -849,38 +885,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Landon Crispens</dc:creator>
       <description>Deck Techs 10/22/26 Looking to build a Denzilore Fatehold as a Bracket 3 +1/+1 counters deck powered by scry and surveil? Look no further!</description>
-    </item>
-    <item>
-      <title>Ravnica, Time Spiral, Coldsnap, and 9th Edition | The Block Era</title>
-      <link>https://edhrec.com/articles/ravnica-time-spiral-coldsnap-and-9th-edition-the-block-era</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/ravnica-time-spiral-coldsnap-and-9th-edition-the-block-era</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Ezra Sassaman</dc:creator>
-      <description>Lists 10/22/26 Revisiting an iconic era of Magic, Ezra looks at the 2007 Standard decks and the cards from those sets that still define Commander.</description>
-    </item>
-    <item>
-      <title>Building Izzet Spellementals in Commander</title>
-      <link>https://edhrec.com/articles/building-izzet-spellementals-in-commander</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/building-izzet-spellementals-in-commander</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Kara Blinebry</dc:creator>
-      <description>Deck Techs 10/22/26 Do you like decks that don&#x27;t play the same every time? Do you want to balance spells in your graveyard vs. spells being played? Take a look!</description>
-    </item>
-    <item>
-      <title>October&#x27;s Deckbuilding Contest Finalists: Vote Now</title>
-      <link>https://edhrec.com/articles/octobers-deckbuilding-contest-finalists-vote-now</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/octobers-deckbuilding-contest-finalists-vote-now</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Dana Roach</dc:creator>
-      <description>News &amp; Reviews 10/21/26 Meet the finalists for October&#x27;s Halloween-themed Archidekt deckbuilding contest. Which deck will earn its builder $250 in Cardsphere credit?</description>
-    </item>
-    <item>
-      <title>An Interview with Katie Strobel | Spotlight: Community Art</title>
-      <link>https://edhrec.com/articles/an-interview-with-katie-strobel-spotlight-community-art</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/an-interview-with-katie-strobel-spotlight-community-art</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Nick Wolf</dc:creator>
-      <description>News &amp; Reviews 10/21/26 An interview with Katie Strobel, community artist behind custom-painted Quivers, on the MTG fan art community and the D00-DL Off at MagicCon.</description>
     </item>
   </channel>
 </rss>

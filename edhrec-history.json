@@ -1,27 +1,59 @@
 [
  {
+  "title": "Five Ways To Use Borg Cube",
+  "link": "https://edhrec.com/articles/five-ways-to-use-borg-cube",
+  "published": "2026-11-24T12:00:00Z",
+  "author": "Alejandro Fuentes",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Commander Deck Tech: Chani, Blade of Sietch Tabr",
+  "link": "https://edhrec.com/articles/commander-deck-tech-chani-blade-of-sietch-tabr",
+  "published": "2026-11-24T12:00:00Z",
+  "author": "Bennie Smith",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Eirdu, Carrier of Dawn | Budget Aristocrat Deck Tech | The Lost Decks",
+  "link": "https://edhrec.com/articles/eirdu-carrier-of-dawn-budget-aristocrat-deck-tech-the-lost-decks",
+  "published": "2026-11-24T12:00:00Z",
+  "author": "Tyler Bucks",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "The New Kinnan on the Block: Breaking Down cEDH 'Little Flips'",
+  "link": "https://edhrec.com/articles/the-new-kinnan-on-the-block-breaking-down-cedh-little-flips",
+  "published": "2026-11-24T00:00:00Z",
+  "author": "Harvey McGuinness",
+  "category": "cEDH November 24, 2026",
+  "description": "Harvey McGuinness breaks down Little Flips, the Kinnan, Bonder Prodigy cEDH build that trades big monsters for a cavalcade of mana producers."
+ },
+ {
   "title": "Meet Heron Hill Designs, the Indigenous Artists Behind EDHREC's Charity Shirt",
   "link": "https://edhrec.com/articles/meet-heron-hill-designs-the-indigenous-artists-behind-edhrecs-charity-shirt",
   "published": "2026-11-23T17:30:00Z",
   "author": "Nick Wolf",
-  "category": "",
-  "description": ""
+  "category": "News & Reviews November 23, 2026",
+  "description": "Nick Wolf chats with artists Joey and Daniel of Heron Hill Designs about Magic, beadwork, and the EDHREC charity shirt he helped design."
  },
  {
   "title": "The Top 10 Most-Played Zendikar Rising Cards",
   "link": "https://edhrec.com/articles/the-top-10-most-played-zendikar-rising-cards",
   "published": "2026-11-23T12:00:00Z",
   "author": "Nick Price",
-  "category": "",
-  "description": ""
+  "category": "Data November 23, 2026",
+  "description": "Nickcounts down the ten most-played Zendikar Rising cards in Commander, from Pathways and MDFCs to the removal spell at the top."
  },
  {
   "title": "Vash, Freelance Archaeologist",
   "link": "https://edhrec.com/articles/vash-freelance-archaeologist",
   "published": "2026-11-23T12:00:00Z",
   "author": "Ciel Collins",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 23, 2026",
+  "description": "This week, Ciel builds a budget Vash, Freelance Archaeologist deck for Bracket 3 that mills, recurs, and draws off its own graveyard."
  },
  {
   "title": "Four Unspoken Rules of Commander",
@@ -753,33 +785,5 @@
   "published": "2026-10-22T00:00:00Z",
   "author": "Landon Crispens",
   "description": "Deck Techs 10/22/26 Looking to build a Denzilore Fatehold as a Bracket 3 +1/+1 counters deck powered by scry and surveil? Look no further!"
- },
- {
-  "title": "Ravnica, Time Spiral, Coldsnap, and 9th Edition | The Block Era",
-  "link": "https://edhrec.com/articles/ravnica-time-spiral-coldsnap-and-9th-edition-the-block-era",
-  "published": "2026-10-22T00:00:00Z",
-  "author": "Ezra Sassaman",
-  "description": "Lists 10/22/26 Revisiting an iconic era of Magic, Ezra looks at the 2007 Standard decks and the cards from those sets that still define Commander."
- },
- {
-  "title": "Building Izzet Spellementals in Commander",
-  "link": "https://edhrec.com/articles/building-izzet-spellementals-in-commander",
-  "published": "2026-10-22T00:00:00Z",
-  "author": "Kara Blinebry",
-  "description": "Deck Techs 10/22/26 Do you like decks that don't play the same every time? Do you want to balance spells in your graveyard vs. spells being played? Take a look!"
- },
- {
-  "title": "October's Deckbuilding Contest Finalists: Vote Now",
-  "link": "https://edhrec.com/articles/octobers-deckbuilding-contest-finalists-vote-now",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Dana Roach",
-  "description": "News & Reviews 10/21/26 Meet the finalists for October's Halloween-themed Archidekt deckbuilding contest. Which deck will earn its builder $250 in Cardsphere credit?"
- },
- {
-  "title": "An Interview with Katie Strobel | Spotlight: Community Art",
-  "link": "https://edhrec.com/articles/an-interview-with-katie-strobel-spotlight-community-art",
-  "published": "2026-10-21T00:00:00Z",
-  "author": "Nick Wolf",
-  "description": "News & Reviews 10/21/26 An interview with Katie Strobel, community artist behind custom-painted Quivers, on the MTG fan art community and the D00-DL Off at MagicCon."
  }
 ]
