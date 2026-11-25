@@ -1,27 +1,67 @@
 [
  {
+  "title": "Oops, (Almost) All Lands with Q, Stacking the Deck",
+  "link": "https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck",
+  "published": "2026-11-25T12:00:00Z",
+  "author": "Ethan Coover",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Multicolored Bonanza with this Trimmed Karn, Gilded Guardian Deck",
+  "link": "https://edhrec.com/articles/multicolored-bonanza-with-this-trimmed-karn-gilded-guardian-deck",
+  "published": "2026-11-25T12:00:00Z",
+  "author": "Arnaud Gompertz",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Stax-ing the Deck with Star Trek's Q, Stacking the Deck",
+  "link": "https://edhrec.com/articles/stax-ing-the-deck-with-star-treks-q-stacking-the-deck",
+  "published": "2026-11-25T12:00:00Z",
+  "author": "Josh Nelson",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Dr. Joseph M'Benga | Mono-Green +1/+1 Counters Deck",
+  "link": "https://edhrec.com/articles/dr-joseph-mbenga-mono-green-1-1-counters-deck",
+  "published": "2026-11-25T00:00:00Z",
+  "author": "Landon Crispens",
+  "category": "Deck Techs November 25, 2026",
+  "description": "Landon builds Dr. Joseph M'Benga from Star Trek into a speedy mono-green +1/+1 counters deck with doubled counters and a hexproof squad."
+ },
+ {
+  "title": "Am I the Bolas? - Vocabulary Lesson",
+  "link": "https://edhrec.com/articles/am-i-the-bolas-vocabulary-lesson",
+  "published": "2026-11-25T00:00:00Z",
+  "author": "Mike Carrozza",
+  "category": "Opinion November 25, 2026",
+  "description": "What happens when you know a LOT more about the rules than the folks you're playing with? Mike weighs in on the question."
+ },
+ {
   "title": "Five Ways To Use Borg Cube",
   "link": "https://edhrec.com/articles/five-ways-to-use-borg-cube",
   "published": "2026-11-24T12:00:00Z",
   "author": "Alejandro Fuentes",
-  "category": "",
-  "description": ""
+  "category": "Lists November 24, 2026",
+  "description": "| Art by Alexander Forssberg I don't know why, but the title of this card is cracking me up. It's so literal! Yeah, it's a cube for Borgs, but they couldn't have thought of anything more elaborate? Like, imagine if we just called that big concert venue in Las Vegas \"The Sphere.\" Oh wait. Goofy […]"
  },
  {
   "title": "Commander Deck Tech: Chani, Blade of Sietch Tabr",
   "link": "https://edhrec.com/articles/commander-deck-tech-chani-blade-of-sietch-tabr",
   "published": "2026-11-24T12:00:00Z",
   "author": "Bennie Smith",
-  "category": "",
-  "description": ""
+  "category": "Articles November 24, 2026",
+  "description": "If you're a fan of Dune and a fan of landfall strategies, Chani, Blade of Sietch Tabr from the upcoming Secret Lair drop is spicy!"
  },
  {
   "title": "Eirdu, Carrier of Dawn | Budget Aristocrat Deck Tech | The Lost Decks",
   "link": "https://edhrec.com/articles/eirdu-carrier-of-dawn-budget-aristocrat-deck-tech-the-lost-decks",
   "published": "2026-11-24T12:00:00Z",
   "author": "Tyler Bucks",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 24, 2026",
+  "description": "Budget guru Tyler opens his Lost Decks series with a $45 Eirdu, Carrier of Dawn Aristocrats deck built around persist and a cheap combo."
  },
  {
   "title": "The New Kinnan on the Block: Breaking Down cEDH 'Little Flips'",
@@ -750,40 +790,5 @@
   "published": "2026-10-23T00:00:00Z",
   "author": "Jeremy Rowe",
   "description": "Deck Techs 10/23/26 A spooky Illusions deck tech for Minn, Wily Illusionist, phasing creatures in and out of reality to draw cards and cheat threats into play."
- },
- {
-  "title": "Swell the Host | Precon Remastered",
-  "link": "https://edhrec.com/articles/swell-the-host-precon-remastered",
-  "published": "2026-10-23T00:00:00Z",
-  "author": "Owain Roberts",
-  "description": "Deck Techs 10/23/26 A Precon Makeover of Commander 2015’s Swell the Host: upgrading Ezuri, Claw of Progress into a focused +1/+1 counters/token deck under $120."
- },
- {
-  "title": "Top 10 Large Life Loss Cards for Hela, Mistress of Darkness",
-  "link": "https://edhrec.com/articles/top-10-large-life-loss-cards-for-hela-mistress-of-darkness",
-  "published": "2026-10-23T00:00:00Z",
-  "author": "DougY",
-  "description": "Lists 10/23/26 With Hela, Mistress of Darkness coming to Magic: The Gathering, what are the best ways to make yourself lose life in mono-black?"
- },
- {
-  "title": "Changelog: EDHREC Redesign Follow-Up",
-  "link": "https://edhrec.com/articles/changelog-redesign-follow-up",
-  "published": "2026-10-22T00:00:00Z",
-  "author": "GGards",
-  "description": "Changelog 10/22/26 Just over a week after the EDHREC redesign launch, we have been carefully listening to feedback and making a bunch of improvements and upgrades."
- },
- {
-  "title": "Spock, Logical Choice | A Flash Primer for New Players",
-  "link": "https://edhrec.com/articles/spock-logical-choice-a-flash-primer-for-new-players",
-  "published": "2026-10-22T00:00:00Z",
-  "author": "Jonathan Zucchetti",
-  "description": "Deck Techs 10/22/26 A beginner-friendly Spock, Logical Choice deck tech built to teach new Commander players the power of casting spells on opponents' turns."
- },
- {
-  "title": "Denzilore Fatehold | +1/+1 Counters Deck",
-  "link": "https://edhrec.com/articles/denzilore-fatehold-1-1-counters-deck",
-  "published": "2026-10-22T00:00:00Z",
-  "author": "Landon Crispens",
-  "description": "Deck Techs 10/22/26 Looking to build a Denzilore Fatehold as a Bracket 3 +1/+1 counters deck powered by scry and surveil? Look no further!"
  }
 ]

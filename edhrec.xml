@@ -6,13 +6,54 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Oops, (Almost) All Lands with Q, Stacking the Deck</title>
+      <link>https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Ethan Coover</dc:creator>
+    </item>
+    <item>
+      <title>Multicolored Bonanza with this Trimmed Karn, Gilded Guardian Deck</title>
+      <link>https://edhrec.com/articles/multicolored-bonanza-with-this-trimmed-karn-gilded-guardian-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/multicolored-bonanza-with-this-trimmed-karn-gilded-guardian-deck</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Arnaud Gompertz</dc:creator>
+    </item>
+    <item>
+      <title>Stax-ing the Deck with Star Trek&#x27;s Q, Stacking the Deck</title>
+      <link>https://edhrec.com/articles/stax-ing-the-deck-with-star-treks-q-stacking-the-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/stax-ing-the-deck-with-star-treks-q-stacking-the-deck</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Josh Nelson</dc:creator>
+    </item>
+    <item>
+      <title>Dr. Joseph M&#x27;Benga | Mono-Green +1/+1 Counters Deck</title>
+      <link>https://edhrec.com/articles/dr-joseph-mbenga-mono-green-1-1-counters-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/dr-joseph-mbenga-mono-green-1-1-counters-deck</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Landon Crispens</dc:creator>
+      <category>Deck Techs November 25, 2026</category>
+      <description>Landon builds Dr. Joseph M&#x27;Benga from Star Trek into a speedy mono-green +1/+1 counters deck with doubled counters and a hexproof squad.</description>
+    </item>
+    <item>
+      <title>Am I the Bolas? - Vocabulary Lesson</title>
+      <link>https://edhrec.com/articles/am-i-the-bolas-vocabulary-lesson</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-vocabulary-lesson</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Mike Carrozza</dc:creator>
+      <category>Opinion November 25, 2026</category>
+      <description>What happens when you know a LOT more about the rules than the folks you&#x27;re playing with? Mike weighs in on the question.</description>
+    </item>
     <item>
       <title>Five Ways To Use Borg Cube</title>
       <link>https://edhrec.com/articles/five-ways-to-use-borg-cube</link>
       <guid isPermaLink="true">https://edhrec.com/articles/five-ways-to-use-borg-cube</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Alejandro Fuentes</dc:creator>
+      <category>Lists November 24, 2026</category>
+      <description>| Art by Alexander Forssberg I don&#x27;t know why, but the title of this card is cracking me up. It&#x27;s so literal! Yeah, it&#x27;s a cube for Borgs, but they couldn&#x27;t have thought of anything more elaborate? Like, imagine if we just called that big concert venue in Las Vegas &quot;The Sphere.&quot; Oh wait. Goofy […]</description>
     </item>
     <item>
       <title>Commander Deck Tech: Chani, Blade of Sietch Tabr</title>
@@ -20,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/commander-deck-tech-chani-blade-of-sietch-tabr</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Bennie Smith</dc:creator>
+      <category>Articles November 24, 2026</category>
+      <description>If you&#x27;re a fan of Dune and a fan of landfall strategies, Chani, Blade of Sietch Tabr from the upcoming Secret Lair drop is spicy!</description>
     </item>
     <item>
       <title>Eirdu, Carrier of Dawn | Budget Aristocrat Deck Tech | The Lost Decks</title>
@@ -27,6 +70,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/eirdu-carrier-of-dawn-budget-aristocrat-deck-tech-the-lost-decks</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Tyler Bucks</dc:creator>
+      <category>Deck Techs November 24, 2026</category>
+      <description>Budget guru Tyler opens his Lost Decks series with a $45 Eirdu, Carrier of Dawn Aristocrats deck built around persist and a cheap combo.</description>
     </item>
     <item>
       <title>The New Kinnan on the Block: Breaking Down cEDH &#x27;Little Flips&#x27;</title>
@@ -845,46 +890,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Jeremy Rowe</dc:creator>
       <description>Deck Techs 10/23/26 A spooky Illusions deck tech for Minn, Wily Illusionist, phasing creatures in and out of reality to draw cards and cheat threats into play.</description>
-    </item>
-    <item>
-      <title>Swell the Host | Precon Remastered</title>
-      <link>https://edhrec.com/articles/swell-the-host-precon-remastered</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/swell-the-host-precon-remastered</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Owain Roberts</dc:creator>
-      <description>Deck Techs 10/23/26 A Precon Makeover of Commander 2015’s Swell the Host: upgrading Ezuri, Claw of Progress into a focused +1/+1 counters/token deck under $120.</description>
-    </item>
-    <item>
-      <title>Top 10 Large Life Loss Cards for Hela, Mistress of Darkness</title>
-      <link>https://edhrec.com/articles/top-10-large-life-loss-cards-for-hela-mistress-of-darkness</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/top-10-large-life-loss-cards-for-hela-mistress-of-darkness</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>DougY</dc:creator>
-      <description>Lists 10/23/26 With Hela, Mistress of Darkness coming to Magic: The Gathering, what are the best ways to make yourself lose life in mono-black?</description>
-    </item>
-    <item>
-      <title>Changelog: EDHREC Redesign Follow-Up</title>
-      <link>https://edhrec.com/articles/changelog-redesign-follow-up</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/changelog-redesign-follow-up</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>GGards</dc:creator>
-      <description>Changelog 10/22/26 Just over a week after the EDHREC redesign launch, we have been carefully listening to feedback and making a bunch of improvements and upgrades.</description>
-    </item>
-    <item>
-      <title>Spock, Logical Choice | A Flash Primer for New Players</title>
-      <link>https://edhrec.com/articles/spock-logical-choice-a-flash-primer-for-new-players</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/spock-logical-choice-a-flash-primer-for-new-players</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jonathan Zucchetti</dc:creator>
-      <description>Deck Techs 10/22/26 A beginner-friendly Spock, Logical Choice deck tech built to teach new Commander players the power of casting spells on opponents&#x27; turns.</description>
-    </item>
-    <item>
-      <title>Denzilore Fatehold | +1/+1 Counters Deck</title>
-      <link>https://edhrec.com/articles/denzilore-fatehold-1-1-counters-deck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/denzilore-fatehold-1-1-counters-deck</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Landon Crispens</dc:creator>
-      <description>Deck Techs 10/22/26 Looking to build a Denzilore Fatehold as a Bracket 3 +1/+1 counters deck powered by scry and surveil? Look no further!</description>
     </item>
   </channel>
 </rss>
