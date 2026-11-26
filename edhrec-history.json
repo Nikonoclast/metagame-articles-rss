@@ -1,27 +1,51 @@
 [
  {
+  "title": "Hall of Famer Reid Duke on Being Thankful for Magic",
+  "link": "https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic",
+  "published": "2026-11-26T12:00:00Z",
+  "author": "Nick Wolf",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Being Thankful for the Things We Hate About Magic",
+  "link": "https://edhrec.com/articles/being-thankful-for-the-things-we-hate-about-magic",
+  "published": "2026-11-26T12:00:00Z",
+  "author": "Levi Perry",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Kirk, Alluring Upstart | Legendary Aggro Deck",
+  "link": "https://edhrec.com/articles/kirk-alluring-upstart-legendary-aggro-deck",
+  "published": "2026-11-26T12:00:00Z",
+  "author": "Kara Blinebry",
+  "category": "",
+  "description": ""
+ },
+ {
   "title": "Oops, (Almost) All Lands with Q, Stacking the Deck",
   "link": "https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck",
   "published": "2026-11-25T12:00:00Z",
   "author": "Ethan Coover",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 25, 2026",
+  "description": "Ethan's take on Q, Stacking the Deck from Star Trek is an Oops, All Lands commander, weighing five one-card options and the lands to run."
  },
  {
   "title": "Multicolored Bonanza with this Trimmed Karn, Gilded Guardian Deck",
   "link": "https://edhrec.com/articles/multicolored-bonanza-with-this-trimmed-karn-gilded-guardian-deck",
   "published": "2026-11-25T12:00:00Z",
   "author": "Arnaud Gompertz",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 25, 2026",
+  "description": "Arnaud amasses all the colors of the rainbow into cute little trinkets. Can he make a functional Karn, Gilded Guardian, where no card costs more than $1.10?"
  },
  {
   "title": "Stax-ing the Deck with Star Trek's Q, Stacking the Deck",
   "link": "https://edhrec.com/articles/stax-ing-the-deck-with-star-treks-q-stacking-the-deck",
   "published": "2026-11-25T12:00:00Z",
   "author": "Josh Nelson",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 25, 2026",
+  "description": "Josh Nelson's take on Q, Stacking the Deck leans fully into a mono-red Stax deck, inspired by a decade-old Norin the Wary list."
  },
  {
   "title": "Dr. Joseph M'Benga | Mono-Green +1/+1 Counters Deck",
@@ -769,26 +793,5 @@
   "published": "2026-10-27T00:00:00Z",
   "author": "Benjamin Levin",
   "description": "Deck Techs 10/27/26 Build Codie, Ravenous Codex for $150 as a five-color value deck that copies prepared spells and ends games with a wall of pingers."
- },
- {
-  "title": "When Is It Okay To Spite Play?",
-  "link": "https://edhrec.com/articles/when-is-it-okay-to-spite-play",
-  "published": "2026-10-26T00:00:00Z",
-  "author": "Cas Hinds",
-  "description": "Opinion 10/26/26 Cas analyzes the \"spite play\", walking through three scenarios — pubstomp, collusion, and a grudge — and asks readers to deliver the verdict."
- },
- {
-  "title": "Which Cards Are Hot and Cold for the \"Second Draw Matters\" Scryfall Tag? | Fire and Ice",
-  "link": "https://edhrec.com/articles/which-cards-are-hot-and-cold-for-the-second-draw-matters-scryfall-tag-fire-and-ice",
-  "published": "2026-10-23T00:00:00Z",
-  "author": "Julia Maddalena",
-  "description": "Data 10/23/26 Julia analyzes Fire and Ice scores for a new subcategory of cards: Scryfall o-tags, with this week's focus on \"second-draw-matters.\""
- },
- {
-  "title": "Minn, Wily Illusionist | Building Illusion Typal",
-  "link": "https://edhrec.com/articles/minn-wily-illusionist-building-illusion-typal",
-  "published": "2026-10-23T00:00:00Z",
-  "author": "Jeremy Rowe",
-  "description": "Deck Techs 10/23/26 A spooky Illusions deck tech for Minn, Wily Illusionist, phasing creatures in and out of reality to draw cards and cheat threats into play."
  }
 ]

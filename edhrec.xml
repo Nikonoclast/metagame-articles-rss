@@ -6,13 +6,36 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Hall of Famer Reid Duke on Being Thankful for Magic</title>
+      <link>https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Nick Wolf</dc:creator>
+    </item>
+    <item>
+      <title>Being Thankful for the Things We Hate About Magic</title>
+      <link>https://edhrec.com/articles/being-thankful-for-the-things-we-hate-about-magic</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/being-thankful-for-the-things-we-hate-about-magic</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Levi Perry</dc:creator>
+    </item>
+    <item>
+      <title>Kirk, Alluring Upstart | Legendary Aggro Deck</title>
+      <link>https://edhrec.com/articles/kirk-alluring-upstart-legendary-aggro-deck</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/kirk-alluring-upstart-legendary-aggro-deck</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Kara Blinebry</dc:creator>
+    </item>
     <item>
       <title>Oops, (Almost) All Lands with Q, Stacking the Deck</title>
       <link>https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck</link>
       <guid isPermaLink="true">https://edhrec.com/articles/oops-almost-all-lands-with-q-stacking-the-deck</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Ethan Coover</dc:creator>
+      <category>Deck Techs November 25, 2026</category>
+      <description>Ethan&#x27;s take on Q, Stacking the Deck from Star Trek is an Oops, All Lands commander, weighing five one-card options and the lands to run.</description>
     </item>
     <item>
       <title>Multicolored Bonanza with this Trimmed Karn, Gilded Guardian Deck</title>
@@ -20,6 +43,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/multicolored-bonanza-with-this-trimmed-karn-gilded-guardian-deck</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Arnaud Gompertz</dc:creator>
+      <category>Deck Techs November 25, 2026</category>
+      <description>Arnaud amasses all the colors of the rainbow into cute little trinkets. Can he make a functional Karn, Gilded Guardian, where no card costs more than $1.10?</description>
     </item>
     <item>
       <title>Stax-ing the Deck with Star Trek&#x27;s Q, Stacking the Deck</title>
@@ -27,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/stax-ing-the-deck-with-star-treks-q-stacking-the-deck</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Josh Nelson</dc:creator>
+      <category>Deck Techs November 25, 2026</category>
+      <description>Josh Nelson&#x27;s take on Q, Stacking the Deck leans fully into a mono-red Stax deck, inspired by a decade-old Norin the Wary list.</description>
     </item>
     <item>
       <title>Dr. Joseph M&#x27;Benga | Mono-Green +1/+1 Counters Deck</title>
@@ -866,30 +893,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Benjamin Levin</dc:creator>
       <description>Deck Techs 10/27/26 Build Codie, Ravenous Codex for $150 as a five-color value deck that copies prepared spells and ends games with a wall of pingers.</description>
-    </item>
-    <item>
-      <title>When Is It Okay To Spite Play?</title>
-      <link>https://edhrec.com/articles/when-is-it-okay-to-spite-play</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/when-is-it-okay-to-spite-play</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Cas Hinds</dc:creator>
-      <description>Opinion 10/26/26 Cas analyzes the &quot;spite play&quot;, walking through three scenarios — pubstomp, collusion, and a grudge — and asks readers to deliver the verdict.</description>
-    </item>
-    <item>
-      <title>Which Cards Are Hot and Cold for the &quot;Second Draw Matters&quot; Scryfall Tag? | Fire and Ice</title>
-      <link>https://edhrec.com/articles/which-cards-are-hot-and-cold-for-the-second-draw-matters-scryfall-tag-fire-and-ice</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-the-second-draw-matters-scryfall-tag-fire-and-ice</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Julia Maddalena</dc:creator>
-      <description>Data 10/23/26 Julia analyzes Fire and Ice scores for a new subcategory of cards: Scryfall o-tags, with this week&#x27;s focus on &quot;second-draw-matters.&quot;</description>
-    </item>
-    <item>
-      <title>Minn, Wily Illusionist | Building Illusion Typal</title>
-      <link>https://edhrec.com/articles/minn-wily-illusionist-building-illusion-typal</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/minn-wily-illusionist-building-illusion-typal</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jeremy Rowe</dc:creator>
-      <description>Deck Techs 10/23/26 A spooky Illusions deck tech for Minn, Wily Illusionist, phasing creatures in and out of reality to draw cards and cheat threats into play.</description>
     </item>
   </channel>
 </rss>
