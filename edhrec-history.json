@@ -1,27 +1,59 @@
 [
  {
+  "title": "Revisiting Officer Typal with Captain Jean-Luc Picard",
+  "link": "https://edhrec.com/articles/revisiting-officer-typal-with-captain-jean-luc-picard",
+  "published": "2026-11-27T12:00:00Z",
+  "author": "Jeremy Rowe",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Top 10 Bad Lotuses",
+  "link": "https://edhrec.com/articles/top-10-bad-lotuses",
+  "published": "2026-11-27T12:00:00Z",
+  "author": "DougY",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Which Cards Are Hot and Cold for Jace, Multiverse Architect? | Fire and Ice",
+  "link": "https://edhrec.com/articles/which-cards-are-hot-and-cold-for-jace-multiverse-architect-fire-and-ice",
+  "published": "2026-11-27T12:00:00Z",
+  "author": "Julia Maddalena",
+  "category": "",
+  "description": ""
+ },
+ {
+  "title": "Valgavoth, Harrower of Souls | Commander Makeover",
+  "link": "https://edhrec.com/articles/commander-makeover-valgavoth-harrower-of-souls",
+  "published": "2026-11-27T00:00:00Z",
+  "author": "Owain Roberts",
+  "category": "Deck Techs November 27, 2026",
+  "description": "Owain takes on the Mothman, a.k.a. Valgavoth, Harrower of Souls in this Commander Makeover, adding 13 newer cards to spice up the paingiving."
+ },
+ {
   "title": "Hall of Famer Reid Duke on Being Thankful for Magic",
   "link": "https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic",
   "published": "2026-11-26T12:00:00Z",
   "author": "Nick Wolf",
-  "category": "",
-  "description": ""
+  "category": "Opinion November 26, 2026",
+  "description": "Nick had the chance to chat with Hall of Famer Reid Duke during MagicCon Atlanta, where they discussed what it is that makes Magic special."
  },
  {
   "title": "Being Thankful for the Things We Hate About Magic",
   "link": "https://edhrec.com/articles/being-thankful-for-the-things-we-hate-about-magic",
   "published": "2026-11-26T12:00:00Z",
   "author": "Levi Perry",
-  "category": "",
-  "description": ""
+  "category": "Opinion November 26, 2026",
+  "description": "For Thanksgiving, Levi looks at five parts of Magic he doesn't always enjoy, from salty cards to the Bracket system, and why he's grateful."
  },
  {
   "title": "Kirk, Alluring Upstart | Legendary Aggro Deck",
   "link": "https://edhrec.com/articles/kirk-alluring-upstart-legendary-aggro-deck",
   "published": "2026-11-26T12:00:00Z",
   "author": "Kara Blinebry",
-  "category": "",
-  "description": ""
+  "category": "Deck Techs November 26, 2026",
+  "description": "We're honoring Chris Pine's Kirk and all of the Kelvin timeline Star Trek characters in today's legendary typal deck tech."
  },
  {
   "title": "Oops, (Almost) All Lands with Q, Stacking the Deck",
@@ -765,33 +797,5 @@
   "published": "2026-10-28T00:00:00Z",
   "author": "Ethan Coover",
   "description": "Data 10/28/26 A Halloween Wombo Combo countdown of Commander’s best Nightmare combo cards, from Fear of Lost Teeth to the infinite-turn Wormfang crew."
- },
- {
-  "title": "Get Trimmed Zombies with this Geralf, Visionary Stitcher Deck",
-  "link": "https://edhrec.com/articles/get-trimmed-zombies-with-this-geralf-visionary-stitcher-deck",
-  "published": "2026-10-28T00:00:00Z",
-  "author": "Arnaud Gompertz",
-  "description": "Deck Techs 10/28/26 A Halloween budget deck tech trimming Geralf, Visionary Stitcher down from 252 cards to 100, leaving in the fun stuff, with no card over $1.10."
- },
- {
-  "title": "The Best Superfriends Cards in Reality Fracture",
-  "link": "https://edhrec.com/articles/the-best-superfriends-cards-in-reality-fracture",
-  "published": "2026-10-28T00:00:00Z",
-  "author": "Ciel Collins",
-  "description": "Lists 10/28/26 Reality Fracture is the most Superfriends-friendly set since War of the Spark, so which are the best cards planeswalking in Commander?"
- },
- {
-  "title": "Am I the Bolas? - This Game Has Changed",
-  "link": "https://edhrec.com/articles/am-i-the-bolas-this-game-has-changed",
-  "published": "2026-10-28T00:00:00Z",
-  "author": "Mike Carrozza",
-  "description": "Articles 10/28/26 You think that players are new, but then they flip a Smothering Tithe. Are they actually new, or are they lying about their deck?"
- },
- {
-  "title": "Codie, Ravenous Codex | A $150 Prepared-Spell Deck",
-  "link": "https://edhrec.com/articles/codie-ravenous-codex-a-150-prepared-spell-deck",
-  "published": "2026-10-27T00:00:00Z",
-  "author": "Benjamin Levin",
-  "description": "Deck Techs 10/27/26 Build Codie, Ravenous Codex for $150 as a five-color value deck that copies prepared spells and ends games with a wall of pingers."
  }
 ]

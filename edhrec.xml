@@ -6,13 +6,45 @@
     <description>Latest articles from EDHREC</description>
     <language>en-us</language>
     <atom:link href="https://nikonoclast.github.io/metagame-articles-rss/edhrec.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Revisiting Officer Typal with Captain Jean-Luc Picard</title>
+      <link>https://edhrec.com/articles/revisiting-officer-typal-with-captain-jean-luc-picard</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/revisiting-officer-typal-with-captain-jean-luc-picard</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Jeremy Rowe</dc:creator>
+    </item>
+    <item>
+      <title>Top 10 Bad Lotuses</title>
+      <link>https://edhrec.com/articles/top-10-bad-lotuses</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/top-10-bad-lotuses</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>DougY</dc:creator>
+    </item>
+    <item>
+      <title>Which Cards Are Hot and Cold for Jace, Multiverse Architect? | Fire and Ice</title>
+      <link>https://edhrec.com/articles/which-cards-are-hot-and-cold-for-jace-multiverse-architect-fire-and-ice</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/which-cards-are-hot-and-cold-for-jace-multiverse-architect-fire-and-ice</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Julia Maddalena</dc:creator>
+    </item>
+    <item>
+      <title>Valgavoth, Harrower of Souls | Commander Makeover</title>
+      <link>https://edhrec.com/articles/commander-makeover-valgavoth-harrower-of-souls</link>
+      <guid isPermaLink="true">https://edhrec.com/articles/commander-makeover-valgavoth-harrower-of-souls</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Owain Roberts</dc:creator>
+      <category>Deck Techs November 27, 2026</category>
+      <description>Owain takes on the Mothman, a.k.a. Valgavoth, Harrower of Souls in this Commander Makeover, adding 13 newer cards to spice up the paingiving.</description>
+    </item>
     <item>
       <title>Hall of Famer Reid Duke on Being Thankful for Magic</title>
       <link>https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic</link>
       <guid isPermaLink="true">https://edhrec.com/articles/hall-of-famer-reid-duke-on-being-thankful-for-magic</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Nick Wolf</dc:creator>
+      <category>Opinion November 26, 2026</category>
+      <description>Nick had the chance to chat with Hall of Famer Reid Duke during MagicCon Atlanta, where they discussed what it is that makes Magic special.</description>
     </item>
     <item>
       <title>Being Thankful for the Things We Hate About Magic</title>
@@ -20,6 +52,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/being-thankful-for-the-things-we-hate-about-magic</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Levi Perry</dc:creator>
+      <category>Opinion November 26, 2026</category>
+      <description>For Thanksgiving, Levi looks at five parts of Magic he doesn&#x27;t always enjoy, from salty cards to the Bracket system, and why he&#x27;s grateful.</description>
     </item>
     <item>
       <title>Kirk, Alluring Upstart | Legendary Aggro Deck</title>
@@ -27,6 +61,8 @@
       <guid isPermaLink="true">https://edhrec.com/articles/kirk-alluring-upstart-legendary-aggro-deck</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Kara Blinebry</dc:creator>
+      <category>Deck Techs November 26, 2026</category>
+      <description>We&#x27;re honoring Chris Pine&#x27;s Kirk and all of the Kelvin timeline Star Trek characters in today&#x27;s legendary typal deck tech.</description>
     </item>
     <item>
       <title>Oops, (Almost) All Lands with Q, Stacking the Deck</title>
@@ -861,38 +897,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>Ethan Coover</dc:creator>
       <description>Data 10/28/26 A Halloween Wombo Combo countdown of Commander’s best Nightmare combo cards, from Fear of Lost Teeth to the infinite-turn Wormfang crew.</description>
-    </item>
-    <item>
-      <title>Get Trimmed Zombies with this Geralf, Visionary Stitcher Deck</title>
-      <link>https://edhrec.com/articles/get-trimmed-zombies-with-this-geralf-visionary-stitcher-deck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/get-trimmed-zombies-with-this-geralf-visionary-stitcher-deck</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Arnaud Gompertz</dc:creator>
-      <description>Deck Techs 10/28/26 A Halloween budget deck tech trimming Geralf, Visionary Stitcher down from 252 cards to 100, leaving in the fun stuff, with no card over $1.10.</description>
-    </item>
-    <item>
-      <title>The Best Superfriends Cards in Reality Fracture</title>
-      <link>https://edhrec.com/articles/the-best-superfriends-cards-in-reality-fracture</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/the-best-superfriends-cards-in-reality-fracture</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Ciel Collins</dc:creator>
-      <description>Lists 10/28/26 Reality Fracture is the most Superfriends-friendly set since War of the Spark, so which are the best cards planeswalking in Commander?</description>
-    </item>
-    <item>
-      <title>Am I the Bolas? - This Game Has Changed</title>
-      <link>https://edhrec.com/articles/am-i-the-bolas-this-game-has-changed</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/am-i-the-bolas-this-game-has-changed</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Mike Carrozza</dc:creator>
-      <description>Articles 10/28/26 You think that players are new, but then they flip a Smothering Tithe. Are they actually new, or are they lying about their deck?</description>
-    </item>
-    <item>
-      <title>Codie, Ravenous Codex | A $150 Prepared-Spell Deck</title>
-      <link>https://edhrec.com/articles/codie-ravenous-codex-a-150-prepared-spell-deck</link>
-      <guid isPermaLink="true">https://edhrec.com/articles/codie-ravenous-codex-a-150-prepared-spell-deck</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Benjamin Levin</dc:creator>
-      <description>Deck Techs 10/27/26 Build Codie, Ravenous Codex for $150 as a five-color value deck that copies prepared spells and ends games with a wall of pingers.</description>
     </item>
   </channel>
 </rss>
